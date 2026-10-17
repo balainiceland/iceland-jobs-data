@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-17T14:58:27+00:00",
+  "generated_at": "2026-10-17T15:01:48+00:00",
   "sources": [
     {
       "id": "tvinna",
       "name": "Tvinna",
-      "postings": 1087,
-      "open": 1087
+      "postings": 1204,
+      "open": null
     },
     {
       "id": "alfred",
       "name": "Alfreð",
-      "postings": 622,
+      "postings": 623,
       "open": 622
     },
     {
