@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-10-17T17:40:39+00:00",
-  "open_postings": 672,
-  "classified_open_postings": 672,
+  "generated_at": "2026-10-17T18:17:24+00:00",
+  "open_postings": 618,
+  "open_postings_before_merging": 672,
+  "classified_open_postings": 618,
   "by_major_group": [
     {
       "code": "2",
       "title": "Professionals",
-      "postings": 249
+      "postings": 211
     },
     {
       "code": "5",
@@ -16,17 +17,17 @@
     {
       "code": "3",
       "title": "Technicians and Associate Professionals",
-      "postings": 87
+      "postings": 79
     },
     {
       "code": "7",
       "title": "Craft and Related Trades Workers",
-      "postings": 62
+      "postings": 61
     },
     {
       "code": "1",
       "title": "Managers",
-      "postings": 61
+      "postings": 56
     },
     {
       "code": "4",
@@ -36,7 +37,7 @@
     {
       "code": "9",
       "title": "Elementary Occupations",
-      "postings": 28
+      "postings": 26
     },
     {
       "code": "8",
@@ -52,19 +53,19 @@
   "by_exposure_gradient": [
     {
       "gradient": "Not Exposed",
-      "postings": 331
+      "postings": 299
     },
     {
       "gradient": "Minimal Exposure",
-      "postings": 137
+      "postings": 129
     },
     {
       "gradient": "Exposed: Gradient 3",
-      "postings": 76
+      "postings": 68
     },
     {
       "gradient": "Exposed: Gradient 2",
-      "postings": 64
+      "postings": 59
     },
     {
       "gradient": "Exposed: Gradient 1",
@@ -72,7 +73,7 @@
     },
     {
       "gradient": "Exposed: Gradient 4",
-      "postings": 16
+      "postings": 15
     },
     {
       "gradient": "Not in ILO index",
@@ -88,13 +89,6 @@
       "gradient_2025": "Exposed: Gradient 1"
     },
     {
-      "isco_code": "2221",
-      "title": "Nursing Professionals",
-      "postings": 33,
-      "genai_exposure_2025": 0.25,
-      "gradient_2025": "Not Exposed"
-    },
-    {
       "isco_code": "2342",
       "title": "Early Childhood Educators",
       "postings": 32,
@@ -102,17 +96,10 @@
       "gradient_2025": "Not Exposed"
     },
     {
-      "isco_code": "2512",
-      "title": "Software Developers",
-      "postings": 18,
-      "genai_exposure_2025": 0.53,
-      "gradient_2025": "Exposed: Gradient 3"
-    },
-    {
-      "isco_code": "2212",
-      "title": "Specialist Medical Practitioners",
-      "postings": 17,
-      "genai_exposure_2025": 0.27,
+      "isco_code": "2221",
+      "title": "Nursing Professionals",
+      "postings": 21,
+      "genai_exposure_2025": 0.25,
       "gradient_2025": "Not Exposed"
     },
     {
@@ -123,9 +110,16 @@
       "gradient_2025": "Exposed: Gradient 2"
     },
     {
+      "isco_code": "2512",
+      "title": "Software Developers",
+      "postings": 14,
+      "genai_exposure_2025": 0.53,
+      "gradient_2025": "Exposed: Gradient 3"
+    },
+    {
       "isco_code": "7233",
       "title": "Agricultural and Industrial Machinery Mechanics and Repairers",
-      "postings": 14,
+      "postings": 13,
       "genai_exposure_2025": 0.17,
       "gradient_2025": "Not Exposed"
     },
@@ -151,24 +145,17 @@
       "gradient_2025": "Not Exposed"
     },
     {
+      "isco_code": "2212",
+      "title": "Specialist Medical Practitioners",
+      "postings": 11,
+      "genai_exposure_2025": 0.27,
+      "gradient_2025": "Not Exposed"
+    },
+    {
       "isco_code": "5120",
       "title": "Cooks",
       "postings": 11,
       "genai_exposure_2025": 0.18,
-      "gradient_2025": "Not Exposed"
-    },
-    {
-      "isco_code": "2422",
-      "title": "Policy Administration Professionals",
-      "postings": 10,
-      "genai_exposure_2025": 0.42,
-      "gradient_2025": "Minimal Exposure"
-    },
-    {
-      "isco_code": "2635",
-      "title": "Social Work and Counselling Professionals",
-      "postings": 10,
-      "genai_exposure_2025": 0.28,
       "gradient_2025": "Not Exposed"
     },
     {
@@ -193,17 +180,24 @@
       "gradient_2025": "Not Exposed"
     },
     {
+      "isco_code": "2422",
+      "title": "Policy Administration Professionals",
+      "postings": 8,
+      "genai_exposure_2025": 0.42,
+      "gradient_2025": "Minimal Exposure"
+    },
+    {
+      "isco_code": "2635",
+      "title": "Social Work and Counselling Professionals",
+      "postings": 8,
+      "genai_exposure_2025": 0.28,
+      "gradient_2025": "Not Exposed"
+    },
+    {
       "isco_code": "5131",
       "title": "Waiters",
       "postings": 8,
       "genai_exposure_2025": 0.28,
-      "gradient_2025": "Minimal Exposure"
-    },
-    {
-      "isco_code": "1324",
-      "title": "Supply, Distribution and Related Managers",
-      "postings": 7,
-      "genai_exposure_2025": 0.38,
       "gradient_2025": "Minimal Exposure"
     },
     {
@@ -214,56 +208,63 @@
       "gradient_2025": "Exposed: Gradient 2"
     },
     {
-      "isco_code": "2269",
-      "title": "Health Professionals Not Elsewhere Classified",
+      "isco_code": "3434",
+      "title": "Chefs",
       "postings": 7,
-      "genai_exposure_2025": 0.2,
+      "genai_exposure_2025": 0.25,
       "gradient_2025": "Not Exposed"
+    },
+    {
+      "isco_code": "1324",
+      "title": "Supply, Distribution and Related Managers",
+      "postings": 6,
+      "genai_exposure_2025": 0.38,
+      "gradient_2025": "Minimal Exposure"
     }
   ],
   "ai": {
-    "postings_mentioning_ai": 29,
-    "share_mentioning_ai": 0.043,
-    "ai_roles": 6,
+    "postings_mentioning_ai": 22,
+    "share_mentioning_ai": 0.036,
+    "ai_roles": 4,
     "top_ai_skills": [
       {
         "skill": "ai coding assistants",
         "postings": 4
       },
       {
-        "skill": "experience using ai for analysis, information processing and presentation",
-        "postings": 3
-      },
-      {
         "skill": "experience with ai tools",
-        "postings": 3
-      },
-      {
-        "skill": "ai agents",
         "postings": 2
       },
       {
-        "skill": "building on llms",
-        "postings": 2
-      },
-      {
-        "skill": "llm evaluation",
-        "postings": 2
-      },
-      {
-        "skill": "daily use of ai tools",
-        "postings": 2
-      },
-      {
-        "skill": "reviewing ai-generated code",
-        "postings": 2
+        "skill": "experience using ai for analysis, information processing and presentation",
+        "postings": 1
       },
       {
         "skill": "interest in using ai and automation at work",
         "postings": 1
       },
       {
-        "skill": "ai-assisted development",
+        "skill": "ai technology knowledge",
+        "postings": 1
+      },
+      {
+        "skill": "large language models (llm)",
+        "postings": 1
+      },
+      {
+        "skill": "ai ethics",
+        "postings": 1
+      },
+      {
+        "skill": "ai implementation",
+        "postings": 1
+      },
+      {
+        "skill": "ai training and workshops",
+        "postings": 1
+      },
+      {
+        "skill": "applied artificial intelligence",
         "postings": 1
       }
     ],
@@ -274,11 +275,11 @@
       },
       {
         "tool": "Microsoft Copilot",
-        "postings": 3
+        "postings": 2
       },
       {
         "tool": "Claude",
-        "postings": 2
+        "postings": 1
       },
       {
         "tool": "Cursor",

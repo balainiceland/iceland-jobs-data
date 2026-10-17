@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T17:40:39+00:00",
+  "generated_at": "2026-10-17T18:17:24+00:00",
   "sources": [
     {
       "id": "tvinna",
@@ -45,11 +45,12 @@
     }
   ],
   "classified_share": 1.0,
+  "duplicates_merged": 155,
   "methods": {
     "collected_by": "Startup Iceland jobs research database",
     "sources": "Alfreð (alfred.is), Starfatorg (island.is/starfatorg), Tvinna (tvinna.is), Hagvangur and Intellecta (recruiters). Collected daily since 17 October 2026; Tvinna archive back to 2010.",
     "occupations": "ISCO-08 unit groups, assigned per posting by Claude (Anthropic) from the official ILO list and checked against it.",
     "exposure": "ILO 2025 Refined Global Index of Occupational Exposure to Generative AI: Gmyrek, P., Berg, J., Kamiński, K., et al. (2025), ILO Working Paper 140, data licensed CC BY 4.0. Scores measure technical potential, not expected job loss.",
-    "caveats": "Counts are postings seen, not unique jobs: a job advertised on two sites is counted twice until duplicates are merged. Contact details are removed from all stored postings."
+    "caveats": "Counts are unique jobs: a job advertised on several sites is counted once, matched by link, application page, or employer and title. Contact details are removed from all stored postings."
   }
 }
