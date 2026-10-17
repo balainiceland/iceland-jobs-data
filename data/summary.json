@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T15:13:44+00:00",
+  "generated_at": "2026-10-17T17:40:39+00:00",
   "sources": [
     {
       "id": "tvinna",
       "name": "Tvinna",
       "url": "https://www.tvinna.is",
-      "postings": 1626,
+      "postings": 1694,
       "open": null
     },
     {
@@ -44,7 +44,7 @@
       "open": 5
     }
   ],
-  "classified_share": 0.005,
+  "classified_share": 1.0,
   "methods": {
     "collected_by": "Startup Iceland jobs research database",
     "sources": "Alfreð (alfred.is), Starfatorg (island.is/starfatorg), Tvinna (tvinna.is), Hagvangur and Intellecta (recruiters). Collected daily since 17 October 2026; Tvinna archive back to 2010.",
