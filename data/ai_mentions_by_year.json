@@ -1,13 +1,43 @@
 {
-  "generated_at": "2026-10-17T15:01:48+00:00",
+  "generated_at": "2026-10-17T15:13:44+00:00",
   "source": "Tvinna (tvinna.is) archive: tech and creative jobs, by year posted",
   "method": "A posting counts if its title or text mentions AI, machine learning, generative AI or a named AI tool (keyword match, Icelandic and English).",
   "years": [
     {
-      "year": 2016,
-      "postings": 19,
+      "year": 2011,
+      "postings": 22,
       "mentioning_ai": 0,
       "share": 0.0
+    },
+    {
+      "year": 2012,
+      "postings": 110,
+      "mentioning_ai": 1,
+      "share": 0.009
+    },
+    {
+      "year": 2013,
+      "postings": 65,
+      "mentioning_ai": 0,
+      "share": 0.0
+    },
+    {
+      "year": 2014,
+      "postings": 68,
+      "mentioning_ai": 0,
+      "share": 0.0
+    },
+    {
+      "year": 2015,
+      "postings": 75,
+      "mentioning_ai": 2,
+      "share": 0.027
+    },
+    {
+      "year": 2016,
+      "postings": 101,
+      "mentioning_ai": 3,
+      "share": 0.03
     },
     {
       "year": 2017,
