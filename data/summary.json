@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T07:25:32+00:00",
+  "generated_at": "2026-10-18T09:44:03+00:00",
   "sources": [
     {
       "id": "tvinna",
@@ -12,8 +12,8 @@
       "id": "alfred",
       "name": "Alfreð",
       "url": "https://alfred.is",
-      "postings": 623,
-      "open": 622
+      "postings": 624,
+      "open": 621
     },
     {
       "id": "startupiceland_board",

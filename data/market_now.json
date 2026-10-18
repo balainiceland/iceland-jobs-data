@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T07:25:32+00:00",
+  "generated_at": "2026-10-18T09:44:03+00:00",
   "open_postings": 618,
   "open_postings_before_merging": 672,
   "classified_open_postings": 618,
@@ -7,12 +7,12 @@
     {
       "code": "2",
       "title": "Professionals",
-      "postings": 211
+      "postings": 212
     },
     {
       "code": "5",
       "title": "Service and Sales Workers",
-      "postings": 131
+      "postings": 130
     },
     {
       "code": "3",
@@ -57,11 +57,11 @@
     },
     {
       "gradient": "Minimal Exposure",
-      "postings": 129
+      "postings": 128
     },
     {
       "gradient": "Exposed: Gradient 3",
-      "postings": 68
+      "postings": 69
     },
     {
       "gradient": "Exposed: Gradient 2",
@@ -103,18 +103,18 @@
       "gradient_2025": "Not Exposed"
     },
     {
+      "isco_code": "2512",
+      "title": "Software Developers",
+      "postings": 15,
+      "genai_exposure_2025": 0.53,
+      "gradient_2025": "Exposed: Gradient 3"
+    },
+    {
       "isco_code": "3322",
       "title": "Commercial Sales Representatives",
       "postings": 14,
       "genai_exposure_2025": 0.49,
       "gradient_2025": "Exposed: Gradient 2"
-    },
-    {
-      "isco_code": "2512",
-      "title": "Software Developers",
-      "postings": 14,
-      "genai_exposure_2025": 0.53,
-      "gradient_2025": "Exposed: Gradient 3"
     },
     {
       "isco_code": "7233",
@@ -194,18 +194,18 @@
       "gradient_2025": "Not Exposed"
     },
     {
-      "isco_code": "5131",
-      "title": "Waiters",
-      "postings": 8,
-      "genai_exposure_2025": 0.28,
-      "gradient_2025": "Minimal Exposure"
-    },
-    {
       "isco_code": "1420",
       "title": "Retail and Wholesale Trade Managers",
       "postings": 7,
       "genai_exposure_2025": 0.44,
       "gradient_2025": "Exposed: Gradient 2"
+    },
+    {
+      "isco_code": "5131",
+      "title": "Waiters",
+      "postings": 7,
+      "genai_exposure_2025": 0.28,
+      "gradient_2025": "Minimal Exposure"
     },
     {
       "isco_code": "3434",
@@ -215,16 +215,16 @@
       "gradient_2025": "Not Exposed"
     },
     {
-      "isco_code": "1324",
-      "title": "Supply, Distribution and Related Managers",
+      "isco_code": "2411",
+      "title": "Accountants",
       "postings": 6,
-      "genai_exposure_2025": 0.38,
-      "gradient_2025": "Minimal Exposure"
+      "genai_exposure_2025": 0.51,
+      "gradient_2025": "Exposed: Gradient 3"
     }
   ],
   "ai": {
-    "postings_mentioning_ai": 22,
-    "share_mentioning_ai": 0.036,
+    "postings_mentioning_ai": 23,
+    "share_mentioning_ai": 0.037,
     "ai_roles": 4,
     "top_ai_skills": [
       {

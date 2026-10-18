@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T07:25:32+00:00",
+  "generated_at": "2026-10-18T09:44:03+00:00",
   "available": true,
   "official_quarter": "2026Q2",
   "official_total_vacancies": 3540,
@@ -32,15 +32,15 @@
       "code": "5",
       "sector": "Trade, transport, hotels and restaurants",
       "official_vacancies": 1010,
-      "our_open_jobs": 155,
-      "coverage": 0.153
+      "our_open_jobs": 154,
+      "coverage": 0.152
     },
     {
       "code": "6",
       "sector": "Information and communication",
       "official_vacancies": 80,
-      "our_open_jobs": 41,
-      "coverage": 0.512
+      "our_open_jobs": 42,
+      "coverage": 0.525
     },
     {
       "code": "7",
