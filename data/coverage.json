@@ -1,0 +1,93 @@
+{
+  "generated_at": "2026-10-18T07:25:32+00:00",
+  "available": true,
+  "official_quarter": "2026Q2",
+  "official_total_vacancies": 3540,
+  "our_open_jobs": 618,
+  "coverage": 0.175,
+  "jobs_without_sector": 8,
+  "sectors": [
+    {
+      "code": "1",
+      "sector": "Agriculture, forestry and fishing",
+      "official_vacancies": 100,
+      "our_open_jobs": 7,
+      "coverage": 0.07
+    },
+    {
+      "code": "2",
+      "sector": "Industry, energy and utilities",
+      "official_vacancies": 160,
+      "our_open_jobs": 76,
+      "coverage": 0.475
+    },
+    {
+      "code": "4",
+      "sector": "Construction",
+      "official_vacancies": 680,
+      "our_open_jobs": 22,
+      "coverage": 0.032
+    },
+    {
+      "code": "5",
+      "sector": "Trade, transport, hotels and restaurants",
+      "official_vacancies": 1010,
+      "our_open_jobs": 155,
+      "coverage": 0.153
+    },
+    {
+      "code": "6",
+      "sector": "Information and communication",
+      "official_vacancies": 80,
+      "our_open_jobs": 41,
+      "coverage": 0.512
+    },
+    {
+      "code": "7",
+      "sector": "Finance and insurance",
+      "official_vacancies": 20,
+      "our_open_jobs": 11,
+      "coverage": 0.55
+    },
+    {
+      "code": "8",
+      "sector": "Real estate",
+      "official_vacancies": 10,
+      "our_open_jobs": 4,
+      "coverage": 0.4
+    },
+    {
+      "code": "9",
+      "sector": "Professional and administrative services",
+      "official_vacancies": 740,
+      "our_open_jobs": 45,
+      "coverage": 0.061
+    },
+    {
+      "code": "10",
+      "sector": "Public administration, education and health",
+      "official_vacancies": 340,
+      "our_open_jobs": 234,
+      "coverage": 0.688
+    },
+    {
+      "code": "11",
+      "sector": "Arts, recreation and other services",
+      "official_vacancies": 400,
+      "our_open_jobs": 15,
+      "coverage": 0.037
+    }
+  ],
+  "same_period": [
+    {
+      "quarter": "2026Q4",
+      "days_observed": 2,
+      "complete": false,
+      "avg_open_jobs": 618.0,
+      "official_vacancies": null,
+      "coverage": null
+    }
+  ],
+  "source": "Statistics Iceland, job vacancy survey (table JVS00001), vacancies rounded to tens.",
+  "caveats": "Hagstofa counts vacant positions, including ones never advertised; this page counts advertised jobs, and one ad can be for several positions. Until a full quarter of daily collection exists, today’s open jobs are set against the latest official quarter."
+}
