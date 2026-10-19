@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-18T09:44:03+00:00",
+  "generated_at": "2026-10-19T07:34:56+00:00",
   "available": true,
   "official_quarter": "2026Q2",
   "official_total_vacancies": 3540,
-  "our_open_jobs": 618,
-  "coverage": 0.175,
-  "jobs_without_sector": 8,
+  "our_open_jobs": 617,
+  "coverage": 0.174,
+  "jobs_without_sector": 7,
   "sectors": [
     {
       "code": "1",
@@ -81,9 +81,9 @@
   "same_period": [
     {
       "quarter": "2026Q4",
-      "days_observed": 2,
+      "days_observed": 3,
       "complete": false,
-      "avg_open_jobs": 618.0,
+      "avg_open_jobs": 617.7,
       "official_vacancies": null,
       "coverage": null
     }

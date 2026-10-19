@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18T09:44:03+00:00",
-  "open_postings": 618,
-  "open_postings_before_merging": 672,
-  "classified_open_postings": 618,
+  "generated_at": "2026-10-19T07:34:56+00:00",
+  "open_postings": 617,
+  "open_postings_before_merging": 671,
+  "classified_open_postings": 617,
   "by_major_group": [
     {
       "code": "2",
@@ -12,7 +12,7 @@
     {
       "code": "5",
       "title": "Service and Sales Workers",
-      "postings": 130
+      "postings": 129
     },
     {
       "code": "3",
@@ -69,7 +69,7 @@
     },
     {
       "gradient": "Exposed: Gradient 1",
-      "postings": 44
+      "postings": 43
     },
     {
       "gradient": "Exposed: Gradient 4",
@@ -84,7 +84,7 @@
     {
       "isco_code": "5223",
       "title": "Shop Sales Assistants",
-      "postings": 35,
+      "postings": 34,
       "genai_exposure_2025": 0.38,
       "gradient_2025": "Exposed: Gradient 1"
     },
