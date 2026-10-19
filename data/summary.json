@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T07:34:56+00:00",
+  "generated_at": "2026-10-19T10:53:25+00:00",
   "sources": [
     {
       "id": "tvinna",
@@ -12,8 +12,8 @@
       "id": "alfred",
       "name": "Alfreð",
       "url": "https://alfred.is",
-      "postings": 624,
-      "open": 621
+      "postings": 627,
+      "open": 578
     },
     {
       "id": "startupiceland_board",
@@ -26,15 +26,15 @@
       "id": "starfatorg",
       "name": "Starfatorg",
       "url": "https://island.is/starfatorg",
-      "postings": 136,
-      "open": 136
+      "postings": 139,
+      "open": 139
     },
     {
       "id": "hagvangur",
       "name": "Hagvangur",
       "url": "https://www.hagvangur.is/jobs/",
       "postings": 14,
-      "open": 13
+      "open": 0
     },
     {
       "id": "intellecta",
@@ -44,7 +44,7 @@
       "open": 5
     }
   ],
-  "classified_share": 1.0,
+  "classified_share": 0.997,
   "duplicates_merged": 155,
   "methods": {
     "collected_by": "Startup Iceland jobs research database",

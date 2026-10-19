@@ -1,6 +1,6 @@
 {
  "version": "2.0.0",
- "lastUpdated": "2026-10-19T07:35:05+00:00",
+ "lastUpdated": "2026-10-19T10:53:31+00:00",
  "metadata": {
   "lastUpdated": "2026-10-19",
   "version": "2.0.0",
@@ -155,7 +155,7 @@
    "applicationUrl": "https://alfred.is/starf/maintenance-technician-oessur-1",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-10-19"
   },
   {
@@ -193,7 +193,7 @@
    "applicationUrl": "https://alfred.is/starf/framleidslustarf-i-silicone-kvoeldvaktir-9",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-10-19"
   },
   {
@@ -288,7 +288,7 @@
    "applicationUrl": "https://alfred.is/starf/qc-analytical-product-testing-senior-scientist",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-10-19"
   },
   {
@@ -345,7 +345,7 @@
    "applicationUrl": "https://alfred.is/starf/qa-on-the-floor-specialist-1",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-10-19"
   },
   {
