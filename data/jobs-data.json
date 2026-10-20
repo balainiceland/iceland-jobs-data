@@ -1,10 +1,10 @@
 {
  "version": "2.0.0",
- "lastUpdated": "2026-10-19T10:53:31+00:00",
+ "lastUpdated": "2026-10-20T10:13:11+00:00",
  "metadata": {
-  "lastUpdated": "2026-10-19",
+  "lastUpdated": "2026-10-20",
   "version": "2.0.0",
-  "totalJobs": 583,
+  "totalJobs": 584,
   "source": "Iceland jobs research database (github.com/balainiceland/iceland-jobs-data)"
  },
  "categories": {
@@ -45,6 +45,25 @@
  },
  "jobs": [
   {
+   "id": 3106,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "QC Analytical Product Testing Senior scientist",
+   "description": "The Quality Control department at Alvotech is looking for a dedicated and quality-minded QC Analytical Product Testing Senior scientist with extensive experience in the field, who will be a part of the Quality control team responsible for quality control and release testing of product manufactured at Alvotech.\n\nScope and responsibility:\n\n- Performs routine analytical testing using advanced analytical techniques including Chromatography, Electrophoresis, Compendial and functional testing to support stability, in-process and release analysis.\n\n- Expertise in selected analytical techniques and through understanding and overview of all analytical methods applied for product testing and stability testing.\n\n- Be aware of compendia and routine testing equipment used during product testing\n\n- Complete laboratory documentation and records in accordance with Good Documentation Practices (GDP).\n\n- Proactively communicate analytical issues, deviations, and concerns to relevant stakeholders.\n\n- Review and verify analytical data and test results.\n\n- Support and lead CAPAs, change control, Document change controls and the investigations for quality issues such as Invalid assay, OOS/OOT/OOE results.\n\n- Review and approve technical documentation within the document management system, as required.\n\n- Provide support and oversight to other scientists in the laboratory\n\n- Proactively ensure the QC Analytical laboratory and equipment is at all times maintained in a state of Inspection readiness.\n\n- Perform training of other scientist in laboratory activities and specific methods.\n\n- Creates and updates documents for analytical methods\n\n- Knowledge about basic tasks in the labs and responsible for analytical methods.\n\n- Actively involved and contributes to cross functional activities.\n\nJob requirements:\n\n- Minimum M.S in technical discipline, (e.g., pharmacy, biotechnology, biochemistry, or a related field)\n\n- 5-10 years of experience in Pharmaceutical or Biopharmaceutical industry and preferably a project management background/exposure.\n\n- Good conceptual, problem solving, and organizational skills – must be detail-oriented and able to work independently and in teams\n\n- Independence in assignments. Routinely leads projects and/or supervises small or medium teams. Additionally takes part in larger projects.\n\n- Expert knowledge within field of expertise such as methods, techniques as well as relevant procedural/process knowledge\n\n- Open to flexible working hours.\n\n- Excellent written and verbal communication skills.\n\nWhat we offer:\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and wellbeing support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.\n\nAbout Us\n\nAt Alvotech, we are building a global biotechnology company with a clear purpose: to expand access to high-quality, affordable biologic medicines for patients worldwide. Our people are central to that mission. Across our global teams, we bring together expertise in science, manufacturing, quality and commercial operations to shape the future of biosimilars.\n\nWe offer a dynamic, fast-moving environment where curiosity, initiative and ownership are encouraged. Rooted in Icelandic values and operating on a global stage, we value collaboration, diversity and integrity across everything we do. Our teams work on meaningful challenges, contribute directly to patient impact, and grow alongside the business.\n\nWhether you are at the start of your career or looking to take your next step, Alvotech offers the opportunity to do work that matters, in a company driven by purpose and scale.\n\nIf you do not see a role that matches your experience today, we still welcome general applications from individuals who share our ambition and want to help improve access to biologic medicines worldwide.",
+   "category": "science",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-19",
+   "applicationUrl": "https://alfred.is/starf/qc-analytical-product-testing-senior-scientist-2",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-20"
+  },
+  {
    "id": 1330,
    "company": "Alda Öryggi ehf.",
    "companyLogo": null,
@@ -61,7 +80,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 1333,
@@ -80,7 +99,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 1173,
@@ -99,7 +118,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 1154,
@@ -118,7 +137,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 1135,
@@ -137,7 +156,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 1145,
@@ -175,7 +194,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 1112,
@@ -212,7 +231,7 @@
    "applicationUrl": "https://alfred.is/starf/r-d-stodtaekjafraedingur-oessur",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-10-19"
   },
   {
@@ -251,7 +270,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 571,
@@ -308,7 +327,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 939,
@@ -326,7 +345,7 @@
    "applicationUrl": "https://alfred.is/starf/ai-engineer",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-10-19"
   },
   {
@@ -365,7 +384,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 566,
@@ -440,7 +459,7 @@
    "applicationUrl": "https://alfred.is/starf/senior-specialist-quality-control",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-10-19"
   },
   {
@@ -726,7 +745,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 546,
@@ -859,7 +878,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 818,
@@ -878,7 +897,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 538,
@@ -916,7 +935,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 539,
@@ -1144,7 +1163,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 524,
@@ -1657,7 +1676,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 498,
@@ -2645,7 +2664,7 @@
    "featured": false,
    "startup": true,
    "status": "filled",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 445,
@@ -8345,7 +8364,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 77,
@@ -8383,7 +8402,7 @@
    "featured": true,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 75,
@@ -8402,7 +8421,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 65,
@@ -8554,7 +8573,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 70,
@@ -8573,7 +8592,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 66,
@@ -8611,7 +8630,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 1361,
@@ -8934,7 +8953,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 55,
@@ -9029,7 +9048,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 38,
@@ -9124,7 +9143,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 2,
@@ -9143,7 +9162,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 14,
@@ -9181,7 +9200,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 4,
@@ -9200,7 +9219,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 9,
@@ -9219,7 +9238,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 12,
@@ -9238,7 +9257,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 13,
@@ -9295,7 +9314,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 8,
@@ -9314,7 +9333,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 6,
@@ -9333,7 +9352,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 1,
@@ -9352,7 +9371,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 10,
@@ -9485,7 +9504,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-19"
+   "lastVerified": "2026-10-20"
   },
   {
    "id": 22,
