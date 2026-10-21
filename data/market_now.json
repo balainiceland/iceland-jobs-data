@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-10-20T10:13:05+00:00",
-  "open_postings": 586,
-  "open_postings_before_merging": 636,
-  "classified_open_postings": 536,
+  "generated_at": "2026-10-21T10:19:58+00:00",
+  "open_postings": 583,
+  "open_postings_before_merging": 635,
+  "classified_open_postings": 537,
   "by_major_group": [
     {
       "code": "2",
       "title": "Professionals",
-      "postings": 186
+      "postings": 191
     },
     {
       "code": "5",
       "title": "Service and Sales Workers",
-      "postings": 123
+      "postings": 122
     },
     {
       "code": "3",
       "title": "Technicians and Associate Professionals",
-      "postings": 65
+      "postings": 66
     },
     {
       "code": "7",
       "title": "Craft and Related Trades Workers",
-      "postings": 51
+      "postings": 50
     },
     {
       "code": "1",
       "title": "Managers",
-      "postings": 48
+      "postings": 45
     },
     {
       "code": "4",
       "title": "Clerical Support Workers",
-      "postings": 28
+      "postings": 26
     },
     {
       "code": "9",
@@ -42,38 +42,38 @@
     {
       "code": "8",
       "title": "Plant and Machine Operators, and Assemblers",
-      "postings": 13
+      "postings": 14
     },
     {
       "code": "6",
       "title": "Skilled Agricultural, Forestry and Fishery Workers",
-      "postings": 3
+      "postings": 4
     }
   ],
   "by_exposure_gradient": [
     {
       "gradient": "Not Exposed",
-      "postings": 256
+      "postings": 257
     },
     {
       "gradient": "Minimal Exposure",
-      "postings": 117
+      "postings": 116
     },
     {
       "gradient": "Exposed: Gradient 3",
-      "postings": 59
+      "postings": 55
     },
     {
       "gradient": "Exposed: Gradient 2",
-      "postings": 46
+      "postings": 51
     },
     {
       "gradient": "Exposed: Gradient 1",
-      "postings": 41
+      "postings": 42
     },
     {
       "gradient": "Exposed: Gradient 4",
-      "postings": 13
+      "postings": 12
     },
     {
       "gradient": "Not in ILO index",
@@ -84,14 +84,14 @@
     {
       "isco_code": "5223",
       "title": "Shop Sales Assistants",
-      "postings": 33,
+      "postings": 34,
       "genai_exposure_2025": 0.38,
       "gradient_2025": "Exposed: Gradient 1"
     },
     {
       "isco_code": "2342",
       "title": "Early Childhood Educators",
-      "postings": 27,
+      "postings": 30,
       "genai_exposure_2025": 0.21,
       "gradient_2025": "Not Exposed"
     },
@@ -103,50 +103,36 @@
       "gradient_2025": "Not Exposed"
     },
     {
+      "isco_code": "3322",
+      "title": "Commercial Sales Representatives",
+      "postings": 13,
+      "genai_exposure_2025": 0.49,
+      "gradient_2025": "Exposed: Gradient 2"
+    },
+    {
       "isco_code": "5322",
       "title": "Home-based Personal Care Workers",
-      "postings": 14,
+      "postings": 13,
       "genai_exposure_2025": 0.25,
       "gradient_2025": "Minimal Exposure"
     },
     {
       "isco_code": "2512",
       "title": "Software Developers",
-      "postings": 14,
+      "postings": 12,
       "genai_exposure_2025": 0.53,
       "gradient_2025": "Exposed: Gradient 3"
     },
     {
-      "isco_code": "2341",
-      "title": "Primary School Teachers",
+      "isco_code": "7231",
+      "title": "Motor Vehicle Mechanics and Repairers",
       "postings": 11,
-      "genai_exposure_2025": 0.26,
-      "gradient_2025": "Not Exposed"
-    },
-    {
-      "isco_code": "3322",
-      "title": "Commercial Sales Representatives",
-      "postings": 10,
-      "genai_exposure_2025": 0.49,
-      "gradient_2025": "Exposed: Gradient 2"
-    },
-    {
-      "isco_code": "2212",
-      "title": "Specialist Medical Practitioners",
-      "postings": 10,
-      "genai_exposure_2025": 0.27,
+      "genai_exposure_2025": 0.18,
       "gradient_2025": "Not Exposed"
     },
     {
       "isco_code": "5120",
       "title": "Cooks",
-      "postings": 10,
-      "genai_exposure_2025": 0.18,
-      "gradient_2025": "Not Exposed"
-    },
-    {
-      "isco_code": "7231",
-      "title": "Motor Vehicle Mechanics and Repairers",
       "postings": 10,
       "genai_exposure_2025": 0.18,
       "gradient_2025": "Not Exposed"
@@ -159,11 +145,18 @@
       "gradient_2025": "Not Exposed"
     },
     {
-      "isco_code": "3221",
-      "title": "Nursing Associate Professionals",
+      "isco_code": "2341",
+      "title": "Primary School Teachers",
+      "postings": 10,
+      "genai_exposure_2025": 0.26,
+      "gradient_2025": "Not Exposed"
+    },
+    {
+      "isco_code": "2212",
+      "title": "Specialist Medical Practitioners",
       "postings": 9,
-      "genai_exposure_2025": 0.22,
-      "gradient_2025": "Minimal Exposure"
+      "genai_exposure_2025": 0.27,
+      "gradient_2025": "Not Exposed"
     },
     {
       "isco_code": "5312",
@@ -173,11 +166,11 @@
       "gradient_2025": "Not Exposed"
     },
     {
-      "isco_code": "5311",
-      "title": "Child Care Workers",
-      "postings": 9,
-      "genai_exposure_2025": 0.19,
-      "gradient_2025": "Not Exposed"
+      "isco_code": "1420",
+      "title": "Retail and Wholesale Trade Managers",
+      "postings": 8,
+      "genai_exposure_2025": 0.44,
+      "gradient_2025": "Exposed: Gradient 2"
     },
     {
       "isco_code": "2635",
@@ -187,6 +180,27 @@
       "gradient_2025": "Not Exposed"
     },
     {
+      "isco_code": "5311",
+      "title": "Child Care Workers",
+      "postings": 8,
+      "genai_exposure_2025": 0.19,
+      "gradient_2025": "Not Exposed"
+    },
+    {
+      "isco_code": "5131",
+      "title": "Waiters",
+      "postings": 8,
+      "genai_exposure_2025": 0.28,
+      "gradient_2025": "Minimal Exposure"
+    },
+    {
+      "isco_code": "3221",
+      "title": "Nursing Associate Professionals",
+      "postings": 7,
+      "genai_exposure_2025": 0.22,
+      "gradient_2025": "Minimal Exposure"
+    },
+    {
       "isco_code": "2422",
       "title": "Policy Administration Professionals",
       "postings": 7,
@@ -194,38 +208,24 @@
       "gradient_2025": "Minimal Exposure"
     },
     {
-      "isco_code": "1420",
-      "title": "Retail and Wholesale Trade Managers",
-      "postings": 7,
-      "genai_exposure_2025": 0.44,
+      "isco_code": "2511",
+      "title": "Systems Analysts",
+      "postings": 6,
+      "genai_exposure_2025": 0.49,
       "gradient_2025": "Exposed: Gradient 2"
     },
     {
-      "isco_code": "5131",
-      "title": "Waiters",
-      "postings": 7,
+      "isco_code": "2352",
+      "title": "Special Needs Teachers",
+      "postings": 6,
       "genai_exposure_2025": 0.28,
-      "gradient_2025": "Minimal Exposure"
-    },
-    {
-      "isco_code": "1324",
-      "title": "Supply, Distribution and Related Managers",
-      "postings": 6,
-      "genai_exposure_2025": 0.38,
-      "gradient_2025": "Minimal Exposure"
-    },
-    {
-      "isco_code": "3434",
-      "title": "Chefs",
-      "postings": 6,
-      "genai_exposure_2025": 0.25,
       "gradient_2025": "Not Exposed"
     }
   ],
   "ai": {
     "postings_mentioning_ai": 23,
     "share_mentioning_ai": 0.039,
-    "ai_roles": 3,
+    "ai_roles": 2,
     "top_ai_skills": [
       {
         "skill": "ai coding assistants",
@@ -233,10 +233,6 @@
       },
       {
         "skill": "experience with ai tools",
-        "postings": 2
-      },
-      {
-        "skill": "ai agents",
         "postings": 2
       },
       {
@@ -252,19 +248,23 @@
         "postings": 1
       },
       {
-        "skill": "microsoft copilot solutions",
-        "postings": 1
-      },
-      {
-        "skill": "data & ai solutions",
-        "postings": 1
-      },
-      {
         "skill": "ai in erp solutions",
         "postings": 1
       },
       {
         "skill": "using ai to develop and simplify work processes",
+        "postings": 1
+      },
+      {
+        "skill": "ai-assisted coding",
+        "postings": 1
+      },
+      {
+        "skill": "interest in applying ai",
+        "postings": 1
+      },
+      {
+        "skill": "using ai to improve financial management and analysis",
         "postings": 1
       }
     ],
@@ -274,11 +274,11 @@
         "postings": 5
       },
       {
-        "tool": "Microsoft Copilot",
-        "postings": 2
+        "tool": "Claude",
+        "postings": 1
       },
       {
-        "tool": "Claude",
+        "tool": "Microsoft Copilot",
         "postings": 1
       },
       {
