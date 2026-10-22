@@ -1,10 +1,10 @@
 {
  "version": "2.0.0",
- "lastUpdated": "2026-10-21T10:20:04+00:00",
+ "lastUpdated": "2026-10-22T10:21:26+00:00",
  "metadata": {
-  "lastUpdated": "2026-10-21",
+  "lastUpdated": "2026-10-22",
   "version": "2.0.0",
-  "totalJobs": 587,
+  "totalJobs": 592,
   "source": "Iceland jobs research database (github.com/balainiceland/iceland-jobs-data)"
  },
  "categories": {
@@ -45,6 +45,101 @@
  },
  "jobs": [
   {
+   "id": 3188,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "Associate Scientist, USP Development",
+   "description": "Íslenska\n\nAlvotech leitar að Associate Scientist í frumuræktun til að styrkja USP rannsóknar- og þróunarteymið. Starfið felur í sér stuðning við þróun frumuræktunarferla í smáskala lífhvörfum með það að markmiði að skala upp og yfirfæra ferla yfir í framleiðslu á líftæknilyfjahliðstæðum (biosimilars)\n\n(English)\n\nAlvotech is seeking a dedicated cell culture associate scientist to join our Upstream Process (USP) Research and Development (R&D) team. As an associate scientist, you will play an important support role in our USP team developing a small-scale bioreactor process for subsequent scale-up and transfer to a manufacturing environment for production of biosimilars.\n\nJob Description\n\nScope and responsibility:\n\n-\nGeneral supervision and upkeep of the USP Development laboratory to ensure it remains clean and well-organized.\n\n-\nResponsible for managing, maintaining and stocking the specific USP Development laboratory inventory such as raw material, consumable and equipment supplies etc. Communication with vendors for purchasing and with warehouse/procurement/supply chain regarding orders and tracking.\n\n-\nResponsible for tracking and performing equipment regular maintenance and upkeep of logbooks. Proactively participate in authoring and updating the equipment specific procedures and work instructions.\n\n-\nSupport USP Development scientists in sample labelling, submission, internal/external sample transport and assist in sample result tracking.\n\n-\nSupport USP Development scientists for study preparation and/or execution such as bioreactor assembly/disassembly, daily sampling, raw material dispensing and media/feed preparation etc.\n\n-\nProactively propose general laboratory improvements and willing to take up additional activities, as applicable.\n\nQualifications & Experience:\n\n-\nUniversity degree; BSc or MSc (Preferred) within biotechnology, biochemistry, biochemical engineering or related field.\n\n-\nWork experience in the field of biotechnology or comparable for 1-3 years is an advantage.\n\n-\nPractical lab work experience and basic scientific knowledge within the field of biotechnology or comparable is an advantage.\n\n-\nExcellent command of the English language, both verbal and written, with the ability to communicate fluently.\n\n-\nScientific mindset, solution oriented, great team player with good adaptability and positive attitude.\n\nWhat we offer:\n\n-\nAn inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n-\nThe chance to be a part of a global and fast-growing company.\n\n-\nAn international work culture that encourages diversity, collaboration and inclusion.\n\n-\nPositive, flexible, and innovative work environment.\n\n-\nSupport for personal growth and internal career development.\n\n-\nCompany social events and milestone celebrations.\n\n-\nExcellent in-house canteen and coffee house.\n\n-\nExercise and wellbeing support for full-time employees.\n\n-\nOn-site shower facility.\n\n-\nTransportation grant towards eco-friendly modes of travel for full-time employees.\n\n-\nInternet at home for full-time employees.\n\nWhy Alvotech :\n\nAt Alvotech, we are passionate about improving lives by increasing access to affordable biologics. We’re purpose-driven and committed to fostering an inclusive and diverse working environment that encourages curiosity, ingenuity and simplicity. We want our employees to feel inspired in their careers, challenged by interesting and meaningful work and empowered to succeed in an agile environment.\n\nTrue to our Icelandic roots, we also believe that integrity, gender equality, and fairness are foundational. We strive to bring together the brightest minds regardless of backgrounds and beliefs, to deliver to our partners and patients around the world. Let’s create a healthier world together, through affordable biologic medicines.",
+   "category": "science",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-21",
+   "applicationUrl": "https://alfred.is/starf/associate-scientist-usp-development",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-22"
+  },
+  {
+   "id": 3221,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "QCPD Specialist",
+   "description": "Alvotech is looking for a QA professional supporting combination product and devices R&D and Design Control activities, responsible for the review and approval of quality documentation throughout the product development lifecycle, ensuring compliance with 21 CFR Part 820 and ISO 13485 requirements. Partners closely with R&D teams to provide quality guidance, promote compliance, and support the effective execution of quality procedures. Contributes to the development and continuous improvement of the Quality Management System, authors and reviews quality procedures, leads cross-functional quality initiatives, supports regulatory inspections and health authority interactions, and independently manages quality improvement projects.\n\nSpecifics of the role:\n\n- Execute QA review and approval of various quality related documents generated by CPD R&D during all stages of device design control (DHF, risk management files, and other associated documentation) in a 21 CFR Part 820/ISO 13485 compliant QMS.\n\n- Collaborate with R&D partners in daily compliance activities and coach in executing quality related procedures.\n\n- Contribute to, author, review and approve procedures, and other supporting documents related to CPD processes.\n\n- Contribute as required in design, deployment, and improvements of the phase appropriate Quality Management System (QMS).\n\n- Routinely leads cross functional projects and performs variety of tasks of variable complexity.\n\n- Contribute as required in internal and health authority inspections and any other interactions with regulatory agencies.\n\n- Execute Quality projects independently as assigned.\n\n- Subject matter expert within field (device design control).\n\n- Main scope is internal CPD projects requiring expert QA support\n\n- Quality oversight and support of design control development and validation activities across the entire combination product development lifecycle.\n\n- R&D Quality compliance SME responsible in all phases of the device design control process from concept/feasibility/planning through commercial product lifecycle management\n\n- Application of phase appropriate cGMP design control across the product development lifecycle within the R&D, Quality Management System (QMS), with a specific focus on injectable biosimilar Combination Products and Devices.\n\n- High level of independence and accountability for QA project support according to CPD timelines.\n\n- Performs variety of tasks of variable complexity.\n\n- Participates in large strategic or developmental projects.\n\n- Challenges and decisions faced in the role are often non-precedent.\n\n- Can have impact on large, important projects.\n\nEducation and Experience:\n\n- Bachelor‘s/Master‘s degree in chemistry, biochemistry, biotechnology or equivalent.\n\n- Minimum 5 -10 years' experience in a quality assurance function supporting devices and /or\ncombination products\n\n- Strong working knowledge of ISO 13485/FDA 21 CFR Part 4 and Part 820.\n\n- Proficient in Quality system processes such as CAPA, Change controls, Investigations, and\ndocument management, etc.\n\n- Knowledge of physical device testing and characterization methods.\n\n- Knowledge of physiochemical/bioanalytical methods is a strong plus\n\n- Thorough understanding of regulatory GxP requirements and risk management principles\n\n- Experience in supporting regulatory audits including FDA and EMA is highly desirable.\n\n- Prior experience of using Veeva Quality system is a strong plus.\n\nWhat we offer:\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and wellbeing support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.",
+   "category": "other",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-21",
+   "applicationUrl": "https://alfred.is/starf/qcpd-specialist",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-22"
+  },
+  {
+   "id": 3190,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "Technician in Manufacturing Team",
+   "description": "Gakktu til liðs við framleiðsluteymi hjá Alvotech í Reykjavík! Alvotech starfar í reglubundnu umhverfi þar sem nákvæmni og samviskusemi skipta sköpum. Við leitum að einstaklingum með jákvætt hugarfar, góða aðlögunarhæfni og hæfni til að takast á við áskoranir. Vaktavinna er nauðsynleg og felur í sér dag-, kvöld- og næturvaktir.\n\nHæfniskröfur:\n\n- Að lágmarki 3 ára reynsla í lyfjaiðnaði.\n\n- Góð reynsla af vinnu í A og B vottuðu umhverfi.\n\n- Menntun: BS eða diplóma í tæknigreinum, (t.d. líftækni, verkfræði, lífefnafræði) er kostur en ekki skilyrði.\n\n- Þekking á góðum framleiðslu háttum (GMP) og hæfni til að fylgja verklagsreglum við skráningar.\n\n- Hæfni til þess að vinna vel í teymi.\n\n- Góð enskukunnátta.\n\n[English]\n\nOverview of Role\n\nJoin the Drug Product Manufacturing Team at Alvotech in Reykjavik! Alvotech operates in a highly regulated environment that requires attention to detail and thoroughness. We're seeking someone with strong leadership skills, a positive attitude, and the ability to adapt to challenges. Working day, evening, and night shifts is required.\n\nScope and responsibility:\n\n- Work in accordance with cGMP standards across various cleanroom zones (Grade A, B, C, and CNC).\n\n- Be part of a collaborative team working to meet the drug product (DP) manufacturing schedule.\n\n- Serve as a Subject Matter Expert for PAIs, audits and regulatory agency interactions.\n\n- Author, review and approve written procedures, SOPs, deviations, CAPAs and change controls.\n\n- Ensure DP manufacturing area and equipment are in inspection-ready state through interaction with Engineering, Facilities, and EHS.\n\n- Continuously identify opportunities for process improvement and waste elimination to maintain a lean, flexible and agile manufacturing facility.\n\nJob requirements:\n\n- 3+ years in (bio)pharmaceuticals is required.\n\n- Good experience working in grade A and B environment.\n\n- Education: BSc or Diploma in a Technical Discipline (e.g., biotechnology, engineering, biochemistry or related field) is advantage but not a requirement.\n\n- Knowledge of Good Manufacturing Practices (GMP), documentation rules, and an ability to follow the documentation for the execution of batch records, SOPs and work instructions is required.\n\n- Ability to work well in a team.\n\n- Proficient English skills, Icelandic language not required.\n\nWhat we offer:\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and wellbeing support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.\n\nWhy Alvotech :\n\nAt Alvotech, we are passionate about improving lives by increasing access to affordable biologics. We’re purpose-driven and committed to fostering an inclusive and diverse working environment that encourages curiosity, ingenuity and simplicity. We want our employees to feel inspired in their careers, challenged by interesting and meaningful work and empowered to succeed in an agile environment.\n\nTrue to our Icelandic roots, we also believe that integrity, gender equality, and fairness are foundational. We strive to bring together the brightest minds regardless of backgrounds and beliefs, to deliver to our partners and patients around the world. Let’s create a healthier world together, through affordable biologic medicines.",
+   "category": "production",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-21",
+   "applicationUrl": "https://alfred.is/starf/technician-in-manufacturing-team",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-22"
+  },
+  {
+   "id": 3220,
+   "company": "Arctic Therapeutics ehf.",
+   "companyLogo": null,
+   "title": "Fjármálasérfræðingur hjá Arctic Therapeutics",
+   "description": "Arctic Therapeutics leitar að öflugum fjármálasérfræðingi til starfa. Við leitum að einstaklingi sem hefur gott vald á tölum, vinnur skipulega og vill taka virkan þátt í áframhaldandi uppbyggingu alþjóðlegs nýsköpunarfyrirtækis.\n\nStarfið er fjölbreytt og felur meðal annars í sér umsjón með fjárhagslegum upplýsingum, verkefnabókhaldi, áætlanagerð og eftirfylgni. Mikilvægt er að viðkomandi haldi vel utan um rétta flokkun og skráningu kostnaðar, meðal annars vegna styrktra verkefna þar sem gerðar eru ríkar kröfur um rekjanleika, gögn og fjárhagslegt uppgjör.\n\nVið leitum að einstaklingi sem\n\n-\nHefur mjög góðan talnaskilning og greiningarhæfni.\n\n-\nEr nákvæmur og leggur metnað í rétta og vandaða skráningu.\n\n-\nVinnur skipulega og hefur góða yfirsýn, sér í lagi þegar mörg verkefni eru í gangi.\n\n-\nGetur unnið sjálfstætt og fylgt verkefnum eftir til enda.\n\n-\nEr lausnamiðaður, sveigjanlegur og tilbúinn að takast á við fjölbreytt verkefni.\n\n-\nÁ auðvelt með samstarf og getur miðlað fjárhagsupplýsingum með skýrum hætti.\n\n-\nKann vel við síbreytilegt starfsumhverfi þar sem verkefni og áherslur geta þróast og breyst hratt.",
+   "category": "finance",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Norðurslóð 2, 600 Akureyri",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-21",
+   "applicationUrl": "https://alfred.is/starf/fjarmalaserfrdingur-hja-arctic-therapeutics",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-22"
+  },
+  {
+   "id": 3202,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "Manufacturing eSystems Specialist",
+   "description": "Manufacturing eSystems Specialist\n\nScope and Responsibilities:\n\n- Manufacturing Administration: Manage electronic execution systems, including but not limited to:\n\n- Master Control Electronic Batch Records for (DS): USP, DSP, and Dispensing\n\n- SAP for manufacturing\n\n- eLogbooks in manufacturing.\n\n- Oversight Duties : Oversee the creation, upkeep, and review of:\n\n- Electronic Batch Records for USP, DSP, and Dispensing\n\n- If required, SAP Master Recipes, Process orders, Reservations and Consumption process − Electronic Logbooks for USP, DSP, and Dispensing\n\n- Veeva documentation required for eBR and eSystems (CC, CAPA, DEV)\n\nOversight duties are being performed in collaboration with Subject Matter Expert from each manufacturing function and with collaboration with Quality Assurance.\n\n- Training: Provide training to company employees in the use of eSystems where required and relevant to eSystems requirements.\n\n- Scalability: Adapt to the administration of new eSystems as they are introduced into manufacturing.\n\n- Innovative Improvements:\n\n- Initiate and implement innovative improvements for the systems in use.\n\n- Act as a Subject Matter Expert (SME) for validation and qualification documentation, and collaborate cross-functionally with IT to test and implement innovative solutions, enhance operational efficiency, and ensure compliance with applicable quality standards.\n\n- Independently implement and deliver assigned projects, ensuring timely completion and compliance with quality standards.\n\n- Contribute to team objectives through effective collaboration, knowledge sharing, and teamwork.\n\nJob requirements:\n\n- BSc or Diploma in a Technical Discipline (e.g., pharmacy, biotechnology, biochemistry, engineering, or a related field).\n\n- Preferably 3-5 years of experience in pharmaceutical industry or other related industries.\n\n- Team player with strong organizational skills.\n\n- Excellent written and verbal communication skills.\n\n- Proficient in use of a PC and common Microsoft packages such as Word, Visio, Excel.\n\n- Excellent command of English language, both written and verbal.\n\nWhat we offer:\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and wellbeing support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.\n\nAbout Us\n\nAt Alvotech, we are building a global biotechnology company with a clear purpose: to expand access to high-quality, affordable biologic medicines for patients worldwide. Our people are central to that mission. Across our global teams, we bring together expertise in science, manufacturing, quality and commercial operations to shape the future of biosimilars.\n\nWe offer a dynamic, fast-moving environment where curiosity, initiative and ownership are encouraged. Rooted in Icelandic values and operating on a global stage, we value collaboration, diversity and integrity across everything we do. Our teams work on meaningful challenges, contribute directly to patient impact, and grow alongside the business.\n\nWhether you are at the start of your career or looking to take your next step, Alvotech offers the opportunity to do work that matters, in a company driven by purpose and scale.\n\nIf you do not see a role that matches your experience today, we still welcome general applications from individuals who share our ambition and want to help improve access to biologic medicines worldwide.",
+   "category": "production",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-21",
+   "applicationUrl": "https://alfred.is/starf/manufacturing-esystems-specialist",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-22"
+  },
+  {
    "id": 3157,
    "company": "Alvotech hf",
    "companyLogo": null,
@@ -52,7 +147,7 @@
    "description": "Scope and Responsibilities:\n\n- Management and oversight of individual analytical method transfers for QC, including protocol/report/gap analysis generation and implementation plans, review and approval workflows between the receiving and transferring unit.\n\n- Participate in preparations for regulatory submissions, inspections, and responses to health authorities and/or partners for QC related activities.\n\n- Responsible for ensuring timely completion of individual projects and assisting with establishing and maintaining departmental metrics.\n\n- Independence in assignments and take part in small to medium departmental/cross-functional projects.\n\n- Routinely leads projects internally and with external stakeholders\n\n- Expert knowledge within the field of expertise such as analytical methods, techniques and equipment as well as relevant procedural/process knowledge.\n\n- Ability to discuss challenges and communicate business critical information to supervisor or other relevant stakeholders.\n\nSpecifics of the role:\n\n- Execution of day-to-day activities within the QC department relating to Analytical Method Transfer, Partner requests, CMO requests and Health authority related activities.\n\n- Ensuring timely completion and support to Health Authority related activities, Partner requests and Analytical Method Transfers.\n\n- Performs both routine tasks within procedures, processes and non-routine tasks such as identifying and/or support/lead change controls, document updates, and CAPAs.\n\n- Management of individual Analytical Method Technology transfer/validation documentation.\n\n- Identifying required document changes and updating of quality documentation.\n\n- Provide technical training and support to the team as needed.\n\n- Be aware of and comply with Alvotech’s current EHS policies.\n\nJob requirements:\n\n- Education: Minimum B.S in a technical discipline, (e.g., pharmacy, biotechnology, biochemistry, or a related field)\n\n- Experience: 5+ years of experience in the pharmaceutical or biopharmaceutical industry.\n\n- Experience in quality management system, analytical method transfers, and working cross functionally with excellent communicational skills.\n\n- Good conceptual, problem-solving, and organizational skills – must be detail-oriented, well-organized, and able to work independently and in teams.\n\n- Fluent command of the English language, both written and verbal.\n\nWhat we offer:\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and wellbeing support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.\n\nAbout Us\n\nAt Alvotech, we are building a global biotechnology company with a clear purpose: to expand access to high-quality, affordable biologic medicines for patients worldwide. Our people are central to that mission. Across our global teams, we bring together expertise in science, manufacturing, quality and commercial operations to shape the future of biosimilars.\n\nWe offer a dynamic, fast-moving environment where curiosity, initiative and ownership are encouraged. Rooted in Icelandic values and operating on a global stage, we value collaboration, diversity and integrity across everything we do. Our teams work on meaningful challenges, contribute directly to patient impact, and grow alongside the business.\n\nWhether you are at the start of your career or looking to take your next step, Alvotech offers the opportunity to do work that matters, in a company driven by purpose and scale.\n\nIf you do not see a role that matches your experience today, we still welcome general applications from individuals who share our ambition and want to help improve access to biologic medicines worldwide.",
    "category": "other",
    "type": "full-time",
-   "experienceLevel": "mid",
+   "experienceLevel": "senior",
    "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
    "remote": "onsite",
    "salary": null,
@@ -61,26 +156,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
-  },
-  {
-   "id": 3145,
-   "company": "Alvotech hf",
-   "companyLogo": null,
-   "title": "Framleiðslutæknir / Manufacturing Technologist",
-   "description": "Gakktu til liðs við framleiðsluteymið hjá Alvotech í Reykjavík! Við leitum að einstaklingum með jákvætt viðhorf, góða aðlögunarhæfni og getu til að takast á við áskoranir. Vinna á dag- og kvöldvöktum er nauðsynleg.\n\nÞessi staða býður upp á hagnýta reynslu í alþjóðlegu umhverfi ásamt fjölbreyttum tækifærum til starfsþróunar!\n\nHelstu verkefni og ábyrgð:\n\n- Flutningur framleiðsluefna frá vöruhúsi yfir í Class D svæði.\n\n- Fylla á og viðhalda Kanban efnaherbergjum á DSM1 og DSM2 svæðum.\n\n- Tryggja að framleiðsluáætlun sé uppfærð.\n\n- Styðja við heildarframleiðslu og tryggja að áætlanagerð sé rétt framkvæmd.\n\nHæfniskröfur:\n\n- Grunnþekking á viðeigandi ferlum og tækni.\n\n- Framúrskarandi samskiptahæfileikar.\n\n- Geta til að vinna í teymi.\n\n- Stundvísi og áreiðanleiki.\n\n- Sveigjanleiki og góð aðlögunarhæfni.\n\n[English]\n\nJoin our production team at Alvotech in Reykjavík!\n\nWe are looking for individuals with a positive attitude, strong adaptability, and the ability to tackle challenges. Working day and evening shifts is required.\n\nThis position offers hands-on experience in an international environment along with diverse opportunities for professional development!\n\nKey Responsibilities:\n\n- Material transfer of process materials from Warehouse to Class D area.\n\n- To stock up and maintain Kanban material rooms in DSM1 and DSM2 areas.\n\n- Ensure to update planning related activities.\n\n- To support overall manufacturing & ensure planning is performed properly.\n\nQualifications:\n\n- Basic technical or administrative knowledge or relevant process knowledge.\n\n- Adhere to the company etiquette in all matters of behavior and manners.\n\n- Excellent communication skills.\n\n- Strong work ethic and proven ability to collaborate effectively in team\n\n- Punctual and reliable.\n\n- Flexible/adaptable.\n\nWhat we offer:\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and wellbeing support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.\n\nAbout Us\n\nAt Alvotech, we are building a global biotechnology company with a clear purpose: to expand access to high-quality, affordable biologic medicines for patients worldwide. Our people are central to that mission. Across our global teams, we bring together expertise in science, manufacturing, quality and commercial operations to shape the future of biosimilars.\n\nWe offer a dynamic, fast-moving environment where curiosity, initiative and ownership are encouraged. Rooted in Icelandic values and operating on a global stage, we value collaboration, diversity and integrity across everything we do. Our teams work on meaningful challenges, contribute directly to patient impact, and grow alongside the business.\n\nWhether you are at the start of your career or looking to take your next step, Alvotech offers the opportunity to do work that matters, in a company driven by purpose and scale.\n\nIf you do not see a role that matches your experience today, we still welcome general applications from individuals who share our ambition and want to help improve access to biologic medicines worldwide.",
-   "category": "production",
-   "type": "full-time",
-   "experienceLevel": "mid",
-   "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
-   "remote": "onsite",
-   "salary": null,
-   "postedDate": "2026-10-20",
-   "applicationUrl": "https://alfred.is/starf/framleidslutknir-manufacturing-technologist-1",
-   "featured": false,
-   "startup": true,
-   "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 3154,
@@ -99,7 +175,26 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
+  },
+  {
+   "id": 3145,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "Framleiðslutæknir / Manufacturing Technologist",
+   "description": "Gakktu til liðs við framleiðsluteymið hjá Alvotech í Reykjavík! Við leitum að einstaklingum með jákvætt viðhorf, góða aðlögunarhæfni og getu til að takast á við áskoranir. Vinna á dag- og kvöldvöktum er nauðsynleg.\n\nÞessi staða býður upp á hagnýta reynslu í alþjóðlegu umhverfi ásamt fjölbreyttum tækifærum til starfsþróunar!\n\nHelstu verkefni og ábyrgð:\n\n- Flutningur framleiðsluefna frá vöruhúsi yfir í Class D svæði.\n\n- Fylla á og viðhalda Kanban efnaherbergjum á DSM1 og DSM2 svæðum.\n\n- Tryggja að framleiðsluáætlun sé uppfærð.\n\n- Styðja við heildarframleiðslu og tryggja að áætlanagerð sé rétt framkvæmd.\n\nHæfniskröfur:\n\n- Grunnþekking á viðeigandi ferlum og tækni.\n\n- Framúrskarandi samskiptahæfileikar.\n\n- Geta til að vinna í teymi.\n\n- Stundvísi og áreiðanleiki.\n\n- Sveigjanleiki og góð aðlögunarhæfni.\n\n[English]\n\nJoin our production team at Alvotech in Reykjavík!\n\nWe are looking for individuals with a positive attitude, strong adaptability, and the ability to tackle challenges. Working day and evening shifts is required.\n\nThis position offers hands-on experience in an international environment along with diverse opportunities for professional development!\n\nKey Responsibilities:\n\n- Material transfer of process materials from Warehouse to Class D area.\n\n- To stock up and maintain Kanban material rooms in DSM1 and DSM2 areas.\n\n- Ensure to update planning related activities.\n\n- To support overall manufacturing & ensure planning is performed properly.\n\nQualifications:\n\n- Basic technical or administrative knowledge or relevant process knowledge.\n\n- Adhere to the company etiquette in all matters of behavior and manners.\n\n- Excellent communication skills.\n\n- Strong work ethic and proven ability to collaborate effectively in team\n\n- Punctual and reliable.\n\n- Flexible/adaptable.\n\nWhat we offer:\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and wellbeing support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.\n\nAbout Us\n\nAt Alvotech, we are building a global biotechnology company with a clear purpose: to expand access to high-quality, affordable biologic medicines for patients worldwide. Our people are central to that mission. Across our global teams, we bring together expertise in science, manufacturing, quality and commercial operations to shape the future of biosimilars.\n\nWe offer a dynamic, fast-moving environment where curiosity, initiative and ownership are encouraged. Rooted in Icelandic values and operating on a global stage, we value collaboration, diversity and integrity across everything we do. Our teams work on meaningful challenges, contribute directly to patient impact, and grow alongside the business.\n\nWhether you are at the start of your career or looking to take your next step, Alvotech offers the opportunity to do work that matters, in a company driven by purpose and scale.\n\nIf you do not see a role that matches your experience today, we still welcome general applications from individuals who share our ambition and want to help improve access to biologic medicines worldwide.",
+   "category": "production",
+   "type": "full-time",
+   "experienceLevel": "entry",
+   "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-20",
+   "applicationUrl": "https://alfred.is/starf/framleidslutknir-manufacturing-technologist-1",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 3106,
@@ -118,7 +213,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 1330,
@@ -137,7 +232,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 1333,
@@ -156,7 +251,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 1173,
@@ -174,7 +269,7 @@
    "applicationUrl": "https://alfred.is/starf/digital-product-designer-ui-design-systems-2",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-10-21"
   },
   {
@@ -193,7 +288,7 @@
    "applicationUrl": "https://alfred.is/starf/tkjaserfrdingur-uppsetning-thjonusta-og-thjalfun",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-10-21"
   },
   {
@@ -213,7 +308,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 1145,
@@ -327,7 +422,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 571,
@@ -441,7 +536,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 566,
@@ -802,7 +897,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 546,
@@ -935,7 +1030,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 818,
@@ -954,7 +1049,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 538,
@@ -992,7 +1087,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 539,
@@ -1220,7 +1315,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 524,
@@ -1733,7 +1828,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 498,
@@ -2721,7 +2816,7 @@
    "featured": false,
    "startup": true,
    "status": "filled",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 445,
@@ -8421,7 +8516,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 77,
@@ -8459,7 +8554,7 @@
    "featured": true,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 75,
@@ -8478,7 +8573,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 65,
@@ -8630,7 +8725,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 70,
@@ -8649,7 +8744,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 66,
@@ -8687,7 +8782,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 1361,
@@ -9010,7 +9105,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 55,
@@ -9105,7 +9200,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 38,
@@ -9200,7 +9295,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 2,
@@ -9219,7 +9314,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 14,
@@ -9257,7 +9352,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 4,
@@ -9276,7 +9371,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 9,
@@ -9295,7 +9390,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 12,
@@ -9314,7 +9409,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 13,
@@ -9371,7 +9466,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 8,
@@ -9390,7 +9485,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 6,
@@ -9409,7 +9504,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 1,
@@ -9428,7 +9523,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 10,
@@ -9561,7 +9656,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-21"
+   "lastVerified": "2026-10-22"
   },
   {
    "id": 22,
