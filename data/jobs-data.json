@@ -1,10 +1,10 @@
 {
  "version": "2.0.0",
- "lastUpdated": "2026-10-23T10:13:46+00:00",
+ "lastUpdated": "2026-10-24T09:39:57+00:00",
  "metadata": {
-  "lastUpdated": "2026-10-23",
+  "lastUpdated": "2026-10-24",
   "version": "2.0.0",
-  "totalJobs": 593,
+  "totalJobs": 597,
   "source": "Iceland jobs research database (github.com/balainiceland/iceland-jobs-data)"
  },
  "categories": {
@@ -45,6 +45,82 @@
  },
  "jobs": [
   {
+   "id": 3293,
+   "company": "Arctic Trucks Ísland ehf.",
+   "companyLogo": null,
+   "title": "Okkur vantar starfsmann strax í dekkjatörnina. Starfið er tímabundið.",
+   "description": "Dekkjatörnin er í fullum gangi og við þurfum mann strax.\n\nOkkur vantar starfsmann strax í dekkjatörnina. Starfið er tímabundið.\n\nStór dekk og breyttir jeppar eru daglegt brauð hjá okkur og nú er mesti annatíminn. Starfið er líkamlega krefjandi, dekkin eru þung og það er nóg að gera — við leitum að manni sem er til í að taka törnina með okkur og getur hafið störf án fyrirvara.\n\nHelstu verkefni\n\n• Dekkjaskipti, umfelgun og þjónusta á dekkjum — frá hefðbundnum jeppadekkjum upp í sérsmíðuð risadekk\n\n• Uppsetning aukahluta á bíla\n\n• Almenn verkstæðisvinna\n\nHæfniskröfur\n\n• Gott líkamlegt form — dekkin eru þung og starfið er líkamlega krefjandi\n\n• Stundvísi og áreiðanleiki\n\n• Geta til að vinna sjálfstætt og í teymi\n\n• Íslenska og/eða góð enska\n\nKostur: reynsla af dekkjavinnu eða annarri verkstæðisvinnu.\n\nVið bjóðum\n\n• Vel búið verkstæði og góður tækjakostur\n\n• Fjölbreytt verkefni og góður starfsandi\n\n• Góða reynslu á stuttum tíma — hjá okkur fara allar dekkjastærðir í gegn\n\nVinnutími og tímabil\n\nTímabundið starf yfir dekkjatörnina. Störf hefjast um leið og samkomulag næst. Dagvinna mánudaga–fimmtudaga 08:00–17:00 og föstudaga 08:00–15:30, með yfirvinnu á álagstímum.\n\nUmsókn\n\nSótt er um á arctictrucks.is — fylltu út umsóknarformið og láttu okkur vita hvað þú hefur verið að gera.\n\nSenda má fyrirspurn á .\n\nVið förum yfir umsóknir og ráðum jafnóðum — það borgar sig að sækja um strax.\n\nARCTIC TRUCKS — TEMPORARY POSITION · START IMMEDIATELY\n\nTire technician wanted — start NOW\n\nOur busiest tire season is underway and we need someone immediately.\n\nWe need a worker straight away for the tire season. This is a temporary position.\n\nBig tires and modified 4x4s are our daily business, and this is our busiest time of year. The work is physically demanding, the tires are heavy and there is plenty to do — we are looking for someone who is up for the season with us and can start without notice.\n\nMain tasks\n\n• Tire changes, mounting and tire service — from standard 4x4 tires up to custom-built oversize tires\n\n• Fitting accessories to vehicles\n\n• General workshop duties\n\nRequirements\n\n• Good physical condition — the tires are heavy and the work is physically demanding\n\n• Punctuality and reliability\n\n• Able to work both independently and as part of a team\n\n• Icelandic and/or good English\n\nAn advantage: experience with tire work or other workshop experience.\n\nWe offer\n\n• A well-equipped workshop and good tools\n\n• Varied work and a good team\n\n• Valuable experience in a short time — every tire size passes through our workshop\n\nHours and period\n\nTemporary position for the tire season. Start as soon as agreed. Day shift Monday–Thursday 08:00–17:00 and Friday 08:00–15:30, with overtime during peak periods.\n\nHow to apply\n\nApply at arctictrucks.is — fill in the application form and tell us what you have been doing.\n\nQuestions can be sent to .\n\nWe review applications and hire on a rolling basis — it pays to apply now.",
+   "category": "other",
+   "type": "contract",
+   "experienceLevel": "mid",
+   "location": "Klettháls 3, 110 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-23",
+   "applicationUrl": "https://alfred.is/starf/okkur-vantar-starfsmann-strax-i-dekkjatornina-starfid-er-timabundid",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-24"
+  },
+  {
+   "id": 3314,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "Power Platform & AI Developer",
+   "description": "Alvotech is looking for a Power Platform & AI Developer\n\nWhat you will do\n\n- Power Apps: build canvas and model-driven apps with clean UX, delegation-aware formulas, reusable components and role-based security.\n\n- Power Automate: design cloud flows for approvals, notifications, data sync and system integrations, with proper error handling, retries and logging.\n\n- SQL databases: design schemas, write views, stored procedures and queries in SQL Server / Azure SQL; tune performance and maintain data quality.\n\n- Dataverse: model tables, relationships and business rules; manage solutions and environment security.\n\n- AI agents: build and deploy agents and copilots in Copilot Studio, including grounding on company data, prompt design, tool/connector actions and guardrails.\n\n- Integrations: connect apps and flows to enterprise systems and data sources using OData, REST APIs and custom connectors.\n\n- Secure development: apply secure coding practices, including least-privilege access, safe handling of secrets and credentials, input validation and protection of sensitive data.\n\n- ALM and DevOps: use Azure DevOps for source control, work items and CI/CD pipelines; use solutions, environment variables and connection references to move work from dev to test to production; follow DLP and security policies.\n\n- Documentation and support: write technical docs and user guides, train users, and troubleshoot production issues.\n\nRequired qualifications\n\n- 3+ years building production solutions on Microsoft Power Platform (Power Apps and Power Automate).\n\n- Strong SQL: schema design, joins, views, stored procedures, indexing and query tuning.\n\n- Solid Power Fx and working knowledge of Dataverse.\n\n- Experience integrating with REST APIs, OData services and custom connectors; comfortable with JSON.\n\n- Hands-on experience building at least one AI agent or LLM-powered solution (Copilot Studio, Azure OpenAI or similar).\n\n- Understanding of Power Platform ALM: solutions, environments, managed vs unmanaged deployment.\n\n- Working experience with Azure DevOps (Repos, Boards, Pipelines) or a similar DevOps toolset.\n\n- Awareness of secure coding principles and common security risks in apps, APIs and integrations.\n\n- Able to gather requirements from non-technical users and turn them into clear designs.\n\n- Clear written and spoken English; works independently and manages own priorities.\n\nNice to have\n\n- SAP S/4HANA integration experience (OData, CDS views, BAPIs).\n\n- Azure services: Functions, Logic Apps, Azure SQL, AI Search, Key Vault.\n\n- Power BI and DAX; data migration or ETL experience.\n\n- Agent frameworks and patterns: RAG, MCP, Semantic Kernel or similar; n8n.\n\n- Power Pages or external-facing portals.\n\n- Experience in a regulated industry (pharma / life sciences, GxP, validated systems).\n\n- Microsoft certifications such as PL-400, PL-600 or AI-102.\n\nAbout Us\n\nAt Alvotech, we are building a global biotechnology company with a clear purpose: to expand access to high-quality, affordable biologic medicines for patients worldwide. Our people are central to that mission. Across our global teams, we bring together expertise in science, manufacturing, quality and commercial operations to shape the future of biosimilars.",
+   "category": "engineering",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-23",
+   "applicationUrl": "https://alfred.is/starf/power-platform-ai-developer",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-24"
+  },
+  {
+   "id": 3313,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "SAP Functional Analyst – Manufacturing, Quality & PP/DS",
+   "description": "Alvotech is looking for a SAP Functional Analyst – Manufacturing, Quality & PP/DS\nThis position sits in the IT department as part of the SAP team. The SAP Functional Analyst is the IT owner of the SAP S/4HANA processes that run manufacturing and quality: Production Planning (PP), Quality Management (QM) and Production Planning & Detailed Scheduling (PP/DS).\n\nThe role is the link between the business and the system. You will work closely with Manufacturing, Quality and Supply Chain key users to understand how they work, keep the SAP solution stable and compliant, and improve it over time. That means resolving incidents, analyzing and designing changes, configuring the system, and making sure every change is properly tested, documented and validated before it reaches production.\n\nThis is a hands-on functional role in a regulated (GMP) manufacturing environment. You will not run the shop floor or the quality function yourself, but you need to understand them well enough to translate their needs into a reliable SAP solution and to challenge requirements where a better system approach exists.\n\nKey responsibilities\n\nApplication support and operations\n\n• Provide functional support for SAP S/4HANA, with primary focus on QM, PP and PP/DS.\n\n• Support manufacturing and quality processes including production/process orders, master recipes, BOMs, work centers/resources, inspection lots, results recording, usage decisions and batch management.\n\n• Analyze incidents, perform root-cause analysis and resolve issues within agreed service levels, escalating to SAP technical resources or external partners where needed.\n\n• Provide day-to-day support and guidance to Manufacturing, Supply Chain and Quality key users.\n\nPlanning and scheduling (PP/DS)\n\n• Support and optimize PP/DS planning and scheduling, including heuristics, planning runs, alerts and planning issues.\n\n• Manage master-data dependencies and the integration between PP/DS and core S/4HANA (orders, resources, recipes, stock and demand).\n\nChange and continuous improvement\n\n• Gather and analyze business requirements and define the appropriate SAP configuration or functional enhancement.\n\n• Translate requirements into functional specifications and coordinate development with SAP technical resources and external consultants.\n\n• Own SAP change requests end to end: impact assessment, configuration, functional and regression testing, UAT coordination and deployment to production.\n\n• Lead smaller SAP enhancements and improvement initiatives within the QM / PP / PP-DS area, and contribute to larger projects and rollouts.\n\nCompliance, documentation and training\n\n• Follow GMP and computerized-system validation (CSV) requirements, including change control, test evidence and deviation handling for SAP changes.\n\n• Maintain functional documentation, SOP-related system documentation and end-user training material.\n\n• Train key users and end users on new and changed functionality.\n\nMinimum requirements\n\n• BS/BA degree in Information Systems, Engineering, Supply Chain, Life Sciences or equivalent relevant education.\n\n• Minimum 5 years of SAP functional experience, preferably within SAP PP, QM and/or PP/DS.\n\n• Experience supporting SAP S/4HANA in a productive manufacturing environment.\n\n• Hands-on configuration experience in at least one of PP, QM or PP/DS.\n\n• Good understanding of manufacturing, quality and production-planning processes.\n\n• Strong analytical, problem-solving and stakeholder-management skills.\n\n• Fluent written and spoken English.\n\nPreferred qualifications\n\n• Experience in a GMP-regulated industry (pharmaceutical, biotech or medical devices) and with computer-system validation.\n\n• Experience with process manufacturing (process orders, master recipes, batch management).\n\n• Knowledge of related modules and integrations, e.g. MM, WM/EWM, PM and MES or LIMS interfaces.\n\n• Experience working with external SAP partners and an ITIL-based support model.\n\n• SAP certification in PP, QM or PP/DS.\n\nPersonal attributes\n\n• Takes ownership of issues and follows them through to resolution.\n\n• Communicates clearly with both business users and technical teams.\n\n• Structured and detail-oriented, with a strong sense for quality and compliance.\n\n• Comfortable balancing day-to-day support with improvement work.",
+   "category": "production",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-23",
+   "applicationUrl": "https://alfred.is/starf/sap-functional-analyst-manufacturing-quality-pp-ds",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-24"
+  },
+  {
+   "id": 3303,
+   "company": "Kvika banki hf.",
+   "companyLogo": null,
+   "title": "Matráður",
+   "description": "Kvika banki leitar að metnaðarfullum og kraftmiklum einstaklingi í stöðu matráðs í mötuneyti bankans í Katrínartúni.",
+   "category": "hospitality",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Katrínartún 2, 105 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-23",
+   "applicationUrl": "https://alfred.is/starf/matradur-63",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-24"
+  },
+  {
    "id": 3255,
    "company": "Embla Medical | Össur",
    "companyLogo": null,
@@ -61,7 +137,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 3221,
@@ -80,7 +156,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 3190,
@@ -99,7 +175,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 3220,
@@ -118,7 +194,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 3202,
@@ -137,7 +213,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 3188,
@@ -156,7 +232,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 3157,
@@ -175,7 +251,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 3154,
@@ -194,7 +270,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 3145,
@@ -213,7 +289,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 3106,
@@ -232,7 +308,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 1330,
@@ -251,14 +327,14 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 1333,
    "company": "Alvotech hf",
    "companyLogo": null,
    "title": "Payroll Specialist",
-   "description": "Alvotech leitar að öflugum og nákvæmum launasérfræðingi í tímabundið starf til 6 mánaða með möguleika á framlengingu. Launateymi Alvotech annast launavinnslu fyrir um 1100 manns á Íslandi, auk umsjónar launavinnslu í nokkrum löndum utan Íslands.\n\nStarfið felur í sér vinnslu mánaðarlegra launa, umsýslu launagagna, samskipti við starfsfólk og stjórnendur ásamt því að tryggja að launavinnsla samræmist íslenskum lögum, kjarasamningum og skattareglum.\n\nVið leitum að einstaklingi með að lágmarki 3 ára reynslu af launavinnslu, góða þekkingu á íslensku launaumhverfi, skattamálum og lífeyrismálum. Þekking á launavinnslu í Kjarna er kostur, góð Excel-kunnátta og hæfni til að vinna með trúnaðarupplýsingar af fagmennsku eru skilyrði. Mjög góð íslensku- og enskukunnátta er nauðsynleg.\n\nKostur er ef umsækjandi hefur reynslu af alþjóðlegri launavinnslu, umbótaverkefnum tengdum launaferlum og vinnu í hröðu og krefjandi starfsumhverfi.\n\n[English]\n\nAlvotech is looking for a temporary (6 months contract with the possibility of extension) Payroll Specialist. The Payroll Specialist is responsible for ensuring accurate and timely payroll processing, maintaining compliance with Icelandic labor laws, collective agreements, tax requirements, and internal policies. The role works closely with HR, Finance, managers, external payroll providers, and government authorities to deliver a high-quality payroll service to employees.\n\nKey responsibilities and minimum requirements according to job level:\n\n• Process monthly payroll accurately and on time.\n\n• Review and validate payroll data, including salaries, overtime, shift premiums, bonuses,\n\nallowances, and deductions.\n\n• Maintain employee payroll records and ensure data accuracy within HR and payroll systems.\n\n• Calculate final settlements, vacation pay, and other employee payments.\n\n• Support payroll-related month-end and year-end activities.\n\n• Ensure compliance with Icelandic labor legislation, tax regulations, social security\n\nrequirements, and collective bargaining agreements.\n\n• Maintain knowledge of relevant laws, regulations, and union requirements.\n\n• Prepare and submit payroll-related reports and declarations to authorities and third-party\n\nproviders.\n\n• Support internal and external audits by providing payroll documentation and reports.\n\n• Respond to employee and manager inquiries regarding payroll, taxation, benefits, vacation\n\naccruals, and deductions.\n\n• Provide guidance and support on payroll-related matters in a professional and confidential\n\nmanner.\n\n• Assist with onboarding and offboarding activities related to payroll administration.\n\nCompetencies required to fulfill the employee responsibilities and work assignments:\n\n• Bachelor's degree in Business Administration, Accounting, Human Resources, or a related\n\nfield, or equivalent experience.\n\n• Minimum 3 years of payroll administration experience.\n\n• Strong knowledge of Icelandic payroll practices, taxation, pension administration, and labor\n\nmarket requirements.\n\n• Experience working with payroll and HR information systems.\n\n• Advanced Excel skills and experience with payroll reporting.\n\n• Strong attention to detail and high level of accuracy.\n\n• Ability to handle confidential information with discretion.\n\n• Fluent in Icelandic and English, both written and spoken.\n\nAdditional competencies required to fulfill key management responsibilities:\n\n• Experience supporting multinational payroll operations.\n\n• Knowledge of collective bargaining agreements and union requirements in Iceland.\n\n• Experience with payroll process improvement and automation initiatives.\n\n• Experience working in a complex or fast-paced organizational environment.\n\n• Knowledge of Kjarni payroll solutions is a strong advantage\n\nSpecifics of the role:\n\n• The Payroll Specialist is responsible for ensuring accurate and timely payroll processing,\n\nmaintaining compliance with Icelandic labor laws, collective agreements, tax\n\nrequirements, and internal policies.\n\nMinimum education and experience required for the role:\n\nEducation:\n\n• Bachelor's degree in Business Administration, Accounting, Human Resources, or a related\n\nfield, or equivalent experience.\n\nExperience:\n\n• Minimum 3 years of payroll administration experience",
+   "description": "Alvotech leitar að öflugum og nákvæmum launasérfræðingi í tímabundið starf til 6 mánaða með möguleika á framlengingu.\n\nLaunateymi Alvotech annast launavinnslu fyrir um 1100 manns á Íslandi, auk umsjónar launavinnslu í nokkrum löndum utan Íslands.\n\nStarfið felur í sér vinnslu mánaðarlegra launa, umsýslu launagagna, samskipti við starfsfólk og stjórnendur ásamt því að tryggja að launavinnsla samræmist íslenskum lögum, kjarasamningum og skattareglum.\n\nVið leitum að einstaklingi með að lágmarki 3 ára reynslu af launavinnslu, góða þekkingu á íslensku launaumhverfi, skattamálum og lífeyrismálum. Þekking á launavinnslu í Kjarna er kostur, góð Excel-kunnátta og hæfni til að vinna með trúnaðarupplýsingar af fagmennsku eru skilyrði. Mjög góð íslensku- og enskukunnátta er nauðsynleg.\n\nKostur er ef umsækjandi hefur reynslu af alþjóðlegri launavinnslu, umbótaverkefnum tengdum launaferlum og vinnu í hröðu og krefjandi starfsumhverfi.\n\n[English]\n\nAlvotech is looking for a temporary (6 months contract with the possibility of extension) Payroll Specialist. The Payroll Specialist is responsible for ensuring accurate and timely payroll processing, maintaining compliance with Icelandic labor laws, collective agreements, tax requirements, and internal policies. The role works closely with HR, Finance, managers, external payroll providers, and government authorities to deliver a high-quality payroll service to employees.\n\nKey responsibilities and minimum requirements according to job level:\n• Process monthly payroll accurately and on time.\n• Review and validate payroll data, including salaries, overtime, shift premiums, bonuses, allowances, and deductions.\n\n• Maintain employee payroll records and ensure data accuracy within HR and payroll systems.\n\n• Calculate final settlements, vacation pay, and other employee payments.\n\n• Support payroll-related month-end and year-end activities.\n\n• Ensure compliance with Icelandic labor legislation, tax regulations, social security requirements, and collective bargaining agreements.\n\n• Maintain knowledge of relevant laws, regulations, and union requirements.\n\n• Prepare and submit payroll-related reports and declarations to authorities and third-party providers.\n\n• Support internal and external audits by providing payroll documentation and reports.\n\n• Respond to employee and manager inquiries regarding payroll, taxation, benefits, vacation accruals, and deductions.\n\n• Provide guidance and support on payroll-related matters in a professional and confidential manner.\n\n• Assist with onboarding and offboarding activities related to payroll administration. Competencies required to fulfill the employee responsibilities and work assignments:\n\n• Bachelor's degree in Business Administration, Accounting, Human Resources, or a related field, or equivalent experience.\n\n• Minimum 3 years of payroll administration experience.\n\n• Strong knowledge of Icelandic payroll practices, taxation, pension administration, and labor market requirements.\n\n• Experience working with payroll and HR information systems.\n\n• Advanced Excel skills and experience with payroll reporting.\n\n• Strong attention to detail and high level of accuracy. • Ability to handle confidential information with discretion.\n\n• Fluent in Icelandic and English, both written and spoken. Additional competencies required to fulfill key management responsibilities:\n\n• Experience supporting multinational payroll operations.\n\n• Knowledge of collective bargaining agreements and union requirements in Iceland.\n\n• Experience with payroll process improvement and automation initiatives.\n\n• Experience working in a complex or fast-paced organizational environment.\n\n• Knowledge of Kjarni payroll solutions is a strong advantage\n\nSpecifics of the role:\n\n• The Payroll Specialist is responsible for ensuring accurate and timely payroll processing, maintaining compliance with Icelandic labor laws, collective agreements, tax requirements, and internal policies.\n\nMinimum education and experience required for the role:\n\nEducation:\n\n• Bachelor's degree in Business Administration, Accounting, Human Resources, or a related\n\nfield, or equivalent experience.\n\nExperience:\n\n• Minimum 3 years of payroll administration experience",
    "category": "finance",
    "type": "contract",
    "experienceLevel": "mid",
@@ -270,7 +346,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 1173,
@@ -327,7 +403,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 1145,
@@ -441,7 +517,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 571,
@@ -555,7 +631,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 566,
@@ -916,7 +992,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 546,
@@ -1049,7 +1125,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 818,
@@ -1068,7 +1144,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 538,
@@ -1106,7 +1182,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 539,
@@ -1334,7 +1410,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 524,
@@ -1847,7 +1923,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 498,
@@ -2835,7 +2911,7 @@
    "featured": false,
    "startup": true,
    "status": "filled",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 445,
@@ -8535,7 +8611,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 77,
@@ -8573,7 +8649,7 @@
    "featured": true,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 75,
@@ -8592,7 +8668,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 65,
@@ -8744,7 +8820,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 70,
@@ -8763,7 +8839,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 66,
@@ -8801,7 +8877,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 1361,
@@ -9124,7 +9200,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 55,
@@ -9219,7 +9295,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 38,
@@ -9314,7 +9390,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 2,
@@ -9333,7 +9409,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 14,
@@ -9371,7 +9447,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 4,
@@ -9390,7 +9466,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 9,
@@ -9409,7 +9485,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 12,
@@ -9428,7 +9504,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 13,
@@ -9485,7 +9561,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 8,
@@ -9504,7 +9580,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 6,
@@ -9523,7 +9599,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 1,
@@ -9542,7 +9618,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 10,
@@ -9675,7 +9751,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-23"
+   "lastVerified": "2026-10-24"
   },
   {
    "id": 22,
