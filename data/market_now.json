@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-10-24T09:39:50+00:00",
-  "open_postings": 614,
-  "open_postings_before_merging": 675,
-  "classified_open_postings": 575,
+  "generated_at": "2026-10-25T09:54:58+00:00",
+  "open_postings": 613,
+  "open_postings_before_merging": 674,
+  "classified_open_postings": 611,
   "by_major_group": [
     {
       "code": "2",
       "title": "Professionals",
-      "postings": 197
+      "postings": 211
     },
     {
       "code": "5",
       "title": "Service and Sales Workers",
-      "postings": 126
+      "postings": 129
     },
     {
       "code": "3",
       "title": "Technicians and Associate Professionals",
-      "postings": 80
+      "postings": 84
     },
     {
       "code": "7",
       "title": "Craft and Related Trades Workers",
-      "postings": 49
+      "postings": 52
     },
     {
       "code": "1",
       "title": "Managers",
-      "postings": 48
+      "postings": 50
     },
     {
       "code": "4",
       "title": "Clerical Support Workers",
-      "postings": 33
+      "postings": 41
     },
     {
       "code": "9",
       "title": "Elementary Occupations",
-      "postings": 25
+      "postings": 27
     },
     {
       "code": "8",
@@ -53,27 +53,27 @@
   "by_exposure_gradient": [
     {
       "gradient": "Not Exposed",
-      "postings": 255
+      "postings": 267
     },
     {
       "gradient": "Minimal Exposure",
-      "postings": 136
+      "postings": 144
     },
     {
       "gradient": "Exposed: Gradient 3",
-      "postings": 61
+      "postings": 72
     },
     {
       "gradient": "Exposed: Gradient 2",
-      "postings": 60
+      "postings": 62
     },
     {
       "gradient": "Exposed: Gradient 1",
-      "postings": 49
+      "postings": 50
     },
     {
       "gradient": "Exposed: Gradient 4",
-      "postings": 11
+      "postings": 13
     },
     {
       "gradient": "Not in ILO index",
@@ -84,7 +84,7 @@
     {
       "isco_code": "5223",
       "title": "Shop Sales Assistants",
-      "postings": 39,
+      "postings": 40,
       "genai_exposure_2025": 0.38,
       "gradient_2025": "Exposed: Gradient 1"
     },
@@ -98,16 +98,23 @@
     {
       "isco_code": "2221",
       "title": "Nursing Professionals",
-      "postings": 24,
+      "postings": 25,
       "genai_exposure_2025": 0.25,
       "gradient_2025": "Not Exposed"
     },
     {
       "isco_code": "7231",
       "title": "Motor Vehicle Mechanics and Repairers",
-      "postings": 15,
+      "postings": 18,
       "genai_exposure_2025": 0.18,
       "gradient_2025": "Not Exposed"
+    },
+    {
+      "isco_code": "3221",
+      "title": "Nursing Associate Professionals",
+      "postings": 14,
+      "genai_exposure_2025": 0.22,
+      "gradient_2025": "Minimal Exposure"
     },
     {
       "isco_code": "5322",
@@ -124,16 +131,9 @@
       "gradient_2025": "Exposed: Gradient 2"
     },
     {
-      "isco_code": "3221",
-      "title": "Nursing Associate Professionals",
-      "postings": 13,
-      "genai_exposure_2025": 0.22,
-      "gradient_2025": "Minimal Exposure"
-    },
-    {
       "isco_code": "5120",
       "title": "Cooks",
-      "postings": 10,
+      "postings": 11,
       "genai_exposure_2025": 0.18,
       "gradient_2025": "Not Exposed"
     },
@@ -143,6 +143,13 @@
       "postings": 10,
       "genai_exposure_2025": 0.53,
       "gradient_2025": "Exposed: Gradient 3"
+    },
+    {
+      "isco_code": "4321",
+      "title": "Stock Clerks",
+      "postings": 10,
+      "genai_exposure_2025": 0.37,
+      "gradient_2025": "Minimal Exposure"
     },
     {
       "isco_code": "5131",
@@ -159,11 +166,18 @@
       "gradient_2025": "Not Exposed"
     },
     {
-      "isco_code": "4321",
-      "title": "Stock Clerks",
+      "isco_code": "2211",
+      "title": "Generalist Medical Practitioners",
       "postings": 9,
-      "genai_exposure_2025": 0.37,
-      "gradient_2025": "Minimal Exposure"
+      "genai_exposure_2025": 0.29,
+      "gradient_2025": "Not Exposed"
+    },
+    {
+      "isco_code": "2341",
+      "title": "Primary School Teachers",
+      "postings": 9,
+      "genai_exposure_2025": 0.26,
+      "gradient_2025": "Not Exposed"
     },
     {
       "isco_code": "5311",
@@ -173,11 +187,11 @@
       "gradient_2025": "Not Exposed"
     },
     {
-      "isco_code": "3434",
-      "title": "Chefs",
+      "isco_code": "4222",
+      "title": "Contact Centre Information Clerks",
       "postings": 8,
-      "genai_exposure_2025": 0.25,
-      "gradient_2025": "Not Exposed"
+      "genai_exposure_2025": 0.58,
+      "gradient_2025": "Exposed: Gradient 3"
     },
     {
       "isco_code": "7233",
@@ -187,45 +201,31 @@
       "gradient_2025": "Not Exposed"
     },
     {
-      "isco_code": "2211",
-      "title": "Generalist Medical Practitioners",
-      "postings": 8,
-      "genai_exposure_2025": 0.29,
-      "gradient_2025": "Not Exposed"
-    },
-    {
       "isco_code": "2511",
       "title": "Systems Analysts",
-      "postings": 7,
+      "postings": 8,
       "genai_exposure_2025": 0.49,
       "gradient_2025": "Exposed: Gradient 2"
     },
     {
-      "isco_code": "2341",
-      "title": "Primary School Teachers",
+      "isco_code": "2352",
+      "title": "Special Needs Teachers",
+      "postings": 8,
+      "genai_exposure_2025": 0.28,
+      "gradient_2025": "Not Exposed"
+    },
+    {
+      "isco_code": "3434",
+      "title": "Chefs",
       "postings": 7,
-      "genai_exposure_2025": 0.26,
+      "genai_exposure_2025": 0.25,
       "gradient_2025": "Not Exposed"
-    },
-    {
-      "isco_code": "2212",
-      "title": "Specialist Medical Practitioners",
-      "postings": 6,
-      "genai_exposure_2025": 0.27,
-      "gradient_2025": "Not Exposed"
-    },
-    {
-      "isco_code": "2411",
-      "title": "Accountants",
-      "postings": 6,
-      "genai_exposure_2025": 0.51,
-      "gradient_2025": "Exposed: Gradient 3"
     }
   ],
   "ai": {
     "postings_mentioning_ai": 24,
     "share_mentioning_ai": 0.039,
-    "ai_roles": 3,
+    "ai_roles": 4,
     "top_ai_skills": [
       {
         "skill": "ai coding assistants",
@@ -291,6 +291,18 @@
       },
       {
         "tool": "Codex",
+        "postings": 1
+      },
+      {
+        "tool": "Copilot Studio",
+        "postings": 1
+      },
+      {
+        "tool": "Azure OpenAI",
+        "postings": 1
+      },
+      {
+        "tool": "Semantic Kernel",
         "postings": 1
       }
     ]

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-24T09:39:50+00:00",
+  "generated_at": "2026-10-25T09:54:58+00:00",
   "available": true,
   "official_quarter": "2026Q2",
   "official_total_vacancies": 3540,
-  "our_open_jobs": 614,
+  "our_open_jobs": 613,
   "coverage": 0.173,
   "jobs_without_sector": 7,
   "sectors": [
@@ -32,8 +32,8 @@
       "code": "5",
       "sector": "Trade, transport, hotels and restaurants",
       "official_vacancies": 1010,
-      "our_open_jobs": 145,
-      "coverage": 0.144
+      "our_open_jobs": 143,
+      "coverage": 0.142
     },
     {
       "code": "6",
@@ -67,8 +67,8 @@
       "code": "10",
       "sector": "Public administration, education and health",
       "official_vacancies": 340,
-      "our_open_jobs": 252,
-      "coverage": 0.741
+      "our_open_jobs": 253,
+      "coverage": 0.744
     },
     {
       "code": "11",
@@ -81,9 +81,9 @@
   "same_period": [
     {
       "quarter": "2026Q4",
-      "days_observed": 8,
+      "days_observed": 9,
       "complete": false,
-      "avg_open_jobs": 599.1,
+      "avg_open_jobs": 600.3,
       "official_vacancies": null,
       "coverage": null
     }

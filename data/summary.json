@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T09:39:50+00:00",
+  "generated_at": "2026-10-25T09:54:58+00:00",
   "sources": [
     {
       "id": "tvinna",
@@ -12,8 +12,8 @@
       "id": "alfred",
       "name": "Alfreð",
       "url": "https://alfred.is",
-      "postings": 819,
-      "open": 602
+      "postings": 821,
+      "open": 601
     },
     {
       "id": "startupiceland_board",
@@ -44,7 +44,7 @@
       "open": 5
     }
   ],
-  "classified_share": 0.982,
+  "classified_share": 0.999,
   "duplicates_merged": 196,
   "methods": {
     "collected_by": "Startup Iceland jobs research database",
