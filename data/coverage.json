@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-10-25T09:54:58+00:00",
+  "generated_at": "2026-10-26T11:15:12+00:00",
   "available": true,
   "official_quarter": "2026Q2",
   "official_total_vacancies": 3540,
-  "our_open_jobs": 613,
-  "coverage": 0.173,
-  "jobs_without_sector": 7,
+  "our_open_jobs": 572,
+  "coverage": 0.162,
+  "jobs_without_sector": 6,
   "sectors": [
     {
       "code": "1",
       "sector": "Agriculture, forestry and fishing",
       "official_vacancies": 100,
-      "our_open_jobs": 5,
-      "coverage": 0.05
+      "our_open_jobs": 4,
+      "coverage": 0.04
     },
     {
       "code": "2",
       "sector": "Industry, energy and utilities",
       "official_vacancies": 160,
-      "our_open_jobs": 71,
-      "coverage": 0.444
+      "our_open_jobs": 64,
+      "coverage": 0.4
     },
     {
       "code": "4",
       "sector": "Construction",
       "official_vacancies": 680,
-      "our_open_jobs": 20,
-      "coverage": 0.029
+      "our_open_jobs": 18,
+      "coverage": 0.026
     },
     {
       "code": "5",
       "sector": "Trade, transport, hotels and restaurants",
       "official_vacancies": 1010,
-      "our_open_jobs": 143,
-      "coverage": 0.142
+      "our_open_jobs": 130,
+      "coverage": 0.129
     },
     {
       "code": "6",
       "sector": "Information and communication",
       "official_vacancies": 80,
-      "our_open_jobs": 41,
-      "coverage": 0.512
+      "our_open_jobs": 38,
+      "coverage": 0.475
     },
     {
       "code": "7",
       "sector": "Finance and insurance",
       "official_vacancies": 20,
-      "our_open_jobs": 9,
-      "coverage": 0.45
+      "our_open_jobs": 7,
+      "coverage": 0.35
     },
     {
       "code": "8",
@@ -60,30 +60,30 @@
       "code": "9",
       "sector": "Professional and administrative services",
       "official_vacancies": 740,
-      "our_open_jobs": 43,
-      "coverage": 0.058
+      "our_open_jobs": 41,
+      "coverage": 0.055
     },
     {
       "code": "10",
       "sector": "Public administration, education and health",
       "official_vacancies": 340,
-      "our_open_jobs": 253,
-      "coverage": 0.744
+      "our_open_jobs": 244,
+      "coverage": 0.718
     },
     {
       "code": "11",
       "sector": "Arts, recreation and other services",
       "official_vacancies": 400,
-      "our_open_jobs": 15,
-      "coverage": 0.037
+      "our_open_jobs": 14,
+      "coverage": 0.035
     }
   ],
   "same_period": [
     {
       "quarter": "2026Q4",
-      "days_observed": 9,
+      "days_observed": 10,
       "complete": false,
-      "avg_open_jobs": 600.3,
+      "avg_open_jobs": 597.2,
       "official_vacancies": null,
       "coverage": null
     }

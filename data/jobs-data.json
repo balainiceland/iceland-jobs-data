@@ -1,8 +1,8 @@
 {
  "version": "2.0.0",
- "lastUpdated": "2026-10-25T09:55:04+00:00",
+ "lastUpdated": "2026-10-26T11:15:20+00:00",
  "metadata": {
-  "lastUpdated": "2026-10-25",
+  "lastUpdated": "2026-10-26",
   "version": "2.0.0",
   "totalJobs": 597,
   "source": "Iceland jobs research database (github.com/balainiceland/iceland-jobs-data)"
@@ -61,7 +61,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 3314,
@@ -80,7 +80,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 3303,
@@ -99,7 +99,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 3293,
@@ -118,7 +118,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 3255,
@@ -137,7 +137,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 3221,
@@ -156,7 +156,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 3190,
@@ -175,7 +175,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 3220,
@@ -194,7 +194,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 3202,
@@ -213,7 +213,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 3188,
@@ -232,7 +232,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 3157,
@@ -251,7 +251,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 3154,
@@ -270,7 +270,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 3145,
@@ -289,7 +289,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 3106,
@@ -308,7 +308,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 1330,
@@ -327,7 +327,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 1333,
@@ -346,7 +346,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 1173,
@@ -403,7 +403,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 1145,
@@ -517,7 +517,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 571,
@@ -630,7 +630,7 @@
    "applicationUrl": "https://alfred.is/starf/pikkolo-leitar-ad-skapandi-samfelagsmidlafulltrua",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-10-25"
   },
   {
@@ -992,7 +992,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 546,
@@ -1125,7 +1125,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 818,
@@ -1144,7 +1144,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 538,
@@ -1182,7 +1182,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 539,
@@ -1410,7 +1410,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 524,
@@ -1923,7 +1923,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 498,
@@ -2911,7 +2911,7 @@
    "featured": false,
    "startup": true,
    "status": "filled",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 445,
@@ -8611,7 +8611,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 77,
@@ -8649,7 +8649,7 @@
    "featured": true,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 75,
@@ -8668,7 +8668,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 65,
@@ -8820,7 +8820,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 70,
@@ -8839,7 +8839,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 66,
@@ -8877,7 +8877,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 1361,
@@ -9200,7 +9200,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 55,
@@ -9295,7 +9295,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 38,
@@ -9390,7 +9390,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 2,
@@ -9409,7 +9409,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 14,
@@ -9447,7 +9447,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 4,
@@ -9466,7 +9466,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 9,
@@ -9485,7 +9485,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 12,
@@ -9504,7 +9504,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 13,
@@ -9561,7 +9561,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 8,
@@ -9580,7 +9580,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 6,
@@ -9599,7 +9599,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 1,
@@ -9618,7 +9618,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 10,
@@ -9751,7 +9751,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-25"
+   "lastVerified": "2026-10-26"
   },
   {
    "id": 22,

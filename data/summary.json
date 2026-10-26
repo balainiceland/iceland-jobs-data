@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T09:54:58+00:00",
+  "generated_at": "2026-10-26T11:15:12+00:00",
   "sources": [
     {
       "id": "tvinna",
@@ -12,8 +12,8 @@
       "id": "alfred",
       "name": "Alfreð",
       "url": "https://alfred.is",
-      "postings": 821,
-      "open": 601
+      "postings": 822,
+      "open": 560
     },
     {
       "id": "startupiceland_board",
@@ -34,7 +34,7 @@
       "name": "Hagvangur",
       "url": "https://www.hagvangur.is/jobs/",
       "postings": 18,
-      "open": 10
+      "open": 9
     },
     {
       "id": "intellecta",
