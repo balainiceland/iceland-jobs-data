@@ -1,10 +1,10 @@
 {
  "version": "2.0.0",
- "lastUpdated": "2026-10-27T10:43:24+00:00",
+ "lastUpdated": "2026-10-28T11:28:08+00:00",
  "metadata": {
-  "lastUpdated": "2026-10-27",
+  "lastUpdated": "2026-10-28",
   "version": "2.0.0",
-  "totalJobs": 599,
+  "totalJobs": 602,
   "source": "Iceland jobs research database (github.com/balainiceland/iceland-jobs-data)"
  },
  "categories": {
@@ -45,23 +45,61 @@
  },
  "jobs": [
   {
-   "id": 3339,
+   "id": 3406,
+   "company": "atNorth",
+   "companyLogo": null,
+   "title": "Project Director",
+   "description": "atNorth is a leading Nordic data center company providing cost-effective, scalable high-density colocation and built-to-suit services to industry-leading organizations across Iceland, Sweden, Finland, and Denmark.\n\nAs part of its continued growth, atNorth is hiring two Project Directors for its Delivery team – One based at ICE02 in Reykjanesbær and one at ICE03 in Akureyri.\n\nIn this key role, you will be responsible for leading large-scale data center projects from construction through commissioning and handover, ensuring delivery against agreed scope, schedule, budget, quality and safety targets. You will work closely with customers, contractors and internal stakeholders to ensure successful project execution.",
+   "category": "operations",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Sjónarhóll 6, 235 Reykjanesbær",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-27",
+   "applicationUrl": "https://alfred.is/starf/project-director",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-28"
+  },
+  {
+   "id": 3402,
    "company": "Alvotech hf",
    "companyLogo": null,
-   "title": "Principal Specialist - QA Engineering",
-   "description": "Key responsibilities and minimum requirements according to the role:\n\n• Provide QA oversight and collaborate with cross-functional teams in planning maintenance, qualification, and validation activities for facilities, utilities, equipment, and computer systems (CSV).\n\n• Serve as a Quality representative and a subject matter expert (SME) in selection, design and build of new technologies and new facilities within Alvotech.\n\n• Support and provide QA oversight with review and approval of qualification documents for facility, utility, equipment and computerized systems as applicable.\n\n• Contribute to investigations into discrepancies arising during qualification / validation activities and subsequent approval of appropriate corrective actions.\n\n• Review of planned and unplanned work orders for maintenance, preventive maintenance, calibrations and other Engineering related activities.\n\n• Reviews and approve change controls, deviations , CAPAs , effectiveness checks for facilities, utilities, and equipment, computer systems.\n\n• Stay current on applicable external requirements and industry standards and drive continuous\n\nimprovement on Engineering and CSV processes and tools.\n\n• Advice on quality matters, and assistance for closing compliance gaps found in audits and\n\ninspections.\n\n• Escalation of any data integrity or critical quality issues to the supervisor and Quality Management of Alvotech\n\n• Responsible for ensuring all facilities, utilities, equipment , computer systems are appropriately validated and qualification in line with current EU and US legislation for parenteral/biologics.\n\nMinimum education and experience required for the role:\n\n• A bachelor’s degree within relevant area, or other relevant business experience\n\n• Minimum 5 years of experience within the Pharmaceutical or Medical Device Industry (preferably in parenteral/biologics formulations).\n\n• Experience working with regulatory requirements in GxP required (Preferably FDA and EU regulations).\n\n• Good understanding of GAMP 5 guide required.\n\n• Knowledge of and experience with validation and qualification specifically within facility, utility, and equipment/computer systems.\n\nWhat we offer:\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and wellbeing support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.\n\nAbout Us\n\nAt Alvotech, we are building a global biotechnology company with a clear purpose: to expand access to high-quality, affordable biologic medicines for patients worldwide. Our people are central to that mission. Across our global teams, we bring together expertise in science, manufacturing, quality and commercial operations to shape the future of biosimilars.\n\nWe offer a dynamic, fast-moving environment where curiosity, initiative and ownership are encouraged. Rooted in Icelandic values and operating on a global stage, we value collaboration, diversity and integrity across everything we do. Our teams work on meaningful challenges, contribute directly to patient impact, and grow alongside the business.\n\nWhether you are at the start of your career or looking to take your next step, Alvotech offers the opportunity to do work that matters, in a company driven by purpose and scale.\n\nIf you do not see a role that matches your experience today, we still welcome general applications from individuals who share our ambition and want to help improve access to biologic medicines worldwide.",
-   "category": "operations",
+   "title": "Sérfræðingur í sjónrænni gæðaskoðun / Visual Inspection Technologist",
+   "description": "Við leitum að áhugasömum einstaklingi til að ganga til liðs við Visual Inspection teymið okkar í framleiðslunni. Starfið felst í sjónrænni gæðaskoðun á fullbúnu líftæknilyfi í reglubundnu umhverfi. Um er að ræða vaktavinnu. Æskilegt er að umsækjandi sé nákvæmur og með gott auga fyrir smáatriðum.\n\n[English]\n\nWe are seeking a Technologist to join our Visual Inspection team, responsible for performing visual inspection of pharmaceutical products in a controlled, non-classified (CNC) environment. This is a shift‑based position, requiring flexibility and availability for assigned shifts. The ideal candidate shows strong attention to detail, patience, and strict adherence to procedures, including cGMP and EHS requirements.\n\nKey Responsibilities\n\n-\nPerform visual inspection of final pharmaceutical products in controlled/non-classified areas (CNC) in accordance with approved procedures\n\n-\nPackage final products post-inspection in compliance with established procedures\n\n-\nRole may require lifting and handling heavy boxes\n\n-\nUse computer systems and software to document inspection activities accurately and in compliance with cGMP and data integrity requirements.\n\n-\nSupport in GMP production activities, including technical and validation support when required\n\n-\nConduct all activities in full compliance with cGMP, EHS, and company quality systems\n\n-\nAdhere strictly to SOPs, work instructions, and job-specific procedures\n\n-\nSupport and contribute, as required, to audits, inspections, and regulatory interactions, including Pre-Approval Inspections (PAIs)\n\n-\nWork performed in a dark room designed for visual inspection\n\nQualifications\n\n-\nStrong attention to detail, high concentration, and the ability to perform repetitive tasks accurately.\n\n-\nSolid understanding of written procedures and commitment to following cGMP, EHS, SOPs, and quality standards.\n\n-\nProficiency in using computers and standard software tools for documentation and daily operations.\n\n-\nTeam-oriented mindset with the ability to follow guidance and work collaboratively.\n\n-\nBasic technical or administrative knowledge relevant to manufacturing environments.\n\n-\nBasic knowledge of GMP manufacturing operations; 1–2 years of experience in technical or production roles is an advantage.\n\n-\nPassing a vision test with good eyesight (with or without corrective lenses) is a mandatory for this position.\n\nSuccessful candidates must demonstrate visual capability suitable for manual visual inspection. This position is critical to product quality and patient safety and requires consistent performance and procedural discipline.\n\nWhat we offer:\n\n-\nAn inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n-\nThe chance to be a part of a global and fast-growing company.\n\n-\nAn international work culture that encourages diversity, collaboration and inclusion.\n\n-\nPositive, flexible, and innovative work environment.\n\n-\nSupport for personal growth and internal career development.\n\n-\nCompany social events and milestone celebrations.\n\n-\nExcellent in-house canteen and coffee house.\n\n-\nExercise and wellbeing support for full-time employees.\n\n-\nOn-site shower facility.\n\n-\nTransportation grant towards eco-friendly modes of travel for full-time employees.\n\n-\nInternet at home for full-time employees.\n\nAt Alvotech, we're committed to fostering a diverse and inclusive workplace where everyone feels valued, respected, and empowered to succeed. We encourage applications from all qualified candidates. However, relocation assistance /Work sponsorship is not available for this role\n\nWhy Alvotech\n\nAt Alvotech, we are passionate about improving lives by increasing access to affordable biologics. We’re purpose-driven and committed to fostering an inclusive and diverse working environment that encourages curiosity, ingenuity and simplicity. We want our employees to feel inspired in their careers, challenged by interesting and meaningful work and empowered to succeed in an agile environment.\n\nTrue to our Icelandic roots, we also believe that integrity, gender equality, and fairness are foundational. We strive to bring together the brightest minds regardless of backgrounds and beliefs, to deliver to our partners and patients around the world. Let’s create a healthier world together, through affordable biologic medicines.",
+   "category": "production",
    "type": "full-time",
    "experienceLevel": "mid",
    "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
    "remote": "onsite",
    "salary": null,
-   "postedDate": "2026-10-26",
-   "applicationUrl": "https://alfred.is/starf/principal-specialist-qa-engineering",
+   "postedDate": "2026-10-27",
+   "applicationUrl": "https://alfred.is/starf/serfrdingur-i-sjonrnni-gdaskodun-visual-inspection-technologist-1",
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
+  },
+  {
+   "id": 3388,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "Associate Scientist - QC Product testing",
+   "description": "An Associate scientist in the Quality Control Product testing team plays a vital part at Alvotech by participating in the quality control and release of products manufactured at Alvotech. We are looking for an individual who has a positive attitude, embraces challenges, is flexible and adaptive, and shares our values of team spirit and team efforts.\n\nScope and responsibility:\n\n- Performs routine analytical testing with analytical techniques such as Liquid Chromatography (SEC, APAC, CEX, etc.), Capillary electrophoresis (iCIEF, CE-SDS), compendial methods (colour, clarity, subvisible particles, TOC, etc.) and reviews analytical test records to support manufacturing process with limited supervision.\n\n- Execute routine laboratory activities, including equipment cleaning, verification, stock management, and general laboratory maintenance to ensure operational readiness and compliance.\n\n- Performing activities required to support testing, e.g., buffer preparation\n\n- Participate in the creation and maintenance of quality documents within Alvotech.\n\n- Contributes to other documentation reviews and/or updates within the Quality management system.\n\nJob requirements:\n\n- Bachelor’s degree or master’s degree in a relevant scientific discipline and at least 0-1 years of relevant experience in the pharmaceutical or biopharmaceutical sector.\n\n- Proficient in using a PC and common Microsoft packages such as Word and Excel.\n\n- Basic Knowledge of Good Manufacturing Practices (GMP) and documentation Rules is an asset.\n\nWhat we offer:\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration, and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and well-being support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.\n\nAbout Us\n\nAt Alvotech, we are building a global biotechnology company with a clear purpose: to expand access to high-quality, affordable biologic medicines for patients worldwide. Our people are central to that mission. Across our global teams, we bring together expertise in science, manufacturing, quality and commercial operations to shape the future of biosimilars.\n\nWe offer a dynamic, fast-moving environment where curiosity, initiative and ownership are encouraged. Rooted in Icelandic values and operating on a global stage, we value collaboration, diversity and integrity across everything we do. Our teams work on meaningful challenges, contribute directly to patient impact, and grow alongside the business.\n\nWhether you are at the start of your career or looking to take your next step, Alvotech offers the opportunity to do work that matters, in a company driven by purpose and scale.\n\nIf you do not see a role that matches your experience today, we still welcome general applications from individuals who share our ambition and want to help improve access to biologic medicines worldwide.",
+   "category": "science",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-27",
+   "applicationUrl": "https://alfred.is/starf/associate-scientist-qc-product-testing",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 3342,
@@ -80,7 +118,26 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
+  },
+  {
+   "id": 3339,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "Principal Specialist - QA Engineering",
+   "description": "Key responsibilities and minimum requirements according to the role:\n\n• Provide QA oversight and collaborate with cross-functional teams in planning maintenance, qualification, and validation activities for facilities, utilities, equipment, and computer systems (CSV).\n\n• Serve as a Quality representative and a subject matter expert (SME) in selection, design and build of new technologies and new facilities within Alvotech.\n\n• Support and provide QA oversight with review and approval of qualification documents for facility, utility, equipment and computerized systems as applicable.\n\n• Contribute to investigations into discrepancies arising during qualification / validation activities and subsequent approval of appropriate corrective actions.\n\n• Review of planned and unplanned work orders for maintenance, preventive maintenance, calibrations and other Engineering related activities.\n\n• Reviews and approve change controls, deviations , CAPAs , effectiveness checks for facilities, utilities, and equipment, computer systems.\n\n• Stay current on applicable external requirements and industry standards and drive continuous\n\nimprovement on Engineering and CSV processes and tools.\n\n• Advice on quality matters, and assistance for closing compliance gaps found in audits and\n\ninspections.\n\n• Escalation of any data integrity or critical quality issues to the supervisor and Quality Management of Alvotech\n\n• Responsible for ensuring all facilities, utilities, equipment , computer systems are appropriately validated and qualification in line with current EU and US legislation for parenteral/biologics.\n\nMinimum education and experience required for the role:\n\n• A bachelor’s degree within relevant area, or other relevant business experience\n\n• Minimum 5 years of experience within the Pharmaceutical or Medical Device Industry (preferably in parenteral/biologics formulations).\n\n• Experience working with regulatory requirements in GxP required (Preferably FDA and EU regulations).\n\n• Good understanding of GAMP 5 guide required.\n\n• Knowledge of and experience with validation and qualification specifically within facility, utility, and equipment/computer systems.\n\nWhat we offer:\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and wellbeing support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.\n\nAbout Us\n\nAt Alvotech, we are building a global biotechnology company with a clear purpose: to expand access to high-quality, affordable biologic medicines for patients worldwide. Our people are central to that mission. Across our global teams, we bring together expertise in science, manufacturing, quality and commercial operations to shape the future of biosimilars.\n\nWe offer a dynamic, fast-moving environment where curiosity, initiative and ownership are encouraged. Rooted in Icelandic values and operating on a global stage, we value collaboration, diversity and integrity across everything we do. Our teams work on meaningful challenges, contribute directly to patient impact, and grow alongside the business.\n\nWhether you are at the start of your career or looking to take your next step, Alvotech offers the opportunity to do work that matters, in a company driven by purpose and scale.\n\nIf you do not see a role that matches your experience today, we still welcome general applications from individuals who share our ambition and want to help improve access to biologic medicines worldwide.",
+   "category": "operations",
+   "type": "full-time",
+   "experienceLevel": "senior",
+   "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-26",
+   "applicationUrl": "https://alfred.is/starf/principal-specialist-qa-engineering",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 3313,
@@ -99,7 +156,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 3314,
@@ -118,7 +175,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 3303,
@@ -137,7 +194,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 3293,
@@ -156,7 +213,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 3255,
@@ -175,7 +232,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 3221,
@@ -194,7 +251,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 3190,
@@ -213,7 +270,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 3220,
@@ -232,7 +289,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 3202,
@@ -251,7 +308,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 3188,
@@ -270,7 +327,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 3157,
@@ -289,7 +346,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 3154,
@@ -308,7 +365,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 3145,
@@ -327,7 +384,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 3106,
@@ -346,7 +403,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 1330,
@@ -365,7 +422,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 1333,
@@ -384,7 +441,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 1173,
@@ -555,7 +612,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 571,
@@ -1030,7 +1087,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 546,
@@ -1163,7 +1220,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 818,
@@ -1182,7 +1239,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 538,
@@ -1220,7 +1277,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 539,
@@ -1961,7 +2018,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 498,
@@ -2949,7 +3006,7 @@
    "featured": false,
    "startup": true,
    "status": "filled",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 445,
@@ -8649,7 +8706,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 77,
@@ -8687,7 +8744,7 @@
    "featured": true,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 75,
@@ -8706,7 +8763,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 65,
@@ -8858,7 +8915,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 70,
@@ -8877,7 +8934,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 66,
@@ -8915,7 +8972,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 1361,
@@ -9238,7 +9295,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 55,
@@ -9333,7 +9390,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 38,
@@ -9428,7 +9485,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 2,
@@ -9447,7 +9504,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 14,
@@ -9485,7 +9542,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 4,
@@ -9504,7 +9561,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 9,
@@ -9523,7 +9580,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 12,
@@ -9542,7 +9599,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 13,
@@ -9599,7 +9656,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 8,
@@ -9618,7 +9675,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 6,
@@ -9637,7 +9694,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 1,
@@ -9656,7 +9713,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 10,
@@ -9789,7 +9846,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-27"
+   "lastVerified": "2026-10-28"
   },
   {
    "id": 22,
