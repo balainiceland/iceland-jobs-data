@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-28T11:28:03+00:00",
-  "open_postings": 573,
-  "open_postings_before_merging": 634,
-  "classified_open_postings": 524,
+  "generated_at": "2026-10-29T11:39:28+00:00",
+  "open_postings": 584,
+  "open_postings_before_merging": 650,
+  "classified_open_postings": 539,
   "by_major_group": [
     {
       "code": "2",
       "title": "Professionals",
-      "postings": 184
+      "postings": 182
     },
     {
       "code": "5",
@@ -17,32 +17,32 @@
     {
       "code": "3",
       "title": "Technicians and Associate Professionals",
-      "postings": 70
-    },
-    {
-      "code": "7",
-      "title": "Craft and Related Trades Workers",
-      "postings": 43
+      "postings": 76
     },
     {
       "code": "1",
       "title": "Managers",
-      "postings": 42
+      "postings": 47
+    },
+    {
+      "code": "7",
+      "title": "Craft and Related Trades Workers",
+      "postings": 46
     },
     {
       "code": "4",
       "title": "Clerical Support Workers",
-      "postings": 42
+      "postings": 41
     },
     {
       "code": "9",
       "title": "Elementary Occupations",
-      "postings": 24
+      "postings": 25
     },
     {
       "code": "8",
       "title": "Plant and Machine Operators, and Assemblers",
-      "postings": 13
+      "postings": 16
     },
     {
       "code": "6",
@@ -53,19 +53,19 @@
   "by_exposure_gradient": [
     {
       "gradient": "Not Exposed",
-      "postings": 230
+      "postings": 231
     },
     {
       "gradient": "Minimal Exposure",
-      "postings": 123
+      "postings": 129
     },
     {
       "gradient": "Exposed: Gradient 3",
-      "postings": 60
+      "postings": 64
     },
     {
       "gradient": "Exposed: Gradient 2",
-      "postings": 55
+      "postings": 59
     },
     {
       "gradient": "Exposed: Gradient 1",
@@ -84,56 +84,49 @@
     {
       "isco_code": "5223",
       "title": "Shop Sales Assistants",
-      "postings": 31,
+      "postings": 29,
       "genai_exposure_2025": 0.38,
       "gradient_2025": "Exposed: Gradient 1"
     },
     {
       "isco_code": "2221",
       "title": "Nursing Professionals",
-      "postings": 23,
+      "postings": 22,
       "genai_exposure_2025": 0.25,
       "gradient_2025": "Not Exposed"
     },
     {
       "isco_code": "2342",
       "title": "Early Childhood Educators",
-      "postings": 22,
+      "postings": 20,
       "genai_exposure_2025": 0.21,
       "gradient_2025": "Not Exposed"
     },
     {
       "isco_code": "7231",
       "title": "Motor Vehicle Mechanics and Repairers",
-      "postings": 17,
+      "postings": 18,
       "genai_exposure_2025": 0.18,
       "gradient_2025": "Not Exposed"
     },
     {
       "isco_code": "3221",
       "title": "Nursing Associate Professionals",
-      "postings": 12,
+      "postings": 14,
       "genai_exposure_2025": 0.22,
       "gradient_2025": "Minimal Exposure"
     },
     {
-      "isco_code": "3322",
-      "title": "Commercial Sales Representatives",
-      "postings": 11,
-      "genai_exposure_2025": 0.49,
-      "gradient_2025": "Exposed: Gradient 2"
-    },
-    {
       "isco_code": "5322",
       "title": "Home-based Personal Care Workers",
-      "postings": 11,
+      "postings": 12,
       "genai_exposure_2025": 0.25,
       "gradient_2025": "Minimal Exposure"
     },
     {
       "isco_code": "2512",
       "title": "Software Developers",
-      "postings": 11,
+      "postings": 12,
       "genai_exposure_2025": 0.53,
       "gradient_2025": "Exposed: Gradient 3"
     },
@@ -145,6 +138,13 @@
       "gradient_2025": "Minimal Exposure"
     },
     {
+      "isco_code": "3322",
+      "title": "Commercial Sales Representatives",
+      "postings": 10,
+      "genai_exposure_2025": 0.49,
+      "gradient_2025": "Exposed: Gradient 2"
+    },
+    {
       "isco_code": "5120",
       "title": "Cooks",
       "postings": 10,
@@ -154,16 +154,23 @@
     {
       "isco_code": "5312",
       "title": "Teachers' Aides",
-      "postings": 8,
+      "postings": 9,
       "genai_exposure_2025": 0.24,
       "gradient_2025": "Not Exposed"
     },
     {
       "isco_code": "4222",
       "title": "Contact Centre Information Clerks",
-      "postings": 8,
+      "postings": 9,
       "genai_exposure_2025": 0.58,
       "gradient_2025": "Exposed: Gradient 3"
+    },
+    {
+      "isco_code": "3512",
+      "title": "Information and Communications Technology User Support Technicians",
+      "postings": 8,
+      "genai_exposure_2025": 0.47,
+      "gradient_2025": "Exposed: Gradient 2"
     },
     {
       "isco_code": "2211",
@@ -187,18 +194,11 @@
       "gradient_2025": "Not Exposed"
     },
     {
-      "isco_code": "3434",
-      "title": "Chefs",
+      "isco_code": "5246",
+      "title": "Food Service Counter Attendants",
       "postings": 7,
-      "genai_exposure_2025": 0.25,
+      "genai_exposure_2025": 0.24,
       "gradient_2025": "Not Exposed"
-    },
-    {
-      "isco_code": "3512",
-      "title": "Information and Communications Technology User Support Technicians",
-      "postings": 7,
-      "genai_exposure_2025": 0.47,
-      "gradient_2025": "Exposed: Gradient 2"
     },
     {
       "isco_code": "2511",
@@ -215,16 +215,16 @@
       "gradient_2025": "Not Exposed"
     },
     {
-      "isco_code": "4226",
-      "title": "Receptionists (general)",
-      "postings": 7,
-      "genai_exposure_2025": 0.57,
-      "gradient_2025": "Exposed: Gradient 3"
+      "isco_code": "8322",
+      "title": "Car, Taxi and Van Drivers",
+      "postings": 6,
+      "genai_exposure_2025": 0.28,
+      "gradient_2025": "Exposed: Gradient 1"
     }
   ],
   "ai": {
-    "postings_mentioning_ai": 29,
-    "share_mentioning_ai": 0.051,
+    "postings_mentioning_ai": 27,
+    "share_mentioning_ai": 0.046,
     "ai_roles": 4,
     "top_ai_skills": [
       {
@@ -244,15 +244,11 @@
         "postings": 2
       },
       {
+        "skill": "interest in using ai to develop work practices",
+        "postings": 2
+      },
+      {
         "skill": "ai in erp solutions",
-        "postings": 1
-      },
-      {
-        "skill": "experience with ai tools",
-        "postings": 1
-      },
-      {
-        "skill": "using ai to develop and simplify work processes",
         "postings": 1
       },
       {
@@ -260,11 +256,15 @@
         "postings": 1
       },
       {
-        "skill": "interest in applying ai",
+        "skill": "use of ai and automation in financial systems",
         "postings": 1
       },
       {
-        "skill": "using ai to improve financial management and analysis",
+        "skill": "ai-based search",
+        "postings": 1
+      },
+      {
+        "skill": "experience with ai coding tools",
         "postings": 1
       }
     ],
@@ -284,14 +284,6 @@
       {
         "tool": "Copilot Studio",
         "postings": 2
-      },
-      {
-        "tool": "Claude",
-        "postings": 1
-      },
-      {
-        "tool": "Microsoft Copilot",
-        "postings": 1
       },
       {
         "tool": "Cursor",

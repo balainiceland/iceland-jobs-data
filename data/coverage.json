@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-28T11:28:03+00:00",
+  "generated_at": "2026-10-29T11:39:28+00:00",
   "available": true,
   "official_quarter": "2026Q2",
   "official_total_vacancies": 3540,
-  "our_open_jobs": 573,
-  "coverage": 0.162,
-  "jobs_without_sector": 9,
+  "our_open_jobs": 584,
+  "coverage": 0.165,
+  "jobs_without_sector": 7,
   "sectors": [
     {
       "code": "1",
@@ -18,15 +18,15 @@
       "code": "2",
       "sector": "Industry, energy and utilities",
       "official_vacancies": 160,
-      "our_open_jobs": 71,
-      "coverage": 0.444
+      "our_open_jobs": 74,
+      "coverage": 0.463
     },
     {
       "code": "4",
       "sector": "Construction",
       "official_vacancies": 680,
-      "our_open_jobs": 16,
-      "coverage": 0.024
+      "our_open_jobs": 17,
+      "coverage": 0.025
     },
     {
       "code": "5",
@@ -39,8 +39,8 @@
       "code": "6",
       "sector": "Information and communication",
       "official_vacancies": 80,
-      "our_open_jobs": 39,
-      "coverage": 0.487
+      "our_open_jobs": 41,
+      "coverage": 0.512
     },
     {
       "code": "7",
@@ -60,30 +60,30 @@
       "code": "9",
       "sector": "Professional and administrative services",
       "official_vacancies": 740,
-      "our_open_jobs": 39,
-      "coverage": 0.053
+      "our_open_jobs": 43,
+      "coverage": 0.058
     },
     {
       "code": "10",
       "sector": "Public administration, education and health",
       "official_vacancies": 340,
-      "our_open_jobs": 241,
-      "coverage": 0.709
+      "our_open_jobs": 245,
+      "coverage": 0.721
     },
     {
       "code": "11",
       "sector": "Arts, recreation and other services",
       "official_vacancies": 400,
-      "our_open_jobs": 16,
-      "coverage": 0.04
+      "our_open_jobs": 15,
+      "coverage": 0.037
     }
   ],
   "same_period": [
     {
       "quarter": "2026Q4",
-      "days_observed": 12,
+      "days_observed": 13,
       "complete": false,
-      "avg_open_jobs": 591.1,
+      "avg_open_jobs": 590.3,
       "official_vacancies": null,
       "coverage": null
     }

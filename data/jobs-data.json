@@ -1,10 +1,10 @@
 {
  "version": "2.0.0",
- "lastUpdated": "2026-10-28T11:28:08+00:00",
+ "lastUpdated": "2026-10-29T11:39:35+00:00",
  "metadata": {
-  "lastUpdated": "2026-10-28",
+  "lastUpdated": "2026-10-29",
   "version": "2.0.0",
-  "totalJobs": 602,
+  "totalJobs": 604,
   "source": "Iceland jobs research database (github.com/balainiceland/iceland-jobs-data)"
  },
  "categories": {
@@ -45,42 +45,61 @@
  },
  "jobs": [
   {
-   "id": 3406,
-   "company": "atNorth",
+   "id": 3442,
+   "company": "JBT Marel",
    "companyLogo": null,
-   "title": "Project Director",
-   "description": "atNorth is a leading Nordic data center company providing cost-effective, scalable high-density colocation and built-to-suit services to industry-leading organizations across Iceland, Sweden, Finland, and Denmark.\n\nAs part of its continued growth, atNorth is hiring two Project Directors for its Delivery team – One based at ICE02 in Reykjanesbær and one at ICE03 in Akureyri.\n\nIn this key role, you will be responsible for leading large-scale data center projects from construction through commissioning and handover, ensuring delivery against agreed scope, schedule, budget, quality and safety targets. You will work closely with customers, contractors and internal stakeholders to ensure successful project execution.",
+   "title": "Við leitum að liðsauka á lager | Warehouse Team Member",
+   "description": "JBT Marel leitar að kraftmiklum og jákvæðum liðsfélögum til starfa á lager. Starfið er fjölbreytt og felur meðal annars í sér móttöku á vörum frá birgjum, tiltekt og afgreiðslu pantana ásamt öðrum verkefnum sem tengjast daglegum rekstri lagersins.\n\nVið bjóðum upp á fyrsta flokks starfsumhverfi þar sem öryggi, góð liðsheild, samvinna og stöðugar umbætur eru í fyrirrúmi.",
    "category": "operations",
    "type": "full-time",
    "experienceLevel": "mid",
-   "location": "Sjónarhóll 6, 235 Reykjanesbær",
+   "location": "Austurhraun 9, 210 Garðabær",
    "remote": "onsite",
    "salary": null,
-   "postedDate": "2026-10-27",
-   "applicationUrl": "https://alfred.is/starf/project-director",
+   "postedDate": "2026-10-28",
+   "applicationUrl": "https://alfred.is/starf/vid-leitum-ad-lidsauka-a-lager-warehouse-team-member",
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
-   "id": 3402,
+   "id": 3454,
+   "company": "atNorth",
+   "companyLogo": null,
+   "title": "Commissioning Manager",
+   "description": "atNorth is looking for a Commissioning Manager to join its Project Delivery team in Reykjanesbær and Akureyri, Iceland. Commissioning Manager will play a key role in ensuring that new data center infrastructure is thoroughly tested, commissioned and ready for operational handover. The role works closely with contractors, vendors and internal teams throughout project delivery, with a strong focus on commissioning activities, testing and technical coordination.",
+   "category": "other",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Steinhella 10, 221 Hafnarfjörður",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-28",
+   "applicationUrl": "https://alfred.is/starf/commissioning-manager",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-29"
+  },
+  {
+   "id": 1333,
    "company": "Alvotech hf",
    "companyLogo": null,
-   "title": "Sérfræðingur í sjónrænni gæðaskoðun / Visual Inspection Technologist",
-   "description": "Við leitum að áhugasömum einstaklingi til að ganga til liðs við Visual Inspection teymið okkar í framleiðslunni. Starfið felst í sjónrænni gæðaskoðun á fullbúnu líftæknilyfi í reglubundnu umhverfi. Um er að ræða vaktavinnu. Æskilegt er að umsækjandi sé nákvæmur og með gott auga fyrir smáatriðum.\n\n[English]\n\nWe are seeking a Technologist to join our Visual Inspection team, responsible for performing visual inspection of pharmaceutical products in a controlled, non-classified (CNC) environment. This is a shift‑based position, requiring flexibility and availability for assigned shifts. The ideal candidate shows strong attention to detail, patience, and strict adherence to procedures, including cGMP and EHS requirements.\n\nKey Responsibilities\n\n-\nPerform visual inspection of final pharmaceutical products in controlled/non-classified areas (CNC) in accordance with approved procedures\n\n-\nPackage final products post-inspection in compliance with established procedures\n\n-\nRole may require lifting and handling heavy boxes\n\n-\nUse computer systems and software to document inspection activities accurately and in compliance with cGMP and data integrity requirements.\n\n-\nSupport in GMP production activities, including technical and validation support when required\n\n-\nConduct all activities in full compliance with cGMP, EHS, and company quality systems\n\n-\nAdhere strictly to SOPs, work instructions, and job-specific procedures\n\n-\nSupport and contribute, as required, to audits, inspections, and regulatory interactions, including Pre-Approval Inspections (PAIs)\n\n-\nWork performed in a dark room designed for visual inspection\n\nQualifications\n\n-\nStrong attention to detail, high concentration, and the ability to perform repetitive tasks accurately.\n\n-\nSolid understanding of written procedures and commitment to following cGMP, EHS, SOPs, and quality standards.\n\n-\nProficiency in using computers and standard software tools for documentation and daily operations.\n\n-\nTeam-oriented mindset with the ability to follow guidance and work collaboratively.\n\n-\nBasic technical or administrative knowledge relevant to manufacturing environments.\n\n-\nBasic knowledge of GMP manufacturing operations; 1–2 years of experience in technical or production roles is an advantage.\n\n-\nPassing a vision test with good eyesight (with or without corrective lenses) is a mandatory for this position.\n\nSuccessful candidates must demonstrate visual capability suitable for manual visual inspection. This position is critical to product quality and patient safety and requires consistent performance and procedural discipline.\n\nWhat we offer:\n\n-\nAn inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n-\nThe chance to be a part of a global and fast-growing company.\n\n-\nAn international work culture that encourages diversity, collaboration and inclusion.\n\n-\nPositive, flexible, and innovative work environment.\n\n-\nSupport for personal growth and internal career development.\n\n-\nCompany social events and milestone celebrations.\n\n-\nExcellent in-house canteen and coffee house.\n\n-\nExercise and wellbeing support for full-time employees.\n\n-\nOn-site shower facility.\n\n-\nTransportation grant towards eco-friendly modes of travel for full-time employees.\n\n-\nInternet at home for full-time employees.\n\nAt Alvotech, we're committed to fostering a diverse and inclusive workplace where everyone feels valued, respected, and empowered to succeed. We encourage applications from all qualified candidates. However, relocation assistance /Work sponsorship is not available for this role\n\nWhy Alvotech\n\nAt Alvotech, we are passionate about improving lives by increasing access to affordable biologics. We’re purpose-driven and committed to fostering an inclusive and diverse working environment that encourages curiosity, ingenuity and simplicity. We want our employees to feel inspired in their careers, challenged by interesting and meaningful work and empowered to succeed in an agile environment.\n\nTrue to our Icelandic roots, we also believe that integrity, gender equality, and fairness are foundational. We strive to bring together the brightest minds regardless of backgrounds and beliefs, to deliver to our partners and patients around the world. Let’s create a healthier world together, through affordable biologic medicines.",
-   "category": "production",
-   "type": "full-time",
+   "title": "Payroll Specialist",
+   "description": "Alvotech leitar að öflugum og nákvæmum launasérfræðingi í tímabundið starf til 6 mánaða með möguleika á framlengingu.\n\nLaunateymi Alvotech annast launavinnslu fyrir um 1100 manns á Íslandi, auk umsjónar launavinnslu í nokkrum löndum utan Íslands.\n\nStarfið felur í sér vinnslu mánaðarlegra launa, umsýslu launagagna, samskipti við starfsfólk og stjórnendur ásamt því að tryggja að launavinnsla samræmist íslenskum lögum, kjarasamningum og skattareglum.\n\nVið leitum að einstaklingi með að lágmarki 3 ára reynslu af launavinnslu, góða þekkingu á íslensku launaumhverfi, skattamálum og lífeyrismálum. Þekking á launavinnslu í Kjarna er kostur, góð Excel-kunnátta og hæfni til að vinna með trúnaðarupplýsingar af fagmennsku eru skilyrði. Mjög góð íslensku- og enskukunnátta er nauðsynleg.\n\nKostur er ef umsækjandi hefur reynslu af alþjóðlegri launavinnslu, umbótaverkefnum tengdum launaferlum og vinnu í hröðu og krefjandi starfsumhverfi.\n\n[English]\n\nAlvotech is looking for a temporary (6 months contract with the possibility of extension) Payroll Specialist. The Payroll Specialist is responsible for ensuring accurate and timely payroll processing, maintaining compliance with Icelandic labor laws, collective agreements, tax requirements, and internal policies. The role works closely with HR, Finance, managers, external payroll providers, and government authorities to deliver a high-quality payroll service to employees.\n\nKey responsibilities:\n\n- Process monthly payroll accurately and on time.\n\n- Review and validate payroll data, including salaries, overtime, shift premiums, bonuses, allowances, and deductions.\n\n- Maintain employee payroll records and ensure data accuracy within HR and payroll systems.\n\n- Calculate final settlements, vacation pay, and other employee payments.\n\n- Support payroll-related month-end and year-end activities.\n\n- Ensure compliance with Icelandic labor legislation, tax regulations, social security requirements, and collective bargaining agreements.\n\n- Maintain knowledge of relevant laws, regulations, and union requirements.\n\n- Prepare and submit payroll-related reports and declarations to authorities and third-party providers.\n\n- Support internal and external audits by providing payroll documentation and reports.\n\n- Respond to employee and manager inquiries regarding payroll, taxation, benefits, vacation accruals, and deductions.\n\n- Provide guidance and support on payroll-related matters in a professional and confidential manner.\n\n- Assist with onboarding and offboarding activities related to payroll administration.\n\n- The Payroll Specialist is responsible for ensuring accurate and timely payroll processing, maintaining compliance with Icelandic labor laws, collective agreements, tax requirements, and internal policies.\n\nQualifications:\n\n- Bachelor's degree in Business Administration, Accounting, Human Resources, or a related field, or equivalent experience.\n\n- Minimum 3 years of payroll administration experience.\n\n- Fluent in Icelandic and English, both written and spoken.\n\n- Strong knowledge of Icelandic payroll practices, taxation, pension administration, and labor market requirements.\n\n- Experience in working with payroll and HR information systems.\n\n- Advanced Excel skills and experience with payroll reporting.\n\n- Strong attention to detail and high level of accuracy.\n\n- Ability to handle confidential information with discretion.\n\n- Experience in supporting multinational payroll operations.\n\n- Knowledge of collective bargaining agreements and union requirements in Iceland.\n\n- Experience with payroll process improvement and automation initiatives.\n\n- Knowledge of Kjarni payroll solutions is a strong advantage.\n\nWhat we offer:\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and wellbeing support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.",
+   "category": "finance",
+   "type": "contract",
    "experienceLevel": "mid",
    "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
    "remote": "onsite",
    "salary": null,
-   "postedDate": "2026-10-27",
-   "applicationUrl": "https://alfred.is/starf/serfrdingur-i-sjonrnni-gdaskodun-visual-inspection-technologist-1",
+   "postedDate": "2026-10-28",
+   "applicationUrl": "https://alfred.is/starf/payroll-specialist",
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 3388,
@@ -90,7 +109,7 @@
    "description": "An Associate scientist in the Quality Control Product testing team plays a vital part at Alvotech by participating in the quality control and release of products manufactured at Alvotech. We are looking for an individual who has a positive attitude, embraces challenges, is flexible and adaptive, and shares our values of team spirit and team efforts.\n\nScope and responsibility:\n\n- Performs routine analytical testing with analytical techniques such as Liquid Chromatography (SEC, APAC, CEX, etc.), Capillary electrophoresis (iCIEF, CE-SDS), compendial methods (colour, clarity, subvisible particles, TOC, etc.) and reviews analytical test records to support manufacturing process with limited supervision.\n\n- Execute routine laboratory activities, including equipment cleaning, verification, stock management, and general laboratory maintenance to ensure operational readiness and compliance.\n\n- Performing activities required to support testing, e.g., buffer preparation\n\n- Participate in the creation and maintenance of quality documents within Alvotech.\n\n- Contributes to other documentation reviews and/or updates within the Quality management system.\n\nJob requirements:\n\n- Bachelor’s degree or master’s degree in a relevant scientific discipline and at least 0-1 years of relevant experience in the pharmaceutical or biopharmaceutical sector.\n\n- Proficient in using a PC and common Microsoft packages such as Word and Excel.\n\n- Basic Knowledge of Good Manufacturing Practices (GMP) and documentation Rules is an asset.\n\nWhat we offer:\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration, and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and well-being support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.\n\nAbout Us\n\nAt Alvotech, we are building a global biotechnology company with a clear purpose: to expand access to high-quality, affordable biologic medicines for patients worldwide. Our people are central to that mission. Across our global teams, we bring together expertise in science, manufacturing, quality and commercial operations to shape the future of biosimilars.\n\nWe offer a dynamic, fast-moving environment where curiosity, initiative and ownership are encouraged. Rooted in Icelandic values and operating on a global stage, we value collaboration, diversity and integrity across everything we do. Our teams work on meaningful challenges, contribute directly to patient impact, and grow alongside the business.\n\nWhether you are at the start of your career or looking to take your next step, Alvotech offers the opportunity to do work that matters, in a company driven by purpose and scale.\n\nIf you do not see a role that matches your experience today, we still welcome general applications from individuals who share our ambition and want to help improve access to biologic medicines worldwide.",
    "category": "science",
    "type": "full-time",
-   "experienceLevel": "mid",
+   "experienceLevel": "entry",
    "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
    "remote": "onsite",
    "salary": null,
@@ -99,7 +118,45 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
+  },
+  {
+   "id": 3406,
+   "company": "atNorth",
+   "companyLogo": null,
+   "title": "Project Director",
+   "description": "atNorth is a leading Nordic data center company providing cost-effective, scalable high-density colocation and built-to-suit services to industry-leading organizations across Iceland, Sweden, Finland, and Denmark.\n\nAs part of its continued growth, atNorth is hiring two Project Directors for its Delivery team – One based at ICE02 in Reykjanesbær and one at ICE03 in Akureyri.\n\nIn this key role, you will be responsible for leading large-scale data center projects from construction through commissioning and handover, ensuring delivery against agreed scope, schedule, budget, quality and safety targets. You will work closely with customers, contractors and internal stakeholders to ensure successful project execution.",
+   "category": "operations",
+   "type": "full-time",
+   "experienceLevel": "lead",
+   "location": "Sjónarhóll 6, 235 Reykjanesbær",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-27",
+   "applicationUrl": "https://alfred.is/starf/project-director",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-29"
+  },
+  {
+   "id": 3402,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "Sérfræðingur í sjónrænni gæðaskoðun / Visual Inspection Technologist",
+   "description": "Við leitum að áhugasömum einstaklingi til að ganga til liðs við Visual Inspection teymið okkar í framleiðslunni. Starfið felst í sjónrænni gæðaskoðun á fullbúnu líftæknilyfi í reglubundnu umhverfi. Um er að ræða vaktavinnu. Æskilegt er að umsækjandi sé nákvæmur og með gott auga fyrir smáatriðum.\n\n[English]\n\nWe are seeking a Technologist to join our Visual Inspection team, responsible for performing visual inspection of pharmaceutical products in a controlled, non-classified (CNC) environment. This is a shift‑based position, requiring flexibility and availability for assigned shifts. The ideal candidate shows strong attention to detail, patience, and strict adherence to procedures, including cGMP and EHS requirements.\n\nKey Responsibilities\n\n-\nPerform visual inspection of final pharmaceutical products in controlled/non-classified areas (CNC) in accordance with approved procedures\n\n-\nPackage final products post-inspection in compliance with established procedures\n\n-\nRole may require lifting and handling heavy boxes\n\n-\nUse computer systems and software to document inspection activities accurately and in compliance with cGMP and data integrity requirements.\n\n-\nSupport in GMP production activities, including technical and validation support when required\n\n-\nConduct all activities in full compliance with cGMP, EHS, and company quality systems\n\n-\nAdhere strictly to SOPs, work instructions, and job-specific procedures\n\n-\nSupport and contribute, as required, to audits, inspections, and regulatory interactions, including Pre-Approval Inspections (PAIs)\n\n-\nWork performed in a dark room designed for visual inspection\n\nQualifications\n\n-\nStrong attention to detail, high concentration, and the ability to perform repetitive tasks accurately.\n\n-\nSolid understanding of written procedures and commitment to following cGMP, EHS, SOPs, and quality standards.\n\n-\nProficiency in using computers and standard software tools for documentation and daily operations.\n\n-\nTeam-oriented mindset with the ability to follow guidance and work collaboratively.\n\n-\nBasic technical or administrative knowledge relevant to manufacturing environments.\n\n-\nBasic knowledge of GMP manufacturing operations; 1–2 years of experience in technical or production roles is an advantage.\n\n-\nPassing a vision test with good eyesight (with or without corrective lenses) is a mandatory for this position.\n\nSuccessful candidates must demonstrate visual capability suitable for manual visual inspection. This position is critical to product quality and patient safety and requires consistent performance and procedural discipline.\n\nWhat we offer:\n\n-\nAn inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n-\nThe chance to be a part of a global and fast-growing company.\n\n-\nAn international work culture that encourages diversity, collaboration and inclusion.\n\n-\nPositive, flexible, and innovative work environment.\n\n-\nSupport for personal growth and internal career development.\n\n-\nCompany social events and milestone celebrations.\n\n-\nExcellent in-house canteen and coffee house.\n\n-\nExercise and wellbeing support for full-time employees.\n\n-\nOn-site shower facility.\n\n-\nTransportation grant towards eco-friendly modes of travel for full-time employees.\n\n-\nInternet at home for full-time employees.\n\nAt Alvotech, we're committed to fostering a diverse and inclusive workplace where everyone feels valued, respected, and empowered to succeed. We encourage applications from all qualified candidates. However, relocation assistance /Work sponsorship is not available for this role\n\nWhy Alvotech\n\nAt Alvotech, we are passionate about improving lives by increasing access to affordable biologics. We’re purpose-driven and committed to fostering an inclusive and diverse working environment that encourages curiosity, ingenuity and simplicity. We want our employees to feel inspired in their careers, challenged by interesting and meaningful work and empowered to succeed in an agile environment.\n\nTrue to our Icelandic roots, we also believe that integrity, gender equality, and fairness are foundational. We strive to bring together the brightest minds regardless of backgrounds and beliefs, to deliver to our partners and patients around the world. Let’s create a healthier world together, through affordable biologic medicines.",
+   "category": "production",
+   "type": "full-time",
+   "experienceLevel": "entry",
+   "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-27",
+   "applicationUrl": "https://alfred.is/starf/serfrdingur-i-sjonrnni-gdaskodun-visual-inspection-technologist-1",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 3342,
@@ -118,7 +175,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 3339,
@@ -137,7 +194,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 3313,
@@ -156,7 +213,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 3314,
@@ -175,7 +232,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 3303,
@@ -194,7 +251,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 3293,
@@ -213,7 +270,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 3255,
@@ -232,7 +289,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 3221,
@@ -251,7 +308,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 3190,
@@ -270,7 +327,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 3220,
@@ -289,7 +346,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 3202,
@@ -308,7 +365,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 3188,
@@ -327,7 +384,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 3157,
@@ -346,7 +403,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 3154,
@@ -365,7 +422,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 3145,
@@ -384,7 +441,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 3106,
@@ -403,7 +460,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 1330,
@@ -422,26 +479,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-28"
-  },
-  {
-   "id": 1333,
-   "company": "Alvotech hf",
-   "companyLogo": null,
-   "title": "Payroll Specialist",
-   "description": "Alvotech leitar að öflugum og nákvæmum launasérfræðingi í tímabundið starf til 6 mánaða með möguleika á framlengingu.\n\nLaunateymi Alvotech annast launavinnslu fyrir um 1100 manns á Íslandi, auk umsjónar launavinnslu í nokkrum löndum utan Íslands.\n\nStarfið felur í sér vinnslu mánaðarlegra launa, umsýslu launagagna, samskipti við starfsfólk og stjórnendur ásamt því að tryggja að launavinnsla samræmist íslenskum lögum, kjarasamningum og skattareglum.\n\nVið leitum að einstaklingi með að lágmarki 3 ára reynslu af launavinnslu, góða þekkingu á íslensku launaumhverfi, skattamálum og lífeyrismálum. Þekking á launavinnslu í Kjarna er kostur, góð Excel-kunnátta og hæfni til að vinna með trúnaðarupplýsingar af fagmennsku eru skilyrði. Mjög góð íslensku- og enskukunnátta er nauðsynleg.\n\nKostur er ef umsækjandi hefur reynslu af alþjóðlegri launavinnslu, umbótaverkefnum tengdum launaferlum og vinnu í hröðu og krefjandi starfsumhverfi.\n\n[English]\n\nAlvotech is looking for a temporary (6 months contract with the possibility of extension) Payroll Specialist. The Payroll Specialist is responsible for ensuring accurate and timely payroll processing, maintaining compliance with Icelandic labor laws, collective agreements, tax requirements, and internal policies. The role works closely with HR, Finance, managers, external payroll providers, and government authorities to deliver a high-quality payroll service to employees.\n\nKey responsibilities and minimum requirements according to job level:\n• Process monthly payroll accurately and on time.\n• Review and validate payroll data, including salaries, overtime, shift premiums, bonuses, allowances, and deductions.\n\n• Maintain employee payroll records and ensure data accuracy within HR and payroll systems.\n\n• Calculate final settlements, vacation pay, and other employee payments.\n\n• Support payroll-related month-end and year-end activities.\n\n• Ensure compliance with Icelandic labor legislation, tax regulations, social security requirements, and collective bargaining agreements.\n\n• Maintain knowledge of relevant laws, regulations, and union requirements.\n\n• Prepare and submit payroll-related reports and declarations to authorities and third-party providers.\n\n• Support internal and external audits by providing payroll documentation and reports.\n\n• Respond to employee and manager inquiries regarding payroll, taxation, benefits, vacation accruals, and deductions.\n\n• Provide guidance and support on payroll-related matters in a professional and confidential manner.\n\n• Assist with onboarding and offboarding activities related to payroll administration. Competencies required to fulfill the employee responsibilities and work assignments:\n\n• Bachelor's degree in Business Administration, Accounting, Human Resources, or a related field, or equivalent experience.\n\n• Minimum 3 years of payroll administration experience.\n\n• Strong knowledge of Icelandic payroll practices, taxation, pension administration, and labor market requirements.\n\n• Experience working with payroll and HR information systems.\n\n• Advanced Excel skills and experience with payroll reporting.\n\n• Strong attention to detail and high level of accuracy. • Ability to handle confidential information with discretion.\n\n• Fluent in Icelandic and English, both written and spoken. Additional competencies required to fulfill key management responsibilities:\n\n• Experience supporting multinational payroll operations.\n\n• Knowledge of collective bargaining agreements and union requirements in Iceland.\n\n• Experience with payroll process improvement and automation initiatives.\n\n• Experience working in a complex or fast-paced organizational environment.\n\n• Knowledge of Kjarni payroll solutions is a strong advantage\n\nSpecifics of the role:\n\n• The Payroll Specialist is responsible for ensuring accurate and timely payroll processing, maintaining compliance with Icelandic labor laws, collective agreements, tax requirements, and internal policies.\n\nMinimum education and experience required for the role:\n\nEducation:\n\n• Bachelor's degree in Business Administration, Accounting, Human Resources, or a related\n\nfield, or equivalent experience.\n\nExperience:\n\n• Minimum 3 years of payroll administration experience",
-   "category": "finance",
-   "type": "contract",
-   "experienceLevel": "mid",
-   "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
-   "remote": "onsite",
-   "salary": null,
-   "postedDate": "2026-10-16",
-   "applicationUrl": "https://alfred.is/starf/payroll-specialist",
-   "featured": false,
-   "startup": true,
-   "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 1173,
@@ -612,7 +650,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 571,
@@ -1087,7 +1125,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 546,
@@ -1220,7 +1258,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 818,
@@ -1239,7 +1277,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 538,
@@ -1277,7 +1315,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 539,
@@ -2018,7 +2056,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 498,
@@ -3006,7 +3044,7 @@
    "featured": false,
    "startup": true,
    "status": "filled",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 445,
@@ -8706,7 +8744,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 77,
@@ -8744,7 +8782,7 @@
    "featured": true,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 75,
@@ -8763,7 +8801,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 65,
@@ -8915,7 +8953,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 70,
@@ -8934,7 +8972,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 66,
@@ -8972,7 +9010,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 1361,
@@ -9295,7 +9333,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 55,
@@ -9390,7 +9428,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 38,
@@ -9485,7 +9523,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 2,
@@ -9504,7 +9542,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 14,
@@ -9542,7 +9580,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 4,
@@ -9561,7 +9599,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 9,
@@ -9580,7 +9618,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 12,
@@ -9599,7 +9637,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 13,
@@ -9656,7 +9694,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 8,
@@ -9675,7 +9713,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 6,
@@ -9694,7 +9732,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 1,
@@ -9713,7 +9751,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 10,
@@ -9846,7 +9884,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-28"
+   "lastVerified": "2026-10-29"
   },
   {
    "id": 22,
