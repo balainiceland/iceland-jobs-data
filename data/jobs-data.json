@@ -1,8 +1,8 @@
 {
  "version": "2.0.0",
- "lastUpdated": "2026-10-29T11:39:35+00:00",
+ "lastUpdated": "2026-10-30T11:30:46+00:00",
  "metadata": {
-  "lastUpdated": "2026-10-29",
+  "lastUpdated": "2026-10-30",
   "version": "2.0.0",
   "totalJobs": 604,
   "source": "Iceland jobs research database (github.com/balainiceland/iceland-jobs-data)"
@@ -52,7 +52,7 @@
    "description": "JBT Marel leitar að kraftmiklum og jákvæðum liðsfélögum til starfa á lager. Starfið er fjölbreytt og felur meðal annars í sér móttöku á vörum frá birgjum, tiltekt og afgreiðslu pantana ásamt öðrum verkefnum sem tengjast daglegum rekstri lagersins.\n\nVið bjóðum upp á fyrsta flokks starfsumhverfi þar sem öryggi, góð liðsheild, samvinna og stöðugar umbætur eru í fyrirrúmi.",
    "category": "operations",
    "type": "full-time",
-   "experienceLevel": "mid",
+   "experienceLevel": "entry",
    "location": "Austurhraun 9, 210 Garðabær",
    "remote": "onsite",
    "salary": null,
@@ -61,26 +61,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
-  },
-  {
-   "id": 3454,
-   "company": "atNorth",
-   "companyLogo": null,
-   "title": "Commissioning Manager",
-   "description": "atNorth is looking for a Commissioning Manager to join its Project Delivery team in Reykjanesbær and Akureyri, Iceland. Commissioning Manager will play a key role in ensuring that new data center infrastructure is thoroughly tested, commissioned and ready for operational handover. The role works closely with contractors, vendors and internal teams throughout project delivery, with a strong focus on commissioning activities, testing and technical coordination.",
-   "category": "other",
-   "type": "full-time",
-   "experienceLevel": "mid",
-   "location": "Steinhella 10, 221 Hafnarfjörður",
-   "remote": "onsite",
-   "salary": null,
-   "postedDate": "2026-10-28",
-   "applicationUrl": "https://alfred.is/starf/commissioning-manager",
-   "featured": false,
-   "startup": true,
-   "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 1333,
@@ -99,7 +80,26 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
+  },
+  {
+   "id": 3454,
+   "company": "atNorth",
+   "companyLogo": null,
+   "title": "Commissioning Manager",
+   "description": "atNorth is looking for a Commissioning Manager to join its Project Delivery team in Reykjanesbær and Akureyri, Iceland. Commissioning Manager will play a key role in ensuring that new data center infrastructure is thoroughly tested, commissioned and ready for operational handover. The role works closely with contractors, vendors and internal teams throughout project delivery, with a strong focus on commissioning activities, testing and technical coordination.",
+   "category": "other",
+   "type": "full-time",
+   "experienceLevel": "senior",
+   "location": "Steinhella 10, 221 Hafnarfjörður",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-28",
+   "applicationUrl": "https://alfred.is/starf/commissioning-manager",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 3388,
@@ -118,7 +118,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 3406,
@@ -137,7 +137,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 3402,
@@ -156,7 +156,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 3342,
@@ -175,7 +175,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 3339,
@@ -194,7 +194,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 3313,
@@ -213,7 +213,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 3314,
@@ -232,7 +232,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 3303,
@@ -251,7 +251,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 3293,
@@ -270,7 +270,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 3255,
@@ -289,7 +289,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 3221,
@@ -308,7 +308,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 3190,
@@ -327,7 +327,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 3220,
@@ -346,7 +346,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 3202,
@@ -365,7 +365,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 3188,
@@ -384,7 +384,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 3157,
@@ -403,7 +403,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 3154,
@@ -422,7 +422,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 3145,
@@ -441,7 +441,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 3106,
@@ -460,7 +460,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 1330,
@@ -479,7 +479,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 1173,
@@ -650,7 +650,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 571,
@@ -1125,7 +1125,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 546,
@@ -1258,7 +1258,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 818,
@@ -1277,7 +1277,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 538,
@@ -1314,7 +1314,7 @@
    "applicationUrl": "https://alfred.is/starf/fulltrui-a-fjarmalasvidi-bookkeeper",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-10-29"
   },
   {
@@ -2056,7 +2056,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 498,
@@ -3044,7 +3044,7 @@
    "featured": false,
    "startup": true,
    "status": "filled",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 445,
@@ -8744,7 +8744,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 77,
@@ -8782,7 +8782,7 @@
    "featured": true,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 75,
@@ -8801,7 +8801,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 65,
@@ -8953,7 +8953,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 70,
@@ -8972,7 +8972,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 66,
@@ -9010,7 +9010,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 1361,
@@ -9333,7 +9333,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 55,
@@ -9428,7 +9428,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 38,
@@ -9523,7 +9523,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 2,
@@ -9542,7 +9542,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 14,
@@ -9580,7 +9580,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 4,
@@ -9599,7 +9599,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 9,
@@ -9618,7 +9618,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 12,
@@ -9637,7 +9637,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 13,
@@ -9694,7 +9694,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 8,
@@ -9713,7 +9713,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 6,
@@ -9732,7 +9732,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 1,
@@ -9751,7 +9751,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 10,
@@ -9884,7 +9884,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-29"
+   "lastVerified": "2026-10-30"
   },
   {
    "id": 22,

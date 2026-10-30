@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-29T11:39:28+00:00",
+  "generated_at": "2026-10-30T11:30:41+00:00",
   "available": true,
   "official_quarter": "2026Q2",
   "official_total_vacancies": 3540,
-  "our_open_jobs": 584,
-  "coverage": 0.165,
-  "jobs_without_sector": 7,
+  "our_open_jobs": 592,
+  "coverage": 0.167,
+  "jobs_without_sector": 8,
   "sectors": [
     {
       "code": "1",
@@ -18,22 +18,22 @@
       "code": "2",
       "sector": "Industry, energy and utilities",
       "official_vacancies": 160,
-      "our_open_jobs": 74,
-      "coverage": 0.463
+      "our_open_jobs": 73,
+      "coverage": 0.456
     },
     {
       "code": "4",
       "sector": "Construction",
       "official_vacancies": 680,
-      "our_open_jobs": 17,
-      "coverage": 0.025
+      "our_open_jobs": 19,
+      "coverage": 0.028
     },
     {
       "code": "5",
       "sector": "Trade, transport, hotels and restaurants",
       "official_vacancies": 1010,
-      "our_open_jobs": 128,
-      "coverage": 0.127
+      "our_open_jobs": 131,
+      "coverage": 0.13
     },
     {
       "code": "6",
@@ -46,8 +46,8 @@
       "code": "7",
       "sector": "Finance and insurance",
       "official_vacancies": 20,
-      "our_open_jobs": 6,
-      "coverage": 0.3
+      "our_open_jobs": 5,
+      "coverage": 0.25
     },
     {
       "code": "8",
@@ -60,8 +60,8 @@
       "code": "9",
       "sector": "Professional and administrative services",
       "official_vacancies": 740,
-      "our_open_jobs": 43,
-      "coverage": 0.058
+      "our_open_jobs": 45,
+      "coverage": 0.061
     },
     {
       "code": "10",
@@ -74,16 +74,16 @@
       "code": "11",
       "sector": "Arts, recreation and other services",
       "official_vacancies": 400,
-      "our_open_jobs": 15,
-      "coverage": 0.037
+      "our_open_jobs": 17,
+      "coverage": 0.043
     }
   ],
   "same_period": [
     {
       "quarter": "2026Q4",
-      "days_observed": 13,
+      "days_observed": 14,
       "complete": false,
-      "avg_open_jobs": 590.3,
+      "avg_open_jobs": 590.2,
       "official_vacancies": null,
       "coverage": null
     }
