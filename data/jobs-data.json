@@ -1,10 +1,10 @@
 {
  "version": "2.0.0",
- "lastUpdated": "2026-10-30T11:30:46+00:00",
+ "lastUpdated": "2026-10-31T11:02:29+00:00",
  "metadata": {
-  "lastUpdated": "2026-10-30",
+  "lastUpdated": "2026-10-31",
   "version": "2.0.0",
-  "totalJobs": 604,
+  "totalJobs": 608,
   "source": "Iceland jobs research database (github.com/balainiceland/iceland-jobs-data)"
  },
  "categories": {
@@ -45,6 +45,82 @@
  },
  "jobs": [
   {
+   "id": 3520,
+   "company": "Verne Global ehf",
+   "companyLogo": null,
+   "title": "Customer Support Supervisor",
+   "description": "We’re looking for experience in technical customer support, data centre operations, critical infrastructure, or a similar environment, ideally with previous supervisory or team leadership experience. You’ll have a good understanding of power, cooling, network and hardware systems, combined with strong customer service, problem-solving and organisational skills. You should be comfortable managing priorities, handling escalations and supporting a team in a fast-paced 24/7 environment. Strong communication skills, attention to detail and fluency in written and spoken English are essential.",
+   "category": "customer-service",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Valhallarbraut 868, 235 Reykjanesbær",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-30",
+   "applicationUrl": "https://alfred.is/starf/customer-support-supervisor",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-31"
+  },
+  {
+   "id": 3526,
+   "company": "JBT Marel",
+   "companyLogo": null,
+   "title": "Shipping and Logistics Coordinator",
+   "description": "JBT Marel leitar að kraftmiklum og jákvæðum liðsfélaga í teymi sem sér um sendingar og flutninga varahluta. Teymið sinnir fjölbreyttum verkefnum tengt varahlutum og sér um allar hraðsendingar til viðskiptavina.\n\nAllt nýtt starfsfólk fær viðeigandi þjálfun. Við bjóðum upp á fyrsta flokks starfsumhverfi þar sem öryggi, góð liðsheild, samvinna og stöðugar umbætur eru í fyrirrúmi.\n\nUm er að ræða tímabundna stöðu til 1 árs, með möguleika á framhaldi.",
+   "category": "operations",
+   "type": "contract",
+   "experienceLevel": "mid",
+   "location": "Austurhraun 9, 210 Garðabær",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-30",
+   "applicationUrl": "https://alfred.is/starf/shipping-and-logistics-coordinator",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-31"
+  },
+  {
+   "id": 3521,
+   "company": "Verne Global ehf",
+   "companyLogo": null,
+   "title": "Infrastructure Technician – Piping & Cooling Systems",
+   "description": "The Data Center Infrastructure Technician – Piping & Cooling Systems is responsible for the safe, reliable operation and maintenance of critical liquid-based mechanical infrastructure within the data centre. Combining specialist plumbing and pipefitting expertise with data centre facilities management, the role oversees chilled water loops, direct-to-chip liquid cooling systems, fire suppression infrastructure, and general plumbing. The technician actively uses CMMS and BMS platforms to manage work orders, coordinate preventative maintenance, monitor system performance, and maintain accurate incident and maintenance records.",
+   "category": "production",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Valhallarbraut 868, 235 Reykjanesbær",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-30",
+   "applicationUrl": "https://alfred.is/starf/infrastructure-technician-piping-cooling-systems",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-31"
+  },
+  {
+   "id": 3529,
+   "company": "JBT Marel",
+   "companyLogo": null,
+   "title": "Liðsfélagi í suðu og samsetningu hátæknibúnaðar",
+   "description": "JBT Marel leitar að kraftmiklum og jákvæðum liðsfélaga til starfa við rafsuðu og samsetningu á fjölbreyttum tækjabúnaði.\n\nUnnið er í sjálfstæðum teymum sem samanstanda af 10-20 einstaklingum á öllum aldri og kynjum og bera þau sameiginlega ábyrgð á að ljúka framleiðslu hverrar vöru. Allt nýtt starfsfólk fær viðeigandi þjálfun.\n\nVið bjóðum upp á fyrsta flokks starfsumhverfi þar sem öryggi, góð liðsheild, samvinna og stöðugar umbætur eru í fyrirrúmi. Framleiðslan í JBT Marel í Garðabæ sérhæfir sig í stuðningi við vöruþróun og framleiðslu á sérhönnuðum verkefnum fyrir okkar viðskiptavini.",
+   "category": "other",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Austurhraun 9, 210 Garðabær",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-30",
+   "applicationUrl": "https://alfred.is/starf/lidsfelagi-i-sudu-og-samsetningu-hatknibunadar",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-10-31"
+  },
+  {
    "id": 3442,
    "company": "JBT Marel",
    "companyLogo": null,
@@ -61,7 +137,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 1333,
@@ -80,7 +156,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 3454,
@@ -99,7 +175,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 3388,
@@ -118,7 +194,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 3406,
@@ -137,7 +213,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 3402,
@@ -156,7 +232,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 3342,
@@ -175,7 +251,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 3339,
@@ -194,7 +270,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 3313,
@@ -213,7 +289,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 3314,
@@ -232,7 +308,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 3303,
@@ -251,7 +327,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 3293,
@@ -270,7 +346,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 3255,
@@ -289,7 +365,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 3221,
@@ -308,7 +384,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 3190,
@@ -327,7 +403,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 3220,
@@ -346,7 +422,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 3202,
@@ -365,7 +441,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 3188,
@@ -384,7 +460,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 3157,
@@ -403,7 +479,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 3154,
@@ -422,7 +498,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 3145,
@@ -441,7 +517,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 3106,
@@ -460,7 +536,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 1330,
@@ -479,7 +555,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 1173,
@@ -650,7 +726,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 571,
@@ -1125,7 +1201,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 546,
@@ -1257,7 +1333,7 @@
    "applicationUrl": "https://alfred.is/starf/assistant-store-manager-information-center-assistant-manager-2",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-10-30"
   },
   {
@@ -1276,7 +1352,7 @@
    "applicationUrl": "https://alfred.is/starf/serfraedingur-i-gaedatryggingardeild-qa-specialist-3",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-10-30"
   },
   {
@@ -2056,7 +2132,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 498,
@@ -8744,7 +8820,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 77,
@@ -8782,7 +8858,7 @@
    "featured": true,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 75,
@@ -8801,7 +8877,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 65,
@@ -8953,7 +9029,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 70,
@@ -8972,7 +9048,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 66,
@@ -9010,7 +9086,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 1361,
@@ -9333,7 +9409,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 55,
@@ -9428,7 +9504,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 38,
@@ -9523,7 +9599,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 2,
@@ -9542,7 +9618,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 14,
@@ -9580,7 +9656,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 4,
@@ -9599,7 +9675,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 9,
@@ -9618,7 +9694,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 12,
@@ -9637,7 +9713,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 13,
@@ -9694,7 +9770,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 8,
@@ -9713,7 +9789,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 6,
@@ -9732,7 +9808,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 1,
@@ -9751,7 +9827,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 10,
@@ -9884,7 +9960,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-10-30"
+   "lastVerified": "2026-10-31"
   },
   {
    "id": 22,

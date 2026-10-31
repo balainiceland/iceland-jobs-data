@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T11:30:41+00:00",
+  "generated_at": "2026-10-31T11:02:24+00:00",
   "sources": [
     {
       "id": "tvinna",
@@ -12,8 +12,8 @@
       "id": "alfred",
       "name": "Alfreð",
       "url": "https://alfred.is",
-      "postings": 970,
-      "open": 577
+      "postings": 1023,
+      "open": 593
     },
     {
       "id": "startupiceland_board",
@@ -26,8 +26,8 @@
       "id": "starfatorg",
       "name": "Starfatorg",
       "url": "https://island.is/starfatorg",
-      "postings": 238,
-      "open": 171
+      "postings": 243,
+      "open": 169
     },
     {
       "id": "hagvangur",
@@ -40,12 +40,12 @@
       "id": "intellecta",
       "name": "Intellecta",
       "url": "https://intellecta.is/storf/",
-      "postings": 10,
-      "open": 6
+      "postings": 11,
+      "open": 7
     }
   ],
-  "classified_share": 0.986,
-  "duplicates_merged": 221,
+  "classified_share": 0.98,
+  "duplicates_merged": 229,
   "methods": {
     "collected_by": "Startup Iceland jobs research database",
     "sources": "Alfreð (alfred.is), Starfatorg (island.is/starfatorg), Tvinna (tvinna.is), Hagvangur and Intellecta (recruiters). Collected daily since 17 October 2026; Tvinna archive back to 2010.",

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-30T11:30:41+00:00",
+  "generated_at": "2026-10-31T11:02:24+00:00",
   "available": true,
   "official_quarter": "2026Q2",
   "official_total_vacancies": 3540,
-  "our_open_jobs": 592,
-  "coverage": 0.167,
+  "our_open_jobs": 603,
+  "coverage": 0.17,
   "jobs_without_sector": 8,
   "sectors": [
     {
@@ -18,50 +18,50 @@
       "code": "2",
       "sector": "Industry, energy and utilities",
       "official_vacancies": 160,
-      "our_open_jobs": 73,
-      "coverage": 0.456
+      "our_open_jobs": 76,
+      "coverage": 0.475
     },
     {
       "code": "4",
       "sector": "Construction",
       "official_vacancies": 680,
-      "our_open_jobs": 19,
-      "coverage": 0.028
+      "our_open_jobs": 17,
+      "coverage": 0.025
     },
     {
       "code": "5",
       "sector": "Trade, transport, hotels and restaurants",
       "official_vacancies": 1010,
-      "our_open_jobs": 131,
-      "coverage": 0.13
+      "our_open_jobs": 133,
+      "coverage": 0.132
     },
     {
       "code": "6",
       "sector": "Information and communication",
       "official_vacancies": 80,
-      "our_open_jobs": 41,
-      "coverage": 0.512
+      "our_open_jobs": 44,
+      "coverage": 0.55
     },
     {
       "code": "7",
       "sector": "Finance and insurance",
       "official_vacancies": 20,
-      "our_open_jobs": 5,
-      "coverage": 0.25
+      "our_open_jobs": 9,
+      "coverage": 0.45
     },
     {
       "code": "8",
       "sector": "Real estate",
       "official_vacancies": 10,
-      "our_open_jobs": 6,
-      "coverage": 0.6
+      "our_open_jobs": 5,
+      "coverage": 0.5
     },
     {
       "code": "9",
       "sector": "Professional and administrative services",
       "official_vacancies": 740,
-      "our_open_jobs": 45,
-      "coverage": 0.061
+      "our_open_jobs": 43,
+      "coverage": 0.058
     },
     {
       "code": "10",
@@ -74,16 +74,16 @@
       "code": "11",
       "sector": "Arts, recreation and other services",
       "official_vacancies": 400,
-      "our_open_jobs": 17,
-      "coverage": 0.043
+      "our_open_jobs": 21,
+      "coverage": 0.052
     }
   ],
   "same_period": [
     {
       "quarter": "2026Q4",
-      "days_observed": 14,
+      "days_observed": 15,
       "complete": false,
-      "avg_open_jobs": 590.2,
+      "avg_open_jobs": 590.9,
       "official_vacancies": null,
       "coverage": null
     }
