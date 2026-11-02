@@ -1,10 +1,10 @@
 {
  "version": "2.0.0",
- "lastUpdated": "2026-11-01T11:55:48+00:00",
+ "lastUpdated": "2026-11-02T13:39:19+00:00",
  "metadata": {
-  "lastUpdated": "2026-11-01",
+  "lastUpdated": "2026-11-02",
   "version": "2.0.0",
-  "totalJobs": 608,
+  "totalJobs": 609,
   "source": "Iceland jobs research database (github.com/balainiceland/iceland-jobs-data)"
  },
  "categories": {
@@ -45,6 +45,25 @@
  },
  "jobs": [
   {
+   "id": 3592,
+   "company": "Coripharma ehf.",
+   "companyLogo": null,
+   "title": "Sérfræðingur í pökkun",
+   "description": "Coripharma leitar að sérfræðingi í pökkunardeild á framleiðslusviði.\n\nVið leitum að einstaklingi með góða þekkingu á GMP-kröfum og gæðakerfum, sterka greiningarhæfni, frumkvæði og hæfni til að leiða verkefni til árangurs. Reynsla úr lyfjaiðnaði er æskileg og sömuleiðis reynsla af störfum í gæða- og/eða framleiðsluumhverfi.\n\nSérfræðingurinn mun annast fjölbreytt verkefni og er í daglegum samskiptum við teymið í pökkun sem og aðrar deildir innan fyrirtækisins. Verkefni sérfræðings tengjast bæði undirbúningi og stuðningi við pökkun lyfja, bæði fyrir eigin lyfjaþróun og í framleiðslu fyrir þriðja aðila (contract manufacturing).\n\nHelstu verkefni og ábyrgð\n\n- Undirbúningur gagna fyrir lyfjapökkun\n\n- Uppsetning pökkunarmastera (Master Data)\n\n- Móttaka, skráning og greining frávika sem koma upp í pökkunarferlum\n\n- Vinnur að ferla- og umbótaverkefnum (CAPA, stöðugar umbætur)\n\n- Gerð skriflegra leiðbeininga og þjálfunarefnis fyrir pökkunardeild\n\n- Þátttaka í úttektum innri og ytri aðila\n\n- Þátttaka í þróunarverkefnum og undirbúningur m.a. fyrir prófanir á nýjum búnaði og pökkun á nýjum lyfjum, umbúðategundum og pakkningarstærðum\n\nMenntunar- og hæfniskröfur\n\n- Háskólamenntun á sviði raungreina, lyfjafræði, verkfræði eða sambærilegu fagsviði\n\n- Reynsla af störfum innan lyfjaiðnaðar er æskileg\n\n- Reynsla af störfum í gæða- og/eða framleiðsluumhverfi er æskileg\n\n- Góð þekking á GMP og kröfum sem gerðar eru til lyfjaframleiðslu\n\n- Reynsla af innleiðingu á nýjum tækjabúnaði er kostur.\n\n- Reynsla af frávikameðhöndlun, CAPA-ferlum og umbótaverkefnum er kostur\n\n- Nákvæmni, skipulagshæfni og frumkvæði\n\n- Góð greiningar- og úrlausnahæfni\n\n- Fagleg samskiptafærni og hæfni til samstarfs þvert á deildir\n\n- Góð íslensku- og enskukunnátta í ræðu og riti\n\n- Góð tölvukunnátta\n\nFríðindi\n\n- Sveigjanlegur vinnutími\n\n- Mötuneyti\n\nCoripharma er íslenskt nýsköpunarfyrirtæki í örum vexti sem sérhæfir sig í þróun, framleiðslu og útflutningi samheitalyfja. Hjá Coripharma starfar fjölbreyttur hópur einstaklinga með ólíka menntun og bakgrunn. Í dag starfa um 230 einstaklingar hjá fyrirtækinu.\n\nFrá því félagið hóf starfsemi árið 2018 hefur það hafið framleiðslu á 26 lyfjum og er með 21 ný lyf í þróun.\n\nMeð umsókn skal fylgja ferilskrá og kynningarbréf þar sem gerð er grein fyrir ástæðu umsóknar og hæfni viðkomandi til að gegna starfinu rökstudd.\n\nUmsóknarfrestur er til og með 15. nóvember 2026",
+   "category": "production",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Reykjavíkurvegur 76, 220 Hafnarfjörður",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-02",
+   "applicationUrl": "https://alfred.is/starf/serfrdingur-i-pokkun",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-02"
+  },
+  {
    "id": 3526,
    "company": "JBT Marel",
    "companyLogo": null,
@@ -61,7 +80,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 3520,
@@ -80,7 +99,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 3529,
@@ -99,7 +118,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 3521,
@@ -118,7 +137,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 3442,
@@ -137,7 +156,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 1333,
@@ -175,7 +194,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 3388,
@@ -194,7 +213,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 3406,
@@ -213,7 +232,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 3402,
@@ -232,7 +251,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 3342,
@@ -251,7 +270,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 3339,
@@ -269,7 +288,7 @@
    "applicationUrl": "https://alfred.is/starf/principal-specialist-qa-engineering",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-01"
   },
   {
@@ -289,7 +308,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 3314,
@@ -308,7 +327,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 3303,
@@ -346,7 +365,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 3255,
@@ -365,7 +384,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 3221,
@@ -384,7 +403,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 3190,
@@ -402,7 +421,7 @@
    "applicationUrl": "https://alfred.is/starf/technician-in-manufacturing-team",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-01"
   },
   {
@@ -422,7 +441,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 3202,
@@ -441,7 +460,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 3188,
@@ -460,7 +479,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 3157,
@@ -479,7 +498,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 3154,
@@ -498,7 +517,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 3145,
@@ -517,7 +536,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 3106,
@@ -536,7 +555,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 1330,
@@ -555,7 +574,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 1173,
@@ -726,7 +745,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 571,
@@ -1201,7 +1220,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 546,
@@ -2132,7 +2151,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 498,
@@ -8820,7 +8839,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 77,
@@ -8858,7 +8877,7 @@
    "featured": true,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 75,
@@ -8877,7 +8896,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 65,
@@ -9029,7 +9048,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 70,
@@ -9048,7 +9067,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 66,
@@ -9086,7 +9105,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 1361,
@@ -9409,7 +9428,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 55,
@@ -9504,7 +9523,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 38,
@@ -9599,7 +9618,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 2,
@@ -9618,7 +9637,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 14,
@@ -9656,7 +9675,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 4,
@@ -9675,7 +9694,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 9,
@@ -9694,7 +9713,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 12,
@@ -9713,7 +9732,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 13,
@@ -9770,7 +9789,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 8,
@@ -9789,7 +9808,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 6,
@@ -9808,7 +9827,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 1,
@@ -9827,7 +9846,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 10,
@@ -9960,7 +9979,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-01"
+   "lastVerified": "2026-11-02"
   },
   {
    "id": 22,
