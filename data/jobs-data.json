@@ -1,10 +1,10 @@
 {
  "version": "2.0.0",
- "lastUpdated": "2026-11-02T13:39:19+00:00",
+ "lastUpdated": "2026-11-03T12:55:13+00:00",
  "metadata": {
-  "lastUpdated": "2026-11-02",
+  "lastUpdated": "2026-11-03",
   "version": "2.0.0",
-  "totalJobs": 609,
+  "totalJobs": 610,
   "source": "Iceland jobs research database (github.com/balainiceland/iceland-jobs-data)"
  },
  "categories": {
@@ -61,7 +61,26 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
+  },
+  {
+   "id": 3630,
+   "company": "JBT Marel",
+   "companyLogo": null,
+   "title": "Við leitum að rafvirkja eða rafeindavirkja í samsetningu á rafbúnaði og vogum",
+   "description": "JBT Marel leitar að kraftmiklum liðsfélaga til starfa við samsetningu á fjölbreyttum vigtarbúnaði og rafbúnaði.\n\nUnnið er í sjálfstæðum teymum sem samanstanda af 10-20 einstaklingum á öllum aldri og kynjum og bera þau sameiginlega ábyrgð á að ljúka framleiðslu hverrar vöru. Allt nýtt starfsfólk fær viðeigandi þjálfun.\n\nVið bjóðum upp á fyrsta flokks starfsumhverfi þar sem öryggi, góð liðsheild, samvinna og stöðugar umbætur eru í fyrirrúmi. Framleiðslan í JBT Marel í Garðabæ sérhæfir sig í stuðningi við vöruþróun og framleiðslu á sérhönnuðum verkefnum fyrir okkar viðskiptavini.",
+   "category": "production",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Austurhraun 9, 210 Garðabær",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-02",
+   "applicationUrl": "https://alfred.is/starf/vid-leitum-ad-rafvirkja-eda-rafeindavirkja-i-samsetningu-a-rafbunadi-og-vogum",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 3526,
@@ -80,7 +99,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 3520,
@@ -99,7 +118,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 3529,
@@ -118,7 +137,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 3521,
@@ -137,7 +156,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 3442,
@@ -156,7 +175,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 1333,
@@ -194,7 +213,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 3388,
@@ -213,7 +232,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 3406,
@@ -232,7 +251,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 3402,
@@ -251,7 +270,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 3342,
@@ -270,7 +289,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 3339,
@@ -308,7 +327,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 3314,
@@ -327,7 +346,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 3303,
@@ -365,7 +384,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 3255,
@@ -384,7 +403,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 3221,
@@ -403,7 +422,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 3190,
@@ -441,7 +460,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 3202,
@@ -460,7 +479,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 3188,
@@ -479,7 +498,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 3157,
@@ -498,7 +517,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 3154,
@@ -516,7 +535,7 @@
    "applicationUrl": "https://alfred.is/starf/cnc-starfsmadur-i-frumgerdarsmidi-cnc-machinist-2",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-02"
   },
   {
@@ -536,7 +555,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 3106,
@@ -555,7 +574,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 1330,
@@ -573,7 +592,7 @@
    "applicationUrl": "https://alfred.is/starf/taktu-forystu-i-kerfinu-sem-bjargar-mannslifum",
    "featured": false,
    "startup": false,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-02"
   },
   {
@@ -744,7 +763,7 @@
    "applicationUrl": "https://alfred.is/starf/capex-pmo-systems-specialist",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-02"
   },
   {
@@ -1220,7 +1239,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 546,
@@ -2151,7 +2170,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 498,
@@ -8839,7 +8858,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 77,
@@ -8877,7 +8896,7 @@
    "featured": true,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 75,
@@ -8896,7 +8915,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 65,
@@ -9048,7 +9067,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 70,
@@ -9067,7 +9086,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 66,
@@ -9105,7 +9124,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 1361,
@@ -9428,7 +9447,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 55,
@@ -9523,7 +9542,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 38,
@@ -9618,7 +9637,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 2,
@@ -9637,7 +9656,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 14,
@@ -9675,7 +9694,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 4,
@@ -9694,7 +9713,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 9,
@@ -9713,7 +9732,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 12,
@@ -9732,7 +9751,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 13,
@@ -9789,7 +9808,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 8,
@@ -9808,7 +9827,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 6,
@@ -9827,7 +9846,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 1,
@@ -9846,7 +9865,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 10,
@@ -9979,7 +9998,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-02"
+   "lastVerified": "2026-11-03"
   },
   {
    "id": 22,
