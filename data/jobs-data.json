@@ -1,10 +1,10 @@
 {
  "version": "2.0.0",
- "lastUpdated": "2026-11-03T12:55:13+00:00",
+ "lastUpdated": "2026-11-04T13:06:46+00:00",
  "metadata": {
-  "lastUpdated": "2026-11-03",
+  "lastUpdated": "2026-11-04",
   "version": "2.0.0",
-  "totalJobs": 610,
+  "totalJobs": 613,
   "source": "Iceland jobs research database (github.com/balainiceland/iceland-jobs-data)"
  },
  "categories": {
@@ -45,23 +45,61 @@
  },
  "jobs": [
   {
-   "id": 3592,
+   "id": 3686,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "QC Sample Management Associate Scientist",
+   "description": "Scope and Responsibilities:\n\n- Sampling of incoming raw materials\n\n- Receival and distribution of external/internal samples\n\n- Support in management of stability studies within the sample management team\n\n- Notifying manager of identified deviations\n\n- Complete master laboratory records documentation using good documentation practices\n\n- Support in sample management tasks such as reconciliation of log books and discarding measured/backup samples\n\n- Be aware of preparations for regulatory inspections\n\n- Be aware of and comply with Alvotech’s current EHS policies\n\nJob requirements:\n\n- Bachelor’s degree and 1-3 years of relevant work experience in the pharmaceutical or biopharmaceutical sector.\n\n- Proficient in using a PC and common Microsoft packages such as Word and Excel.\n\n- Basic Knowledge of Good Manufacturing Practices (GMP) and documentation Rules is an asset.\n\n- Communication skills: Excellent technical written and verbal communication skills.\n\n- Very good command of English, both written and spoken.\n\nWhat we offer:\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and wellbeing support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.\n\nAbout Us\n\nAt Alvotech, we are building a global biotechnology company with a clear purpose: to expand access to high-quality, affordable biologic medicines for patients worldwide. Our people are central to that mission. Across our global teams, we bring together expertise in science, manufacturing, quality and commercial operations to shape the future of biosimilars.\n\nWe offer a dynamic, fast-moving environment where curiosity, initiative and ownership are encouraged. Rooted in Icelandic values and operating on a global stage, we value collaboration, diversity and integrity across everything we do. Our teams work on meaningful challenges, contribute directly to patient impact, and grow alongside the business.\n\nWhether you are at the start of your career or looking to take your next step, Alvotech offers the opportunity to do work that matters, in a company driven by purpose and scale.\n\nIf you do not see a role that matches your experience today, we still welcome general applications from individuals who share our ambition and want to help improve access to biologic medicines worldwide.",
+   "category": "science",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-04",
+   "applicationUrl": "https://alfred.is/starf/qc-sample-management-associate-scientist",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-04"
+  },
+  {
+   "id": 3681,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "Senior Specialist, Quality Control",
+   "description": "The Quality Control department at Alvotech is looking for a dedicated and quality-minded senior specialist, with extensive experience in Analytical method technology transfers, CAPA management, Health Authority response, analytical investigations and scientific oversight.\n\nScope and responsibility:\n\n- Lead Analytical technology transfer activities between Alvotech and CMOs, ensuring successful method implementation and Lifecycle management of analytical methods.\n\n- Act as the analytical subject matter expert for product testing methods, including chromatography, electrophoresis, compendial, and biochemical techniques.\n\n- Coordinate transfer activities, troubleshoot technical challenges, and drive timely resolution of method-related issues.\n\n- Author and Review transfer protocols, reports, validation\n\n- undefined\n\n- Author, review and approve CAPAs, change control, Document change controls, deviation investigation action and associated quality documentation.\n\n- Lead and support investigations related to analytical quality events, including invalid assays, OOS, OOT, and OOE results.\n\n- Lead the preparation of responses, scientific justifications for regulatory and Health Authority inquiries.\n\n- Collaborate with ARD, Regulatory Affairs, Manufacturing, MSAT, and Quality Assurance teams to support product lifecycle management.\n\n- Drive continuous improvement initiatives to enhance laboratory compliance, efficiency, and effectiveness.\n\n- Ensure activities comply with cGMP requirements, internal procedures, and regulatory expectations.\n\n- Perform training of other scientists in Analytical methods and related activities.\n\n- Creates and updates documents for analytical methods\n\nJob requirements:\n\n- Bachelor’s or master’s degree in technical discipline, (e.g., pharmacy, biotechnology, biochemistry, or a related field)\n\n- 5-10 years of experience in Pharmaceutical or Biopharmaceutical industry.\n\n- Proven experience in analytical method technology transfer and product lifecycle management.\n\n- Strong experience in managing CAPAs, Change Controls, Deviations, and complex analytical investigations.\n\n- Experience supporting regulatory submissions and responding to Health Authority queries.\n\n- Expert knowledge within field of expertise such as methods, techniques as well as relevant procedural/process knowledge\n\n- Open to flexible working hours.\n\n- Excellent written and verbal communication skills.\n\nWhat we offer:\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and wellbeing support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.\n\nAbout Us\n\nAt Alvotech, we are building a global biotechnology company with a clear purpose: to expand access to high-quality, affordable biologic medicines for patients worldwide. Our people are central to that mission. Across our global teams, we bring together expertise in science, manufacturing, quality and commercial operations to shape the future of biosimilars.\n\nWe offer a dynamic, fast-moving environment where curiosity, initiative and ownership are encouraged. Rooted in Icelandic values and operating on a global stage, we value collaboration, diversity and integrity across everything we do. Our teams work on meaningful challenges, contribute directly to patient impact, and grow alongside the business.\n\nWhether you are at the start of your career or looking to take your next step, Alvotech offers the opportunity to do work that matters, in a company driven by purpose and scale.\n\nIf you do not see a role that matches your experience today, we still welcome general applications from individuals who share our ambition and want to help improve access to biologic medicines worldwide.",
+   "category": "operations",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-03",
+   "applicationUrl": "https://alfred.is/starf/senior-specialist-quality-control-1",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-04"
+  },
+  {
+   "id": 3668,
    "company": "Coripharma ehf.",
    "companyLogo": null,
-   "title": "Sérfræðingur í pökkun",
-   "description": "Coripharma leitar að sérfræðingi í pökkunardeild á framleiðslusviði.\n\nVið leitum að einstaklingi með góða þekkingu á GMP-kröfum og gæðakerfum, sterka greiningarhæfni, frumkvæði og hæfni til að leiða verkefni til árangurs. Reynsla úr lyfjaiðnaði er æskileg og sömuleiðis reynsla af störfum í gæða- og/eða framleiðsluumhverfi.\n\nSérfræðingurinn mun annast fjölbreytt verkefni og er í daglegum samskiptum við teymið í pökkun sem og aðrar deildir innan fyrirtækisins. Verkefni sérfræðings tengjast bæði undirbúningi og stuðningi við pökkun lyfja, bæði fyrir eigin lyfjaþróun og í framleiðslu fyrir þriðja aðila (contract manufacturing).\n\nHelstu verkefni og ábyrgð\n\n- Undirbúningur gagna fyrir lyfjapökkun\n\n- Uppsetning pökkunarmastera (Master Data)\n\n- Móttaka, skráning og greining frávika sem koma upp í pökkunarferlum\n\n- Vinnur að ferla- og umbótaverkefnum (CAPA, stöðugar umbætur)\n\n- Gerð skriflegra leiðbeininga og þjálfunarefnis fyrir pökkunardeild\n\n- Þátttaka í úttektum innri og ytri aðila\n\n- Þátttaka í þróunarverkefnum og undirbúningur m.a. fyrir prófanir á nýjum búnaði og pökkun á nýjum lyfjum, umbúðategundum og pakkningarstærðum\n\nMenntunar- og hæfniskröfur\n\n- Háskólamenntun á sviði raungreina, lyfjafræði, verkfræði eða sambærilegu fagsviði\n\n- Reynsla af störfum innan lyfjaiðnaðar er æskileg\n\n- Reynsla af störfum í gæða- og/eða framleiðsluumhverfi er æskileg\n\n- Góð þekking á GMP og kröfum sem gerðar eru til lyfjaframleiðslu\n\n- Reynsla af innleiðingu á nýjum tækjabúnaði er kostur.\n\n- Reynsla af frávikameðhöndlun, CAPA-ferlum og umbótaverkefnum er kostur\n\n- Nákvæmni, skipulagshæfni og frumkvæði\n\n- Góð greiningar- og úrlausnahæfni\n\n- Fagleg samskiptafærni og hæfni til samstarfs þvert á deildir\n\n- Góð íslensku- og enskukunnátta í ræðu og riti\n\n- Góð tölvukunnátta\n\nFríðindi\n\n- Sveigjanlegur vinnutími\n\n- Mötuneyti\n\nCoripharma er íslenskt nýsköpunarfyrirtæki í örum vexti sem sérhæfir sig í þróun, framleiðslu og útflutningi samheitalyfja. Hjá Coripharma starfar fjölbreyttur hópur einstaklinga með ólíka menntun og bakgrunn. Í dag starfa um 230 einstaklingar hjá fyrirtækinu.\n\nFrá því félagið hóf starfsemi árið 2018 hefur það hafið framleiðslu á 26 lyfjum og er með 21 ný lyf í þróun.\n\nMeð umsókn skal fylgja ferilskrá og kynningarbréf þar sem gerð er grein fyrir ástæðu umsóknar og hæfni viðkomandi til að gegna starfinu rökstudd.\n\nUmsóknarfrestur er til og með 15. nóvember 2026",
-   "category": "production",
+   "title": "Prentumsjón / Artwork Coordinator",
+   "description": "Coripharma leitar að metnaðarfullum og sjálfstæðum einstaklingi í prentumsjón (artwork coordination) hjá Innkaupa- og áætlanadeild. Í starfinu berð þú ábyrgð á að tryggja gæði prentverka og að þau séu tilbúin á réttum tíma, frá frumgögnum til útgáfu, í samskiptum við viðskiptavini og prentsmiðjur. Verkefnin eru fjölbreytt og krefjandi. Ef þú hefur reynslu úr prentiðnaði, sterka þekkingu á grafískum forritum og góða samskiptahæfileika, þá viljum við heyra frá þér.\n\nHelstu verkefni og ábyrgð:\n\n- Yfirferð frumgagna (technical approval)\n\n- Yfirferð prófarka og gangsetning prentunar\n\n- Samskipti við viðskiptavini og prentsmiðjur\n\n- Miðla upplýsingum til annara deilda um stöðu verkefna\n\n- Tryggja að verkefni séu unnin innan skilgreindra tímamarka\n\n- Önnur tilfallandi verkefni\n\nMenntunar- og hæfniskröfur:\n\n- Menntun í prentsmíði, hönnun eða grafískri miðlun\n\n- Starfsreynsla og/eða þekking á prentiðnaði\n\n- Þekking á grafískum forritum (Adobe)\n\n- Frumkvæði og hæfni í mannlegum samskiptum\n\n- Nákvæm og öguð vinnubrögð\n\n- Vinna vel sjálfstætt og með öðrum\n\n- Framúrskarandi ensku- og tölvukunnátta\n\nFríðindi:\n\n- Sveigjanlegur vinnutími\n\n- Mötuneyti\n\nCoripharma er íslenskt nýsköpunarfyrirtæki með um 230 starfsmenn sem byggir á traustum grunni lyfjaþróunar og framleiðslu á Íslandi. Félagið sérhæfir sig í þróun, framleiðslu og útflutningi samheitalyfja ásamt því að sinna verktökuframleiðslu fyrir önnur lyfjafyrirtæki.\n\nFrá því að félagið hóf starfsemi árið 2018 hefur það hafið framleiðslu á 26 lyfjum og er með 21 ný lyf í þróun.\n\nMeð umsókn skulu fylgja ferilskrá og kynningarbréf. Í kynningarbréfinu skal gera grein fyrir ástæðu umsóknar og rökstyðja hæfni til að gegna starfinu.",
+   "category": "design",
    "type": "full-time",
    "experienceLevel": "mid",
    "location": "Reykjavíkurvegur 76, 220 Hafnarfjörður",
    "remote": "onsite",
    "salary": null,
-   "postedDate": "2026-11-02",
-   "applicationUrl": "https://alfred.is/starf/serfrdingur-i-pokkun",
+   "postedDate": "2026-11-03",
+   "applicationUrl": "https://alfred.is/starf/prentumsjon-artwork-coordinator-2",
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 3630,
@@ -80,7 +118,26 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
+  },
+  {
+   "id": 3592,
+   "company": "Coripharma ehf.",
+   "companyLogo": null,
+   "title": "Sérfræðingur í pökkun",
+   "description": "Coripharma leitar að sérfræðingi í pökkunardeild á framleiðslusviði.\n\nVið leitum að einstaklingi með góða þekkingu á GMP-kröfum og gæðakerfum, sterka greiningarhæfni, frumkvæði og hæfni til að leiða verkefni til árangurs. Reynsla úr lyfjaiðnaði er æskileg og sömuleiðis reynsla af störfum í gæða- og/eða framleiðsluumhverfi.\n\nSérfræðingurinn mun annast fjölbreytt verkefni og er í daglegum samskiptum við teymið í pökkun sem og aðrar deildir innan fyrirtækisins. Verkefni sérfræðings tengjast bæði undirbúningi og stuðningi við pökkun lyfja, bæði fyrir eigin lyfjaþróun og í framleiðslu fyrir þriðja aðila (contract manufacturing).\n\nHelstu verkefni og ábyrgð\n\n- Undirbúningur gagna fyrir lyfjapökkun\n\n- Uppsetning pökkunarmastera (Master Data)\n\n- Móttaka, skráning og greining frávika sem koma upp í pökkunarferlum\n\n- Vinnur að ferla- og umbótaverkefnum (CAPA, stöðugar umbætur)\n\n- Gerð skriflegra leiðbeininga og þjálfunarefnis fyrir pökkunardeild\n\n- Þátttaka í úttektum innri og ytri aðila\n\n- Þátttaka í þróunarverkefnum og undirbúningur m.a. fyrir prófanir á nýjum búnaði og pökkun á nýjum lyfjum, umbúðategundum og pakkningarstærðum\n\nMenntunar- og hæfniskröfur\n\n- Háskólamenntun á sviði raungreina, lyfjafræði, verkfræði eða sambærilegu fagsviði\n\n- Reynsla af störfum innan lyfjaiðnaðar er æskileg\n\n- Reynsla af störfum í gæða- og/eða framleiðsluumhverfi er æskileg\n\n- Góð þekking á GMP og kröfum sem gerðar eru til lyfjaframleiðslu\n\n- Reynsla af innleiðingu á nýjum tækjabúnaði er kostur.\n\n- Reynsla af frávikameðhöndlun, CAPA-ferlum og umbótaverkefnum er kostur\n\n- Nákvæmni, skipulagshæfni og frumkvæði\n\n- Góð greiningar- og úrlausnahæfni\n\n- Fagleg samskiptafærni og hæfni til samstarfs þvert á deildir\n\n- Góð íslensku- og enskukunnátta í ræðu og riti\n\n- Góð tölvukunnátta\n\nFríðindi\n\n- Sveigjanlegur vinnutími\n\n- Mötuneyti\n\nCoripharma er íslenskt nýsköpunarfyrirtæki í örum vexti sem sérhæfir sig í þróun, framleiðslu og útflutningi samheitalyfja. Hjá Coripharma starfar fjölbreyttur hópur einstaklinga með ólíka menntun og bakgrunn. Í dag starfa um 230 einstaklingar hjá fyrirtækinu.\n\nFrá því félagið hóf starfsemi árið 2018 hefur það hafið framleiðslu á 26 lyfjum og er með 21 ný lyf í þróun.\n\nMeð umsókn skal fylgja ferilskrá og kynningarbréf þar sem gerð er grein fyrir ástæðu umsóknar og hæfni viðkomandi til að gegna starfinu rökstudd.\n\nUmsóknarfrestur er til og með 15. nóvember 2026",
+   "category": "production",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Reykjavíkurvegur 76, 220 Hafnarfjörður",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-02",
+   "applicationUrl": "https://alfred.is/starf/serfrdingur-i-pokkun",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 3526,
@@ -99,7 +156,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 3520,
@@ -118,7 +175,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 3529,
@@ -137,7 +194,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 3521,
@@ -156,7 +213,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 3442,
@@ -175,7 +232,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 1333,
@@ -213,7 +270,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 3388,
@@ -232,7 +289,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 3406,
@@ -251,7 +308,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 3402,
@@ -270,7 +327,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 3342,
@@ -289,7 +346,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 3339,
@@ -327,7 +384,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 3314,
@@ -346,7 +403,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 3303,
@@ -384,7 +441,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 3255,
@@ -403,7 +460,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 3221,
@@ -422,7 +479,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 3190,
@@ -460,7 +517,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 3202,
@@ -479,7 +536,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 3188,
@@ -498,7 +555,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 3157,
@@ -516,7 +573,7 @@
    "applicationUrl": "https://alfred.is/starf/qc-strategic-operation-lead-1",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-03"
   },
   {
@@ -554,7 +611,7 @@
    "applicationUrl": "https://alfred.is/starf/framleidslutknir-manufacturing-technologist-1",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-03"
   },
   {
@@ -574,7 +631,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 1330,
@@ -1238,7 +1295,7 @@
    "applicationUrl": "https://alfred.is/starf/bifvelavirki-116",
    "featured": false,
    "startup": false,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-03"
   },
   {
@@ -2170,7 +2227,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 498,
@@ -8858,7 +8915,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 77,
@@ -8896,7 +8953,7 @@
    "featured": true,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 75,
@@ -8915,7 +8972,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 65,
@@ -9067,7 +9124,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 70,
@@ -9086,7 +9143,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 66,
@@ -9124,7 +9181,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 1361,
@@ -9447,7 +9504,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 55,
@@ -9542,7 +9599,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 38,
@@ -9637,7 +9694,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 2,
@@ -9656,7 +9713,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 14,
@@ -9694,7 +9751,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 4,
@@ -9713,7 +9770,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 9,
@@ -9732,7 +9789,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 12,
@@ -9751,7 +9808,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 13,
@@ -9808,7 +9865,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 8,
@@ -9827,7 +9884,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 6,
@@ -9846,7 +9903,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 1,
@@ -9865,7 +9922,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 10,
@@ -9998,7 +10055,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-03"
+   "lastVerified": "2026-11-04"
   },
   {
    "id": 22,
