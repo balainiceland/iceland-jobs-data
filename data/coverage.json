@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-04T13:06:41+00:00",
+  "generated_at": "2026-11-04T15:09:07+00:00",
   "available": true,
   "official_quarter": "2026Q2",
   "official_total_vacancies": 3540,
-  "our_open_jobs": 538,
-  "coverage": 0.152,
+  "our_open_jobs": 550,
+  "coverage": 0.155,
   "jobs_without_sector": 9,
   "sectors": [
     {
@@ -18,8 +18,8 @@
       "code": "2",
       "sector": "Industry, energy and utilities",
       "official_vacancies": 160,
-      "our_open_jobs": 63,
-      "coverage": 0.394
+      "our_open_jobs": 64,
+      "coverage": 0.4
     },
     {
       "code": "4",
@@ -32,15 +32,15 @@
       "code": "5",
       "sector": "Trade, transport, hotels and restaurants",
       "official_vacancies": 1010,
-      "our_open_jobs": 132,
-      "coverage": 0.131
+      "our_open_jobs": 136,
+      "coverage": 0.135
     },
     {
       "code": "6",
       "sector": "Information and communication",
       "official_vacancies": 80,
-      "our_open_jobs": 40,
-      "coverage": 0.5
+      "our_open_jobs": 41,
+      "coverage": 0.512
     },
     {
       "code": "7",
@@ -60,22 +60,22 @@
       "code": "9",
       "sector": "Professional and administrative services",
       "official_vacancies": 740,
-      "our_open_jobs": 38,
-      "coverage": 0.051
+      "our_open_jobs": 40,
+      "coverage": 0.054
     },
     {
       "code": "10",
       "sector": "Public administration, education and health",
       "official_vacancies": 340,
-      "our_open_jobs": 214,
-      "coverage": 0.629
+      "our_open_jobs": 217,
+      "coverage": 0.638
     },
     {
       "code": "11",
       "sector": "Arts, recreation and other services",
       "official_vacancies": 400,
-      "our_open_jobs": 15,
-      "coverage": 0.037
+      "our_open_jobs": 16,
+      "coverage": 0.04
     }
   ],
   "same_period": [
@@ -83,7 +83,7 @@
       "quarter": "2026Q4",
       "days_observed": 19,
       "complete": false,
-      "avg_open_jobs": 580.9,
+      "avg_open_jobs": 581.6,
       "official_vacancies": null,
       "coverage": null
     }
