@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T15:09:07+00:00",
+  "generated_at": "2026-11-05T13:19:35+00:00",
   "sources": [
     {
       "id": "tvinna",
@@ -12,8 +12,8 @@
       "id": "alfred",
       "name": "Alfreð",
       "url": "https://alfred.is",
-      "postings": 1131,
-      "open": 547
+      "postings": 1144,
+      "open": 537
     },
     {
       "id": "startupiceland_board",
@@ -26,8 +26,8 @@
       "id": "starfatorg",
       "name": "Starfatorg",
       "url": "https://island.is/starfatorg",
-      "postings": 268,
-      "open": 151
+      "postings": 270,
+      "open": 148
     },
     {
       "id": "hagvangur",
@@ -41,7 +41,7 @@
       "name": "Intellecta",
       "url": "https://intellecta.is/storf/",
       "postings": 13,
-      "open": 8
+      "open": 7
     }
   ],
   "classified_share": 0.995,

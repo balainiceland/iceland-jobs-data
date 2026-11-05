@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-04T15:09:07+00:00",
+  "generated_at": "2026-11-05T13:19:35+00:00",
   "available": true,
   "official_quarter": "2026Q2",
   "official_total_vacancies": 3540,
-  "our_open_jobs": 550,
-  "coverage": 0.155,
-  "jobs_without_sector": 9,
+  "our_open_jobs": 538,
+  "coverage": 0.152,
+  "jobs_without_sector": 8,
   "sectors": [
     {
       "code": "1",
@@ -18,22 +18,22 @@
       "code": "2",
       "sector": "Industry, energy and utilities",
       "official_vacancies": 160,
-      "our_open_jobs": 64,
-      "coverage": 0.4
+      "our_open_jobs": 61,
+      "coverage": 0.381
     },
     {
       "code": "4",
       "sector": "Construction",
       "official_vacancies": 680,
-      "our_open_jobs": 17,
-      "coverage": 0.025
+      "our_open_jobs": 18,
+      "coverage": 0.026
     },
     {
       "code": "5",
       "sector": "Trade, transport, hotels and restaurants",
       "official_vacancies": 1010,
-      "our_open_jobs": 136,
-      "coverage": 0.135
+      "our_open_jobs": 132,
+      "coverage": 0.131
     },
     {
       "code": "6",
@@ -60,15 +60,15 @@
       "code": "9",
       "sector": "Professional and administrative services",
       "official_vacancies": 740,
-      "our_open_jobs": 40,
-      "coverage": 0.054
+      "our_open_jobs": 38,
+      "coverage": 0.051
     },
     {
       "code": "10",
       "sector": "Public administration, education and health",
       "official_vacancies": 340,
-      "our_open_jobs": 217,
-      "coverage": 0.638
+      "our_open_jobs": 214,
+      "coverage": 0.629
     },
     {
       "code": "11",
@@ -81,9 +81,9 @@
   "same_period": [
     {
       "quarter": "2026Q4",
-      "days_observed": 19,
+      "days_observed": 20,
       "complete": false,
-      "avg_open_jobs": 581.6,
+      "avg_open_jobs": 579.4,
       "official_vacancies": null,
       "coverage": null
     }

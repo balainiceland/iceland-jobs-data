@@ -1,10 +1,10 @@
 {
  "version": "2.0.0",
- "lastUpdated": "2026-11-04T15:09:12+00:00",
+ "lastUpdated": "2026-11-05T13:19:42+00:00",
  "metadata": {
-  "lastUpdated": "2026-11-04",
+  "lastUpdated": "2026-11-05",
   "version": "2.0.0",
-  "totalJobs": 613,
+  "totalJobs": 615,
   "source": "Iceland jobs research database (github.com/balainiceland/iceland-jobs-data)"
  },
  "categories": {
@@ -61,7 +61,45 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
+  },
+  {
+   "id": 3720,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "QA On The Floor Specialist",
+   "description": "Join Alvotech’s Quality Assurance team and play a key role in supporting manufacturing operations while ensuring compliance with GMP requirements and quality standards. This hands-on position provides real-time QA support to manufacturing teams and contributes to the delivery of high-quality biopharmaceutical products.\n\nPlease note that this is a rotational shift position, requiring flexibility to support manufacturing operations across designated shifts in a 24/7 production environment.\n\nScope and Responsibilities:\n\n- Act as the primary QA contact for DPM and DSM operations during rotational shifts.\n\n- Provide QA support for batch-related and facility issues, including deviations and CAPAs.\n\n- Perform shop floor monitoring and ensure compliance with GMP, GDP, and ALCOA principles.\n\n- Review manufacturing documentation, alarm logs, and failure assessments.\n\n- Approve area release, line clearance, and other QA-controlled activities.\n\n- Support media fills, cell bank issuance, AQL sampling, and visual inspection activities.\n\n- Maintain QA documentation and support inspection readiness and audits.\n\n- Contribute to SOP updates and train new QA team members as needed.\n\nJob Requirements:\n\n- Bachelor’s degree in Life Sciences, Pharmacy, Biotechnology, or a related field.\n\n- Minimum 2 years of experience in a GMP-regulated pharmaceutical or biotechnology manufacturing environment.\n\n- Strong knowledge of GMP, quality systems, documentation practices, GDP, and ALCOA principles.\n\n- Experience supporting manufacturing operations and quality oversight activities.\n\n- Strong attention to detail and problem-solving skills.\n\n- Excellent communication and collaboration abilities.\n\n- Ability to work rotational shifts in a fast-paced manufacturing environment.\n\n- Proficient in written and spoken English.\n\nWhat we offer:\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration, and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and well-being support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.\n\nAbout Us\n\nAt Alvotech, we are building a global biotechnology company with a clear purpose: to expand access to high-quality, affordable biologic medicines for patients worldwide. Our people are central to that mission. Across our global teams, we bring together expertise in science, manufacturing, quality and commercial operations to shape the future of biosimilars.\n\nWe offer a dynamic, fast-moving environment where curiosity, initiative and ownership are encouraged. Rooted in Icelandic values and operating on a global stage, we value collaboration, diversity and integrity across everything we do. Our teams work on meaningful challenges, contribute directly to patient impact, and grow alongside the business.\n\nWhether you are at the start of your career or looking to take your next step, Alvotech offers the opportunity to do work that matters, in a company driven by purpose and scale.\n\nIf you do not see a role that matches your experience today, we still welcome general applications from individuals who share our ambition and want to help improve access to biologic medicines worldwide.",
+   "category": "operations",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-04",
+   "applicationUrl": "https://alfred.is/starf/qa-on-the-floor-specialist-4",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-05"
+  },
+  {
+   "id": 3713,
+   "company": "Abler - Sport Matters",
+   "companyLogo": null,
+   "title": "Sérfræðingur í fjármálum",
+   "description": "Viltu taka þátt í að byggja upp fjármálin hjá fyrirtæki í vexti?\n\nÍþróttir skipta máli. Þær sameina fólk, halda börnum og ungmennum virkum og styrkja samfélög. Á bak við öflugt íþróttastarf standa félög, sjálfboðaliðar og þjálfarar sem leggja mikið á sig, og Abler er til staðar fyrir þau.\n\nYfir 1.000 félög og samtök nota lausnir okkar til að halda utan um skráningar, greiðslur, skipulag og samskipti, ásamt appi fyrir iðkendur, foreldra og þjálfara. Abler er vel þekkt á Íslandi og vörur okkar eru í mikilli daglegri notkun. Nú sækjum við af krafti á erlenda markaði ásamt því að styðja áfram við íslenskt íþróttastarf.\n\nEitt af gildum okkar er sigurhugarfar. Við setjum markið hátt, tökum ábyrgð, lærum hratt og leitum stöðugt betri leiða til að þjóna viðskiptavinum okkar.\n\nMeð vextinum stækka fjármálin og við leitum að sterkum leikmanni í fjármálateymið. Starfið hentar vel aðila sem hefur grunn í bókhaldi og uppgjörum og vill vaxa hratt í starfi. Þú tekur að þér daglegan fjármálarekstur, uppgjör, reikningagerð og innheimtu og tekur virkan þátt í að byggja upp fjármálainnviði sem vaxa með félaginu.\n\nStarfið heyrir undir fjármála- og rekstrarstjóra og felur í sér samstarf þvert á öll teymi.",
+   "category": "finance",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Höfðabakki 9, 110 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-04",
+   "applicationUrl": "https://alfred.is/starf/serfrdingur-i-fjarmalum",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 3681,
@@ -80,7 +118,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 3668,
@@ -99,7 +137,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 3630,
@@ -118,7 +156,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 3592,
@@ -137,7 +175,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 3526,
@@ -156,7 +194,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 3520,
@@ -175,7 +213,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 3529,
@@ -194,7 +232,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 3521,
@@ -213,7 +251,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 3442,
@@ -231,7 +269,7 @@
    "applicationUrl": "https://alfred.is/starf/vid-leitum-ad-lidsauka-a-lager-warehouse-team-member",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-04"
   },
   {
@@ -270,7 +308,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 3388,
@@ -289,7 +327,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 3406,
@@ -308,7 +346,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 3402,
@@ -327,7 +365,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 3342,
@@ -346,7 +384,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 3339,
@@ -384,7 +422,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 3314,
@@ -403,7 +441,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 3303,
@@ -441,7 +479,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 3255,
@@ -460,7 +498,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 3221,
@@ -478,7 +516,7 @@
    "applicationUrl": "https://alfred.is/starf/qcpd-specialist",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-04"
   },
   {
@@ -516,7 +554,7 @@
    "applicationUrl": "https://alfred.is/starf/fjarmalaserfrdingur-hja-arctic-therapeutics",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-04"
   },
   {
@@ -535,7 +573,7 @@
    "applicationUrl": "https://alfred.is/starf/manufacturing-esystems-specialist",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-04"
   },
   {
@@ -555,7 +593,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 3157,
@@ -631,7 +669,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 1330,
@@ -2227,7 +2265,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 498,
@@ -8915,7 +8953,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 77,
@@ -8953,7 +8991,7 @@
    "featured": true,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 75,
@@ -8972,7 +9010,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 65,
@@ -9124,7 +9162,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 70,
@@ -9143,7 +9181,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 66,
@@ -9181,7 +9219,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 1361,
@@ -9504,7 +9542,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 55,
@@ -9599,7 +9637,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 38,
@@ -9694,7 +9732,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 2,
@@ -9713,7 +9751,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 14,
@@ -9751,7 +9789,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 4,
@@ -9770,7 +9808,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 9,
@@ -9789,7 +9827,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 12,
@@ -9808,7 +9846,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 13,
@@ -9865,7 +9903,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 8,
@@ -9884,7 +9922,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 6,
@@ -9903,7 +9941,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 1,
@@ -9922,7 +9960,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 10,
@@ -10055,7 +10093,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-04"
+   "lastVerified": "2026-11-05"
   },
   {
    "id": 22,
