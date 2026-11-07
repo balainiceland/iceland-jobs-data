@@ -1,10 +1,10 @@
 {
  "version": "2.0.0",
- "lastUpdated": "2026-11-06T13:03:50+00:00",
+ "lastUpdated": "2026-11-07T11:49:13+00:00",
  "metadata": {
-  "lastUpdated": "2026-11-06",
+  "lastUpdated": "2026-11-07",
   "version": "2.0.0",
-  "totalJobs": 621,
+  "totalJobs": 626,
   "source": "Iceland jobs research database (github.com/balainiceland/iceland-jobs-data)"
  },
  "categories": {
@@ -45,25 +45,6 @@
  },
  "jobs": [
   {
-   "id": 3770,
-   "company": "atNorth",
-   "companyLogo": null,
-   "title": "Tæknimaður með reynslu",
-   "description": "atNorth er í áframhaldandi vexti á Akureyri og leitar að tæknimanni með reynslu til starfa í gagnaver sitt.\n\nÞetta er kjörið tækifæri fyrir einstakling sem vill taka þátt í að móta stöðugt vaxandi starfsemi gagnavers atNorth á Akureyri.\n\natNorth leggur mikinn metnað í að mennta starfsfólk sitt og veita þjálfun í öllu sem viðkemur rekstri gaganvera.\n\nÞetta starf er ráðning til framtíðar og fullt stöðugildi. Starfið hentar öllum kynjum.",
-   "category": "production",
-   "type": "full-time",
-   "experienceLevel": "mid",
-   "location": "Rangárvellir 150130, 603 Akureyri",
-   "remote": "onsite",
-   "salary": null,
-   "postedDate": "2026-11-06",
-   "applicationUrl": "https://alfred.is/starf/tknimadur-med-reynslu-1",
-   "featured": false,
-   "startup": true,
-   "status": "active",
-   "lastVerified": "2026-11-06"
-  },
-  {
    "id": 3774,
    "company": "Kerecis",
    "companyLogo": null,
@@ -80,7 +61,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 3762,
@@ -90,7 +71,7 @@
    "description": "Tæknimaður / ​Maintenance Technician\n\nDescription\n\nAlvotech er leiðandi alþjóðlegt líftæknifyrirtæki sem vinnur að því að gera líftæknilyf aðgengilegri um allan heim. Við leitum að metnaðarfullum einstaklingum í stöðu tæknimanns sem vilja taka þátt í að tryggja áreiðanleika og öryggi framleiðsluferla í lyfjaverksmiðju fyrirtækisins. Unnið er á dag-, kvöld- og næturvöktum.\n\nHelstu verkefni\n\n- Framkvæma reglubundið viðhald og viðgerðir á búnaði.\n\n- Taka þátt í bilanaleit og sinna grunnviðhaldi.\n\n- Fylgja verklagsreglum, öryggisleiðbeiningum og GMP-kröfum.\n\nHæfniskröfur\n\n- Tæknimenntun eða sambærileg menntun (vélvirkjun, rafvirkjun eða sambærilegt).\n\n- Nákvæmni í vinnubrögðum og vilji til að læra.\n\n- Hæfni til að vinna á vöktum, þar á meðal næturvöktum og um helgar.\n\n- Góð samskiptahæfni og færni í teymisvinnu.\n\n- Grunnþekking á kvörðun eða mælikerfum er kostur.\n\n- Góð enskukunnátta.\n\n[English]\n\nMaintenance Technician\n\nBe part of the future of pharmaceutical manufacturing! Alvotech is a leading global biotech company working to make biopharmaceuticals more accessible worldwide. We are seeking ambitious individuals for Maintenance Technician positions, who want to contribute to ensuring the reliability and safety of production processes in the company’s pharmaceutical facility. Work is conducted in day, evening, and night shifts.\n\nScope and responsibility\n\n- Perform routine maintenance and repairs.\n\n- Support troubleshooting and basic maintenance tasks.\n\n- Follow standard operating procedures and safety guidelines.\n\nQualifications\n\n- Technical diploma or relevant education (engineering, electronics, etc.)\n\n- Strong attention to detail and willingness to learn.\n\n- Ability to work rotating shifts, including nights and weekends.\n\n- Good communication and teamwork skills.\n\n- Basic understanding of calibration or measurement systems is a plus.\n\n- Good written English skills.\n\nWhat we offer\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and wellbeing support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.\n\nAbout Us\n\nAt Alvotech, we are building a global biotechnology company with a clear purpose: to expand access to high-quality, affordable biologic medicines for patients worldwide. Our people are central to that mission. Across our global teams, we bring together expertise in science, manufacturing, quality and commercial operations to shape the future of biosimilars.\n\nWe offer a dynamic, fast-moving environment where curiosity, initiative and ownership are encouraged. Rooted in Icelandic values and operating on a global stage, we value collaboration, diversity and integrity across everything we do. Our teams work on meaningful challenges, contribute directly to patient impact, and grow alongside the business.\n\nWhether you are at the start of your career or looking to take your next step, Alvotech offers the opportunity to do work that matters, in a company driven by purpose and scale.\n\nIf you do not see a role that matches your experience today, we still welcome general applications from individuals who share our ambition and want to help improve access to biologic medicines worldwide.",
    "category": "production",
    "type": "full-time",
-   "experienceLevel": "mid",
+   "experienceLevel": "entry",
    "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
    "remote": "onsite",
    "salary": null,
@@ -99,7 +80,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 3771,
@@ -118,26 +99,121 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
-   "id": 3736,
-   "company": "JBT Marel",
+   "id": 3770,
+   "company": "atNorth",
    "companyLogo": null,
-   "title": "Director Finance, Fish",
-   "description": "At JBT Marel, we are transforming the future of food processing. We are looking for a commercially minded, internationally experienced Finance Director (Fish) to partner with our Fish leadership team and help drive performance across a highly complex and fast-evolving business.\n\nIn this role you will lead a team of experienced finance professionals, located in several countries. Based in Denmark (Støvring) or Iceland (Garðabær), this role sits at the heart of our Fish organization and plays a critical role in supporting strategic decision-making, guiding financial performance, and helping shape the integration journey of JBT Marel.\n\nJOB SUMMARY\nThe Finance Director is responsible for owning and driving the Divisional financial strategy, planning and operations, with a focus on optimizing financial performance and ensuring the effective allocation of resources.\n\nThe ideal candidate will bring relevant expertise in finance leadership and be familiar with the unique financial challenges and opportunities within an industrial equipment and services provider.\n\nA key focus for the role is to drive financial performance and efficiency, streamline processes, and maximize the impact of the finance team.\n\nThis role requires a tactical thinker who can help guide the Divisional leadership team in financial decision-making while maintaining strong compliance and risk management practices.",
-   "category": "finance",
+   "title": "Tæknimaður með reynslu",
+   "description": "atNorth er í áframhaldandi vexti á Akureyri og leitar að tæknimanni með reynslu til starfa í gagnaver sitt.\n\nÞetta er kjörið tækifæri fyrir einstakling sem vill taka þátt í að móta stöðugt vaxandi starfsemi gagnavers atNorth á Akureyri.\n\natNorth leggur mikinn metnað í að mennta starfsfólk sitt og veita þjálfun í öllu sem viðkemur rekstri gaganvera.\n\nÞetta starf er ráðning til framtíðar og fullt stöðugildi. Starfið hentar öllum kynjum.",
+   "category": "production",
    "type": "full-time",
    "experienceLevel": "mid",
-   "location": "Austurhraun 9, 210 Garðabær",
+   "location": "Rangárvellir 150130, 603 Akureyri",
    "remote": "onsite",
    "salary": null,
-   "postedDate": "2026-11-05",
-   "applicationUrl": "https://alfred.is/starf/director-finance-fish",
+   "postedDate": "2026-11-06",
+   "applicationUrl": "https://alfred.is/starf/tknimadur-med-reynslu-1",
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
+  },
+  {
+   "id": 3787,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "Technician in Manufacturing Team",
+   "description": "Gakktu til liðs við framleiðsluteymi hjá Alvotech í Reykjavík! Alvotech starfar í reglubundnu umhverfi þar sem nákvæmni og samviskusemi skipta sköpum. Við leitum að einstaklingum með jákvætt hugarfar, góða aðlögunarhæfni og hæfni til að takast á við áskoranir. Vaktavinna er nauðsynleg og felur í sér dag-, kvöld- og næturvaktir.\n\nHæfniskröfur:\n\n- Að lágmarki 3 ára reynsla í lyfjaiðnaði.\n\n- Góð reynsla af vinnu í A og B vottuðu umhverfi.\n\n- Menntun: BS eða diplóma í tæknigreinum, (t.d. líftækni, verkfræði, lífefnafræði) er kostur en ekki skilyrði.\n\n- Þekking á góðum framleiðslu háttum (GMP) og hæfni til að fylgja verklagsreglum við skráningar.\n\n- Hæfni til þess að vinna vel í teymi.\n\n- Góð enskukunnátta.\n\n[English]\n\nOverview of Role\n\nJoin the Drug Product Manufacturing Team at Alvotech in Reykjavik! Alvotech operates in a highly regulated environment that requires attention to detail and thoroughness. We're seeking someone with strong leadership skills, a positive attitude, and the ability to adapt to challenges. Working day, evening, and night shifts is required.\n\nScope and responsibility:\n\n- Work in accordance with cGMP standards across various cleanroom zones (Grade A, B, C, and CNC).\n\n- Be part of a collaborative team working to meet the drug product (DP) manufacturing schedule.\n\n- Serve as a Subject Matter Expert for PAIs, audits and regulatory agency interactions.\n\n- Author, review and approve written procedures, SOPs, deviations, CAPAs and change controls.\n\n- Ensure DP manufacturing area and equipment are in inspection-ready state through interaction with Engineering, Facilities, and EHS.\n\n- Continuously identify opportunities for process improvement and waste elimination to maintain a lean, flexible and agile manufacturing facility.\n\nJob requirements:\n\n- 3+ years in (bio)pharmaceuticals is required.\n\n- Good experience working in grade A and B environment.\n\n- Education: BSc or Diploma in a Technical Discipline (e.g., biotechnology, engineering, biochemistry or related field) is advantage but not a requirement.\n\n- Knowledge of Good Manufacturing Practices (GMP), documentation rules, and an ability to follow the documentation for the execution of batch records, SOPs and work instructions is required.\n\n- Ability to work well in a team.\n\n- Proficient English skills, Icelandic language not required.\n\nWhat we offer:\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and wellbeing support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.\n\nWhy Alvotech :\n\nAt Alvotech, we are passionate about improving lives by increasing access to affordable biologics. We’re purpose-driven and committed to fostering an inclusive and diverse working environment that encourages curiosity, ingenuity and simplicity. We want our employees to feel inspired in their careers, challenged by interesting and meaningful work and empowered to succeed in an agile environment.\n\nTrue to our Icelandic roots, we also believe that integrity, gender equality, and fairness are foundational. We strive to bring together the brightest minds regardless of backgrounds and beliefs, to deliver to our partners and patients around the world. Let’s create a healthier world together, through affordable biologic medicines.",
+   "category": "production",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-06",
+   "applicationUrl": "https://alfred.is/starf/technician-in-manufacturing-team-2",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-07"
+  },
+  {
+   "id": 3789,
+   "company": "atNorth",
+   "companyLogo": null,
+   "title": "Hefur þú áhuga á vél- og kælikerfum?",
+   "description": "atNorth er í áframhaldandi vexti á Akureyri og leitar að tæknifólki sem vill taka þátt í uppbyggingu og rekstri öflugra gagnavera.\n\nVið viljum heyra frá vélstjórum, vélvirkjum, pípurum, kælitæknum og öðrum með iðn- eða tæknimenntun og sterkan tæknilegan bakgrunn.\n\nÞetta starf er ráðning til framtíðar og fullt stöðugildi. Starfið hentar öllum kynjum.",
+   "category": "other",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Rangárvellir 150130, 603 Akureyri",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-06",
+   "applicationUrl": "https://alfred.is/starf/hefur-thu-ahuga-a-vel-og-klikerfum",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-07"
+  },
+  {
+   "id": 3805,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "Manufacturing eSystems Specialist",
+   "description": "Manufacturing eSystems Specialist\n\nScope and Responsibilities:\n\n- Manufacturing Administration: Manage electronic execution systems, including but not limited to:\n\n- Master Control Electronic Batch Records for (DS): USP, DSP, and Dispensing\n\n- SAP for manufacturing\n\n- eLogbooks in manufacturing.\n\n- Oversight Duties : Oversee the creation, upkeep, and review of:\n\n- Electronic Batch Records for USP, DSP, and Dispensing\n\n- If required, SAP Master Recipes, Process orders, Reservations and Consumption process − Electronic Logbooks for USP, DSP, and Dispensing\n\n- Veeva documentation required for eBR and eSystems (CC, CAPA, DEV)\n\nOversight duties are being performed in collaboration with Subject Matter Expert from each manufacturing function and with collaboration with Quality Assurance.\n\n- Training: Provide training to company employees in the use of eSystems where required and relevant to eSystems requirements.\n\n- Scalability: Adapt to the administration of new eSystems as they are introduced into manufacturing.\n\n- Innovative Improvements:\n\n- Initiate and implement innovative improvements for the systems in use.\n\n- Act as a Subject Matter Expert (SME) for validation and qualification documentation, and collaborate cross-functionally with IT to test and implement innovative solutions, enhance operational efficiency, and ensure compliance with applicable quality standards.\n\n- Independently implement and deliver assigned projects, ensuring timely completion and compliance with quality standards.\n\n- Contribute to team objectives through effective collaboration, knowledge sharing, and teamwork.\n\nJob requirements:\n\n- BSc or Diploma in a Technical Discipline (e.g., pharmacy, biotechnology, biochemistry, engineering, or a related field).\n\n- Preferably 3-5 years of experience in pharmaceutical industry or other related industries.\n\n- Team player with strong organizational skills.\n\n- Excellent written and verbal communication skills.\n\n- Proficient in use of a PC and common Microsoft packages such as Word, Visio, Excel.\n\n- Excellent command of English language, both written and verbal.\n\nWhat we offer:\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and wellbeing support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.\n\nAbout Us\n\nAt Alvotech, we are building a global biotechnology company with a clear purpose: to expand access to high-quality, affordable biologic medicines for patients worldwide. Our people are central to that mission. Across our global teams, we bring together expertise in science, manufacturing, quality and commercial operations to shape the future of biosimilars.\n\nWe offer a dynamic, fast-moving environment where curiosity, initiative and ownership are encouraged. Rooted in Icelandic values and operating on a global stage, we value collaboration, diversity and integrity across everything we do. Our teams work on meaningful challenges, contribute directly to patient impact, and grow alongside the business.\n\nWhether you are at the start of your career or looking to take your next step, Alvotech offers the opportunity to do work that matters, in a company driven by purpose and scale.\n\nIf you do not see a role that matches your experience today, we still welcome general applications from individuals who share our ambition and want to help improve access to biologic medicines worldwide.",
+   "category": "production",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-06",
+   "applicationUrl": "https://alfred.is/starf/manufacturing-esystems-specialist-2",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-07"
+  },
+  {
+   "id": 3807,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "Principal Specialist - QA Engineering",
+   "description": "Key responsibilities and minimum requirements according to the role:\n\n• Provide QA oversight and collaborate with cross-functional teams in planning maintenance, qualification, and validation activities for facilities, utilities, equipment, and computer systems (CSV).\n\n• Serve as a Quality representative and a subject matter expert (SME) in selection, design and build of new technologies and new facilities within Alvotech.\n\n• Support and provide QA oversight with review and approval of qualification documents for facility, utility, equipment and computerized systems as applicable.\n\n• Contribute to investigations into discrepancies arising during qualification / validation activities and subsequent approval of appropriate corrective actions.\n\n• Review of planned and unplanned work orders for maintenance, preventive maintenance, calibrations and other Engineering related activities.\n\n• Reviews and approve change controls, deviations , CAPAs , effectiveness checks for facilities, utilities, and equipment, computer systems.\n\n• Stay current on applicable external requirements and industry standards and drive continuous\n\nimprovement on Engineering and CSV processes and tools.\n\n• Advice on quality matters, and assistance for closing compliance gaps found in audits and\n\ninspections.\n\n• Escalation of any data integrity or critical quality issues to the supervisor and Quality Management of Alvotech\n\n• Responsible for ensuring all facilities, utilities, equipment , computer systems are appropriately validated and qualification in line with current EU and US legislation for parenteral/biologics.\n\nMinimum education and experience required for the role:\n\n• A bachelor’s degree within relevant area, or other relevant business experience\n\n• Minimum 5 years of experience within the Pharmaceutical or Medical Device Industry (preferably in parenteral/biologics formulations).\n\n• Experience working with regulatory requirements in GxP required (Preferably FDA and EU regulations).\n\n• Good understanding of GAMP 5 guide required.\n\n• Knowledge of and experience with validation and qualification specifically within facility, utility, and equipment/computer systems.\n\nWhat we offer:\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and wellbeing support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.\n\nAbout Us\n\nAt Alvotech, we are building a global biotechnology company with a clear purpose: to expand access to high-quality, affordable biologic medicines for patients worldwide. Our people are central to that mission. Across our global teams, we bring together expertise in science, manufacturing, quality and commercial operations to shape the future of biosimilars.\n\nWe offer a dynamic, fast-moving environment where curiosity, initiative and ownership are encouraged. Rooted in Icelandic values and operating on a global stage, we value collaboration, diversity and integrity across everything we do. Our teams work on meaningful challenges, contribute directly to patient impact, and grow alongside the business.\n\nWhether you are at the start of your career or looking to take your next step, Alvotech offers the opportunity to do work that matters, in a company driven by purpose and scale.\n\nIf you do not see a role that matches your experience today, we still welcome general applications from individuals who share our ambition and want to help improve access to biologic medicines worldwide.",
+   "category": "operations",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-06",
+   "applicationUrl": "https://alfred.is/starf/principal-specialist-qa-engineering-2",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-07"
+  },
+  {
+   "id": 3803,
+   "company": "Hopp",
+   "companyLogo": null,
+   "title": "Chief Executive Officer",
+   "description": "Chief Executive Officer\n\nThe foundation is built. Now it's time to accelerate.\nHopp has established a successful franchise model with a growing presence across Europe, including Spain, Switzerland and Germany. Now we're looking for an ambitious commercially driven CEO to take the business to the next level.\n\nThis is a growth leadership role with a clear mission: expand Hopp's European footprint, secure new franchise partnerships and unlock the full commercial potential of the existing network.\n\nReporting directly to the Board, you will take ownership of Hopp's commercial strategy, financial performance and international expansion. We're looking for a hands-on dealmaker and inspiring leader who thrives on building relationships, closing deals and turning ambitious plans into measurable results.\n\nThe role can be based in Iceland or one of Hopp's core European markets, with frequent international travel.\n\nKey Responsibilities\n\n- Franchise Sales in Core Markets\n\n- Own franchise sales in our core markets (Spain, Switzerland, Germany and neighbouring regions), with clear targets for new franchises signed and launched\n\n- Run the sales pipeline end to end, from lead generation and screening of candidates to signed agreement and launch\n\n- Personally lead key deals and negotiations with prospective franchisees, municipalities and permit or tender processes\n\n- Build a marketing and lead generation engine that consistently brings in qualified franchise operators\n\n- Grow the Existing Network\n\n- Grow revenue per vehicle and fleet size together with existing franchisees\n\n- Track franchisee performance on uptime, deployment and usage, and act quickly where a location underperforms\n\n- Open a master franchisee that offers support to local franchisees, like vehicle maintenance and marketing\n\n- Financial Management\n\n- Own budgeting, financial strategy and capital structure, including lender relationships and future fundraising\n\n- Move franchisee fleet financing to banks and leasing partners, so network growth is not limited by Hopp’s own balance sheet\n\n- Manage credit risk on existing franchisee financing\n\n- Board & Governance\n\n- Partner with the Board on corporate strategy and long-term direction\n\n- Provide regular, transparent reporting on sales, performance, risks and strategic initiatives\n\n- Maintain strong governance practices across the organization\n\n- Team Leadership\n\n- Lead and develop the team in Iceland and abroad across sales, operations, product and marketing\n\n- Direct the team’s focus and resources toward growing revenue and franchise sales\n\n- Build a high-performing, accountable and sales-driven culture\n\nWhat Success Looks Like in Year One\n\n- A steady pipeline of qualified franchise candidates in core markets\n\n- New franchises signed and launched close to our existing strong locations\n\n- Revenue growth across the existing network\n\n- Franchisee fleet financing running through banks and leasing partners\n\nWhat We’re Looking For\n\n- Senior commercial leader with experience as CEO, General Manager or Head of Sales or Business Development in an international, multi-location business (franchising, channel or distributor networks are a strong advantage)\n\n- Proven B2B sales track record: building a pipeline, closing deals and hitting growth targets, ideally selling franchises, licences or distribution rights\n\n- Strong financial acumen, including budgeting and negotiating with lenders and asset finance partners\n\n- Comfortable at both Board level and in the field with franchisees, with strong cross-cultural communication\n\nNice to Have\n\n- Experience negotiating with municipalities and regulators, including permits or public tenders\n\n- Experience growing a market or partner network across several European countries\n\n- Fundraising experience in the tech startup world\n\n- German or Spanish language skills\n\nHopp is a shared mobility franchise platform with 50+ franchises in 17 countries. Each franchise is owned and run by a local entrepreneur, and Hopp provides the technology platform, brand, vehicle supply, financing options and operational support. We focus on mid-sized European towns and cities (50,000 to 300,000 residents) that the large operators overlook. The core offer is shared e-scooters and e-bikes, with car sharing and taxi in selected markets.\n\nApplication deadline is November 15th.\n\nSubmit your application through www.vinnvinn.is\n\nPlease ensure that you include a CV as well as a cover letter detailing why you are interested in the role and how you fulfill the requirements.\n\nBöðvarsdóttir () at Vinnvinn.",
+   "category": "operations",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Nóatún 17, 105 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-06",
+   "applicationUrl": "https://alfred.is/starf/chief-executive-officer",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 3756,
@@ -156,7 +232,26 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
+  },
+  {
+   "id": 3736,
+   "company": "JBT Marel",
+   "companyLogo": null,
+   "title": "Director Finance, Fish",
+   "description": "At JBT Marel, we are transforming the future of food processing. We are looking for a commercially minded, internationally experienced Finance Director (Fish) to partner with our Fish leadership team and help drive performance across a highly complex and fast-evolving business.\n\nIn this role you will lead a team of experienced finance professionals, located in several countries. Based in Denmark (Støvring) or Iceland (Garðabær), this role sits at the heart of our Fish organization and plays a critical role in supporting strategic decision-making, guiding financial performance, and helping shape the integration journey of JBT Marel.\n\nJOB SUMMARY\nThe Finance Director is responsible for owning and driving the Divisional financial strategy, planning and operations, with a focus on optimizing financial performance and ensuring the effective allocation of resources.\n\nThe ideal candidate will bring relevant expertise in finance leadership and be familiar with the unique financial challenges and opportunities within an industrial equipment and services provider.\n\nA key focus for the role is to drive financial performance and efficiency, streamline processes, and maximize the impact of the finance team.\n\nThis role requires a tactical thinker who can help guide the Divisional leadership team in financial decision-making while maintaining strong compliance and risk management practices.",
+   "category": "finance",
+   "type": "full-time",
+   "experienceLevel": "executive",
+   "location": "Austurhraun 9, 210 Garðabær",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-05",
+   "applicationUrl": "https://alfred.is/starf/director-finance-fish",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 3686,
@@ -175,7 +270,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 3720,
@@ -194,7 +289,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 3713,
@@ -213,7 +308,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 3681,
@@ -232,7 +327,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 3668,
@@ -251,7 +346,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 3630,
@@ -270,7 +365,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 3592,
@@ -289,7 +384,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 3526,
@@ -308,7 +403,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 3520,
@@ -327,7 +422,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 3529,
@@ -346,7 +441,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 3521,
@@ -365,7 +460,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 3442,
@@ -422,7 +517,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 3388,
@@ -441,7 +536,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 3406,
@@ -460,7 +555,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 3402,
@@ -498,7 +593,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 3339,
@@ -535,7 +630,7 @@
    "applicationUrl": "https://alfred.is/starf/sap-functional-analyst-manufacturing-quality-pp-ds",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-06"
   },
   {
@@ -554,7 +649,7 @@
    "applicationUrl": "https://alfred.is/starf/power-platform-ai-developer",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-06"
   },
   {
@@ -593,7 +688,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 3255,
@@ -783,7 +878,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 1330,
@@ -2379,7 +2474,7 @@
    "featured": false,
    "startup": true,
    "status": "filled",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 498,
@@ -9067,7 +9162,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 77,
@@ -9105,7 +9200,7 @@
    "featured": true,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 75,
@@ -9124,7 +9219,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 65,
@@ -9276,7 +9371,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 70,
@@ -9295,7 +9390,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 66,
@@ -9333,7 +9428,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 1361,
@@ -9656,7 +9751,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 55,
@@ -9751,7 +9846,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 38,
@@ -9846,7 +9941,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 2,
@@ -9865,7 +9960,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 14,
@@ -9903,7 +9998,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 4,
@@ -9922,7 +10017,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 9,
@@ -9941,7 +10036,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 12,
@@ -9960,7 +10055,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 13,
@@ -10017,7 +10112,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 8,
@@ -10036,7 +10131,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 6,
@@ -10055,7 +10150,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 1,
@@ -10074,7 +10169,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 10,
@@ -10207,7 +10302,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-06"
+   "lastVerified": "2026-11-07"
   },
   {
    "id": 22,

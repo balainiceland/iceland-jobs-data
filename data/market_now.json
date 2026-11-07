@@ -1,48 +1,48 @@
 {
-  "generated_at": "2026-11-06T13:03:45+00:00",
-  "open_postings": 566,
-  "open_postings_before_merging": 624,
-  "classified_open_postings": 510,
+  "generated_at": "2026-11-07T11:49:09+00:00",
+  "open_postings": 563,
+  "open_postings_before_merging": 620,
+  "classified_open_postings": 539,
   "by_major_group": [
     {
       "code": "2",
       "title": "Professionals",
-      "postings": 164
+      "postings": 168
     },
     {
       "code": "5",
       "title": "Service and Sales Workers",
-      "postings": 96
+      "postings": 97
     },
     {
       "code": "3",
       "title": "Technicians and Associate Professionals",
-      "postings": 83
+      "postings": 89
     },
     {
       "code": "7",
       "title": "Craft and Related Trades Workers",
-      "postings": 52
+      "postings": 58
     },
     {
       "code": "1",
       "title": "Managers",
-      "postings": 48
+      "postings": 50
     },
     {
       "code": "4",
       "title": "Clerical Support Workers",
-      "postings": 33
+      "postings": 36
     },
     {
       "code": "9",
       "title": "Elementary Occupations",
-      "postings": 18
+      "postings": 21
     },
     {
       "code": "8",
       "title": "Plant and Machine Operators, and Assemblers",
-      "postings": 15
+      "postings": 19
     },
     {
       "code": "6",
@@ -53,27 +53,27 @@
   "by_exposure_gradient": [
     {
       "gradient": "Not Exposed",
-      "postings": 231
+      "postings": 249
     },
     {
       "gradient": "Minimal Exposure",
-      "postings": 117
+      "postings": 124
     },
     {
       "gradient": "Exposed: Gradient 2",
-      "postings": 60
+      "postings": 65
     },
     {
       "gradient": "Exposed: Gradient 3",
-      "postings": 52
+      "postings": 51
     },
     {
       "gradient": "Exposed: Gradient 1",
-      "postings": 38
+      "postings": 37
     },
     {
       "gradient": "Exposed: Gradient 4",
-      "postings": 8
+      "postings": 9
     },
     {
       "gradient": "Not in ILO index",
@@ -82,18 +82,18 @@
   ],
   "top_occupations": [
     {
-      "isco_code": "5223",
-      "title": "Shop Sales Assistants",
-      "postings": 29,
-      "genai_exposure_2025": 0.38,
-      "gradient_2025": "Exposed: Gradient 1"
-    },
-    {
       "isco_code": "2221",
       "title": "Nursing Professionals",
-      "postings": 28,
+      "postings": 31,
       "genai_exposure_2025": 0.25,
       "gradient_2025": "Not Exposed"
+    },
+    {
+      "isco_code": "5223",
+      "title": "Shop Sales Assistants",
+      "postings": 28,
+      "genai_exposure_2025": 0.38,
+      "gradient_2025": "Exposed: Gradient 1"
     },
     {
       "isco_code": "2342",
@@ -105,15 +105,8 @@
     {
       "isco_code": "3221",
       "title": "Nursing Associate Professionals",
-      "postings": 16,
+      "postings": 15,
       "genai_exposure_2025": 0.22,
-      "gradient_2025": "Minimal Exposure"
-    },
-    {
-      "isco_code": "5322",
-      "title": "Home-based Personal Care Workers",
-      "postings": 14,
-      "genai_exposure_2025": 0.25,
       "gradient_2025": "Minimal Exposure"
     },
     {
@@ -124,11 +117,39 @@
       "gradient_2025": "Not Exposed"
     },
     {
+      "isco_code": "5322",
+      "title": "Home-based Personal Care Workers",
+      "postings": 13,
+      "genai_exposure_2025": 0.25,
+      "gradient_2025": "Minimal Exposure"
+    },
+    {
       "isco_code": "2512",
       "title": "Software Developers",
-      "postings": 11,
+      "postings": 12,
       "genai_exposure_2025": 0.53,
       "gradient_2025": "Exposed: Gradient 3"
+    },
+    {
+      "isco_code": "3512",
+      "title": "Information and Communications Technology User Support Technicians",
+      "postings": 11,
+      "genai_exposure_2025": 0.47,
+      "gradient_2025": "Exposed: Gradient 2"
+    },
+    {
+      "isco_code": "7233",
+      "title": "Agricultural and Industrial Machinery Mechanics and Repairers",
+      "postings": 10,
+      "genai_exposure_2025": 0.17,
+      "gradient_2025": "Not Exposed"
+    },
+    {
+      "isco_code": "5120",
+      "title": "Cooks",
+      "postings": 10,
+      "genai_exposure_2025": 0.18,
+      "gradient_2025": "Not Exposed"
     },
     {
       "isco_code": "3322",
@@ -138,17 +159,10 @@
       "gradient_2025": "Exposed: Gradient 2"
     },
     {
-      "isco_code": "3512",
-      "title": "Information and Communications Technology User Support Technicians",
-      "postings": 10,
-      "genai_exposure_2025": 0.47,
-      "gradient_2025": "Exposed: Gradient 2"
-    },
-    {
-      "isco_code": "7233",
-      "title": "Agricultural and Industrial Machinery Mechanics and Repairers",
+      "isco_code": "5312",
+      "title": "Teachers' Aides",
       "postings": 9,
-      "genai_exposure_2025": 0.17,
+      "genai_exposure_2025": 0.24,
       "gradient_2025": "Not Exposed"
     },
     {
@@ -159,38 +173,17 @@
       "gradient_2025": "Minimal Exposure"
     },
     {
-      "isco_code": "5120",
-      "title": "Cooks",
-      "postings": 9,
-      "genai_exposure_2025": 0.18,
-      "gradient_2025": "Not Exposed"
-    },
-    {
-      "isco_code": "2341",
-      "title": "Primary School Teachers",
-      "postings": 8,
-      "genai_exposure_2025": 0.26,
-      "gradient_2025": "Not Exposed"
-    },
-    {
-      "isco_code": "5131",
-      "title": "Waiters",
-      "postings": 7,
-      "genai_exposure_2025": 0.28,
-      "gradient_2025": "Minimal Exposure"
-    },
-    {
-      "isco_code": "5312",
-      "title": "Teachers' Aides",
-      "postings": 7,
-      "genai_exposure_2025": 0.24,
-      "gradient_2025": "Not Exposed"
-    },
-    {
       "isco_code": "1211",
       "title": "Finance Managers",
       "postings": 7,
       "genai_exposure_2025": 0.37,
+      "gradient_2025": "Minimal Exposure"
+    },
+    {
+      "isco_code": "8332",
+      "title": "Heavy Truck and Lorry Drivers",
+      "postings": 7,
+      "genai_exposure_2025": 0.24,
       "gradient_2025": "Minimal Exposure"
     },
     {
@@ -201,6 +194,13 @@
       "gradient_2025": "Not Exposed"
     },
     {
+      "isco_code": "2341",
+      "title": "Primary School Teachers",
+      "postings": 7,
+      "genai_exposure_2025": 0.26,
+      "gradient_2025": "Not Exposed"
+    },
+    {
       "isco_code": "2151",
       "title": "Electrical Engineers",
       "postings": 7,
@@ -208,24 +208,24 @@
       "gradient_2025": "Not Exposed"
     },
     {
-      "isco_code": "8332",
-      "title": "Heavy Truck and Lorry Drivers",
+      "isco_code": "5131",
+      "title": "Waiters",
       "postings": 6,
-      "genai_exposure_2025": 0.24,
+      "genai_exposure_2025": 0.28,
       "gradient_2025": "Minimal Exposure"
     },
     {
-      "isco_code": "2211",
-      "title": "Generalist Medical Practitioners",
+      "isco_code": "7126",
+      "title": "Plumbers and Pipe Fitters",
       "postings": 6,
-      "genai_exposure_2025": 0.29,
+      "genai_exposure_2025": 0.18,
       "gradient_2025": "Not Exposed"
     }
   ],
   "ai": {
-    "postings_mentioning_ai": 25,
-    "share_mentioning_ai": 0.044,
-    "ai_roles": 4,
+    "postings_mentioning_ai": 23,
+    "share_mentioning_ai": 0.041,
+    "ai_roles": 2,
     "top_ai_skills": [
       {
         "skill": "ai coding assistants",
@@ -283,18 +283,6 @@
       },
       {
         "tool": "Copilot",
-        "postings": 1
-      },
-      {
-        "tool": "Copilot Studio",
-        "postings": 1
-      },
-      {
-        "tool": "Azure OpenAI",
-        "postings": 1
-      },
-      {
-        "tool": "Semantic Kernel",
         "postings": 1
       }
     ]
