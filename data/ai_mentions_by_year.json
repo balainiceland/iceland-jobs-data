@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T12:01:25+00:00",
+  "generated_at": "2026-11-09T14:03:19+00:00",
   "source": "Tvinna (tvinna.is) archive: tech and creative jobs, by year posted",
   "method": "A posting counts if its title or text mentions AI, machine learning, generative AI or a named AI tool (keyword match, Icelandic and English).",
   "years": [
@@ -101,9 +101,9 @@
     },
     {
       "year": 2026,
-      "postings": 28,
+      "postings": 29,
       "mentioning_ai": 12,
-      "share": 0.429
+      "share": 0.414
     }
   ]
 }
