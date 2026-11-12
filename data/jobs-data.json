@@ -1,10 +1,10 @@
 {
  "version": "2.0.0",
- "lastUpdated": "2026-11-11T12:49:39+00:00",
+ "lastUpdated": "2026-11-12T13:54:12+00:00",
  "metadata": {
-  "lastUpdated": "2026-11-11",
+  "lastUpdated": "2026-11-12",
   "version": "2.0.0",
-  "totalJobs": 629,
+  "totalJobs": 634,
   "source": "Iceland jobs research database (github.com/balainiceland/iceland-jobs-data)"
  },
  "categories": {
@@ -45,6 +45,101 @@
  },
  "jobs": [
   {
+   "id": 3959,
+   "company": "Coripharma ehf.",
+   "companyLogo": null,
+   "title": "Framkvæmdastjóri Framleiðslusviðs",
+   "description": "Ert þú framsýnn leiðtogi með ástríðu fyrir framleiðslu, gæðum og öflugri liðsheild? Vilt þú leiða uppbyggingu og þróun lyfjaframleiðslu í alþjóðlegu umhverfi? Þá gæti þetta verið tækifærið fyrir þig!\n\nCoripharma leitar að kraftmiklum og metnaðarfullum leiðtoga í starf framkvæmdastjóra Framleiðslusviðs. Við leitum að einstaklingi sem sameinar stefnumótandi sýn, rekstrarþekkingu og hæfni til að leiða fólk og stöðugar umbætur.\n\nFramkvæmdastjóri framleiðslusviðs (e. Director of Production Operations) leiðir stefnumótun og rekstur sviðsins, sem nær yfir bæði lyfjaframleiðslu og lyfjapökkun. Á framleiðslusviði starfa í dag 85 starfsmenn sem starfa að hluta til á vöktum. Hlutverkið felur í sér ábyrgð á rekstrarárangri og afkomu, áætlanagerð, nýtingu mannafla og fjármuna, fjárfestingum og stöðugum umbótum. Framkvæmdastjóri tryggir að starfsemin sé örugg, skilvirk og arðbær og uppfylli gæðakröfur og gildandi framleiðsluhætti (cGMP).\n\nRík áhersla er lögð á þróun öflugra teyma, þjálfun starfsfólks og samstarf þvert á félagið. Framkvæmdastjóri leiðir aukningu framleiðslu og innleiðingu nýrra lyfja í framleiðslu og tryggir að fullgilding framleiðsluferla og þrifa sé til staðar. Þá tekur hann þátt í gæðaráði félagsins og vinnur að áhættu- og frávikastjórnun og undirbúningi fyrir úttektir.",
+   "category": "production",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Reykjavíkurvegur 76, 220 Hafnarfjörður",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-12",
+   "applicationUrl": "https://alfred.is/starf/framkvmdastjori-framleidslusvids",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-12"
+  },
+  {
+   "id": 3978,
+   "company": "atNorth",
+   "companyLogo": null,
+   "title": "Operations Manager – atNorth",
+   "description": "Are you motivated to build a great operational team where professionalism, dependability and high team spirit go hand in hand? Would you like to bring structure to a rapidly growing business while leading operations of critical infrastructure that international clients rely on? If you take pride in building a team that supports one another and delivers operational excellence, you could be our next Operations Manager.\n\natNorth is a leading Nordic data center company providing cost-effective, scalable high-density colocation and built-to-suit services to international industry-leading organizations across Iceland, Sweden, Finland, Denmark and Norway.\n\nAs part of its continued growth, atNorth is seeking an experienced Operations Manager to join the team in Iceland’s largest and rapidly growing datacenter in Reykjanesbær.\n\nIn this key leadership role, you will be responsible for the safe, reliable and efficient day-to-day operation of critical data center infrastructure. You will ensure this infrastructure meets ambitious availability requirements for high value and state of the art equipment. You will lead rapidly expanding teams of approximately 25 operational engineers, technicians and their team leads while driving operational excellence, infrastructure availability, safety and continuous improvement.\n\nKey Responsibilities\n\n- Lead and develop a team of technicians and operational engineers\n\n- Ensure safe, reliable and efficient daily data center operations\n\n- Oversee maintenance activities across electrical, mechanical, cooling and critical infrastructure systems\n\n- Drive performance against operational targets, SLAs and KPIs\n\n- Maintain and improve operational procedures, workflows and documentation\n\n- Lead operational excellence and continuous improvement initiatives\n\n- Support safety, quality and compliance programs\n\n- Manage vendors, contractors and maintenance service providers\n\n- Support new builds, expansions and operational readiness activities\n\n- Act as the primary escalation point for operational incidents and challenges\n\nBackground & Qualifications\n\n- Strong leadership, communication and stakeholder management skills\n\n- Solid understanding of electrical and mechanical systems and operational resilience\n\n- Familiar to managing operational performance, vendors and budgets\n\n- Experience from industrial operations, mission-critical environments, utilities, telecommunications, energy or data centers is highly valued\n\n- Knowledge of safety, quality and compliance requirements within regulated environments\n\n- Degree in Engineering, Technical Management or a related field, or equivalent experience\n\n- Fluent in English\n\nAbout the atNorth Culture\n\nAt atNorth, we believe sustainable success starts with our people. We foster an open, collaborative, and supportive environment where individuals are encouraged to take ownership, contribute ideas, and grow professionally. We value teamwork, trust, and transparency, and we recognize that great results are achieved when talented people work together toward a common goal.\n\nBy joining atNorth, you become part of a company that is helping build the sustainable digital infrastructure of the future while maintaining a strong commitment to its employees, customers, and communities.\n\nLangar þig að byggja upp öflugt rekstrarteymi þar sem fagmennska, áreiðanleiki og góður liðsandi fara saman? Ef þú hefur metnað fyrir því að byggja upp sterkt teymi sem tryggir framúrskarandi rekstur gæti starf rekstrarstjóra hjá atNorth verið næsta skref fyrir þig.\n\nÍ takt við áframhaldandi vöxt fyrirtækisins leitar atNorth að reynslumiklum rekstrarstjóra til að ganga til liðs við stærsta gagnaver landsins í Reykjanesbæ.\n\nUm er að ræða lykilstöðu þar sem viðkomandi ber ábyrgð á daglegum rekstri mikilvægra innviða gagnaversins. Tryggja þarf að innviðirnir uppfylli strangar kröfur um rekstraröryggi og aðgengi, enda hýsa þeir verðmætan og háþróaðan búnað. Rekstrarstjóri mun leiða teymi sem telur um 25 tæknimenn og teymisstjóra, með áherslu á framúrskarandi rekstur, áreiðanleika innviða, öryggi og stöðugar umbætur.\n\nHelstu verkefni og ábyrgð\n\n- Leiða og þróa teymi tæknimanna og vaktar\n\n- Tryggja öruggan, áreiðanlegan og skilvirkan daglegan rekstur gagnaversins\n\n- Hafa yfirumsjón með viðhaldi raf-, véla-, kæli- og annarra mikilvægra innviðakerfa\n\n- Tryggja árangur í samræmi við rekstrarmarkmið, þjónustustig (SLA) og lykilmælikvarða (KPI)\n\n- Viðhalda og þróa verkferla, vinnulag og rekstrarskjöl\n\n- Leiða umbótastarf og vinna að auknum gæðum og skilvirkni í rekstri\n\n- Styðja við verkefni og verklag sem snúa að öryggi, gæðum og regluvörslu\n\n- Stýra samskiptum og samstarfi við birgja, verktaka og þjónustuaðila\n\n- Taka þátt í uppbyggingu og stækkun gagnaversins og tryggja rekstrarhæfni nýrra kerfa og innviða\n\nMenntunar- og hæfniskröfur\n\n- Sterk leiðtogahæfni ásamt góðri samskipta- og samstarfshæfni\n\n- Góður skilningur á raf- og vélbúnaðarkerfum og mikilvægi rekstraröryggis\n\n- Reynsla af stjórnun rekstrar, birgjum og fjárhagsáætlunum\n\n- Reynsla úr iðnaðarrekstri, rekstri mikilvægra innviða, veitustarfsemi, fjarskiptum, orkugeiranum eða gagnaverum er mikill kostur\n\n- Þekking á kröfum um öryggi, gæði og regluvörslu í rekstrarumhverfi þar sem ríkar kröfur eru gerðar\n\n- Háskólamenntun á sviði tæknifræði, verkfræði, iðnfræði eða sambærilegu sviði, eða sambærileg starfsreynsla\n\n- Gott vald á ensku\n\nMenning og starfsumhverfi hjá atNorth\n\nHjá atNorth er lögð áhersla á að árangur byggist fyrst og fremst á mannauðnum. Fyrirtækið leggur metnað í að skapa opið, samstarfsmiðað og styðjandi starfsumhverfi þar sem starfsfólk er hvatt til að axla ábyrgð, koma með hugmyndir og þróast í starfi.\n\nSamvinna, traust og gagnsæi eru mikilvæg gildi í menningu fyrirtækisins og lögð er áhersla á að góður árangur náist þegar hæfileikaríkt fólk vinnur saman að sameiginlegum markmiðum.\n\nMeð því að ganga til liðs við atNorth verður þú hluti af fyrirtæki sem tekur þátt í að byggja upp sjálfbæra stafræna innviði framtíðarinnar, með ríka áherslu á starfsfólk sitt, viðskiptavini og samfélagið. Frekari upplýsingar um atNorth má finna á www.atnorth.com\n\nStefanía Hildur Ásmundsdóttir –",
+   "category": "operations",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Reykjanesbær",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-12",
+   "applicationUrl": "https://www.hagvangur.is/jobs/operations-manager-atnorth/",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-12"
+  },
+  {
+   "id": 3961,
+   "company": "Coripharma ehf.",
+   "companyLogo": null,
+   "title": "Framkvæmdastjóri Tæknisviðs",
+   "description": "Ert þú framsýnn leiðtogi með ástríðu fyrir tækni og öflugri liðsheild? Vilt þú leiða þróun tæknilegra innviða og kerfa sem styðja við lyfjaframleiðslu í alþjóðlegu umhverfi? Þá gæti þetta verið tækifærið fyrir þig!\n\nCoripharma leitar að kraftmiklum og metnaðarfullum leiðtoga í starf framkvæmdastjóra tæknisviðs. Við leitum að einstaklingi sem sameinar stefnumótandi sýn, reynslu af tæknirekstri og hæfni til að leiða fólk og umbætur.\n\nFramkvæmdastjóri tæknisviðs (e. Director of Engineering Operations) leiðir stefnumótun og rekstur sviðsins og ber ábyrgð á vélbúnaði, hugbúnaði, framleiðslukerfum, tæknilegum innviðum og fasteignum félagsins. Í hlutverkinu felst að tryggja rekstraröryggi, leiða fjárfestingar og stöðugar umbætur og stuðla að skilvirkni, gagnaöryggi og gæðum í samræmi við kröfur lyfjaframleiðslu (cGMP)Undir framkvæmdastjóra tæknisviðs heyra tæknideild, tölvudeild og umhverfis-, heilsu- og öryggismál. Á sviðinu starfa í dag 14 manns. Rík áhersla er lögð á þróun öflugra teyma, samstarf þvert á félagið, áhættustýringu og sjálfbærni.",
+   "category": "operations",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Reykjavíkurvegur 76, 220 Hafnarfjörður",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-12",
+   "applicationUrl": "https://alfred.is/starf/framkvmdastjori-tknisvids",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-12"
+  },
+  {
+   "id": 3950,
+   "company": "DTE",
+   "companyLogo": null,
+   "title": "Production Specialist - Electric",
+   "description": "Join us and help build the technology powering the future of Metals Intelligence!\n\nAn exciting job opportunity for an experienced, hands-on Electrical Production Specialist to join DTE at a pivotal stage as we scale our production.\n\nAs part of our Delivery team, you will build advanced industrial systems that combine lasers, optics, robotics, automation, software, and real-time process measurement. These systems are delivered to major aluminum producers around the world.\n\nYou will play a key role throughout the delivery process, from assembling and wiring electrical cabinets to testing, upgrading, and servicing our systems at customer sites. You will help ensure that every system meets the highest standards of quality, safety, and performance.\n\nIf you enjoy hands-on technical work and thrive in a collaborative, fast-paced environment, you could be the person we're looking for. If you're organized, adaptable, and enjoy solving technical challenges while maintaining a strong focus on safety, quality, and customer satisfaction, we'd love to hear from you.\n\nThis role is based in Iceland and requires a valid Icelandic work permit.",
+   "category": "production",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Lambhagavegur 5, 113 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-11",
+   "applicationUrl": "https://alfred.is/starf/production-specialist-electric",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-12"
+  },
+  {
+   "id": 3949,
+   "company": "DTE",
+   "companyLogo": null,
+   "title": "Production Specialist - Mechanic",
+   "description": "Join us and help build the technology powering the future of Metals Intelligence!\n\nAn exciting job opportunity for an experienced, hands-on Mechanical Production Specialist to join DTE at a pivotal stage as we scale our production.\n\nAs part of our Delivery team, you will build advanced industrial systems that combine lasers, optics, robotics, automation, software, and real-time process measurement. These systems are delivered to major aluminum producers around the world.\n\nYou will play a key role throughout the delivery process, from assembling parts from subcontractors, building parts yourself, sometimes with 3D printing, to testing, upgrading, and servicing our systems at customer sites. You will help ensure that every system meets the highest standards of quality, safety, and performance.\n\nIf you enjoy hands-on technical work and thrive in a collaborative, fast-paced environment, you could be the person we're looking for. If you're organized, adaptable, and enjoy solving technical challenges while maintaining a strong focus on safety, quality, and customer satisfaction, we'd love to hear from you.\n\nThis role is based in Iceland and requires a valid Icelandic work permit.",
+   "category": "production",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Lambhagavegur 5, 113 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-11",
+   "applicationUrl": "https://alfred.is/starf/production-specialist-mechanic",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-12"
+  },
+  {
    "id": 3883,
    "company": "Alvotech hf",
    "companyLogo": null,
@@ -61,7 +156,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3872,
@@ -80,7 +175,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3873,
@@ -99,7 +194,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3774,
@@ -118,7 +213,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3762,
@@ -137,7 +232,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3771,
@@ -156,7 +251,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3770,
@@ -175,7 +270,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3787,
@@ -194,7 +289,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3805,
@@ -213,7 +308,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3789,
@@ -232,7 +327,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3807,
@@ -251,7 +346,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3803,
@@ -270,7 +365,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3756,
@@ -289,7 +384,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3736,
@@ -308,7 +403,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3686,
@@ -327,7 +422,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3720,
@@ -346,7 +441,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3713,
@@ -365,7 +460,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3681,
@@ -384,7 +479,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3668,
@@ -403,7 +498,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3630,
@@ -421,7 +516,7 @@
    "applicationUrl": "https://alfred.is/starf/vid-leitum-ad-rafvirkja-eda-rafeindavirkja-i-samsetningu-a-rafbunadi-og-vogum",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-11"
   },
   {
@@ -441,7 +536,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3526,
@@ -498,7 +593,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3521,
@@ -573,7 +668,7 @@
    "applicationUrl": "https://alfred.is/starf/commissioning-manager",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-11"
   },
   {
@@ -745,7 +840,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 3255,
@@ -935,7 +1030,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 1330,
@@ -2531,7 +2626,7 @@
    "featured": false,
    "startup": true,
    "status": "filled",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 498,
@@ -9219,7 +9314,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 77,
@@ -9257,7 +9352,7 @@
    "featured": true,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 75,
@@ -9276,7 +9371,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 65,
@@ -9428,7 +9523,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 70,
@@ -9447,7 +9542,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 66,
@@ -9485,7 +9580,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 1361,
@@ -9808,7 +9903,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 55,
@@ -9903,7 +9998,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 38,
@@ -9998,7 +10093,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 2,
@@ -10017,7 +10112,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 14,
@@ -10055,7 +10150,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 4,
@@ -10074,7 +10169,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 9,
@@ -10093,7 +10188,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 12,
@@ -10112,7 +10207,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 13,
@@ -10169,7 +10264,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 8,
@@ -10188,7 +10283,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 6,
@@ -10207,7 +10302,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 1,
@@ -10226,7 +10321,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 10,
@@ -10359,7 +10454,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-11"
+   "lastVerified": "2026-11-12"
   },
   {
    "id": 22,
