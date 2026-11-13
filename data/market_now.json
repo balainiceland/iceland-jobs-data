@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-11-12T13:54:05+00:00",
-  "open_postings": 550,
-  "open_postings_before_merging": 606,
-  "classified_open_postings": 504,
+  "generated_at": "2026-11-13T13:14:46+00:00",
+  "open_postings": 558,
+  "open_postings_before_merging": 613,
+  "classified_open_postings": 521,
   "by_major_group": [
     {
       "code": "2",
       "title": "Professionals",
-      "postings": 159
+      "postings": 162
     },
     {
       "code": "5",
       "title": "Service and Sales Workers",
-      "postings": 92
+      "postings": 89
     },
     {
       "code": "3",
       "title": "Technicians and Associate Professionals",
-      "postings": 76
+      "postings": 78
     },
     {
       "code": "7",
       "title": "Craft and Related Trades Workers",
-      "postings": 61
+      "postings": 64
     },
     {
       "code": "1",
       "title": "Managers",
-      "postings": 41
+      "postings": 50
     },
     {
       "code": "4",
@@ -37,12 +37,12 @@
     {
       "code": "9",
       "title": "Elementary Occupations",
-      "postings": 22
+      "postings": 23
     },
     {
       "code": "8",
       "title": "Plant and Machine Operators, and Assemblers",
-      "postings": 15
+      "postings": 17
     },
     {
       "code": "6",
@@ -53,19 +53,19 @@
   "by_exposure_gradient": [
     {
       "gradient": "Not Exposed",
-      "postings": 241
+      "postings": 244
     },
     {
       "gradient": "Minimal Exposure",
-      "postings": 110
+      "postings": 123
     },
     {
       "gradient": "Exposed: Gradient 2",
-      "postings": 57
+      "postings": 59
     },
     {
       "gradient": "Exposed: Gradient 3",
-      "postings": 47
+      "postings": 46
     },
     {
       "gradient": "Exposed: Gradient 1",
@@ -91,14 +91,14 @@
     {
       "isco_code": "5223",
       "title": "Shop Sales Assistants",
-      "postings": 24,
+      "postings": 23,
       "genai_exposure_2025": 0.38,
       "gradient_2025": "Exposed: Gradient 1"
     },
     {
       "isco_code": "2342",
       "title": "Early Childhood Educators",
-      "postings": 17,
+      "postings": 16,
       "genai_exposure_2025": 0.21,
       "gradient_2025": "Not Exposed"
     },
@@ -110,37 +110,30 @@
       "gradient_2025": "Minimal Exposure"
     },
     {
+      "isco_code": "7233",
+      "title": "Agricultural and Industrial Machinery Mechanics and Repairers",
+      "postings": 14,
+      "genai_exposure_2025": 0.17,
+      "gradient_2025": "Not Exposed"
+    },
+    {
       "isco_code": "7231",
       "title": "Motor Vehicle Mechanics and Repairers",
-      "postings": 13,
+      "postings": 12,
       "genai_exposure_2025": 0.18,
       "gradient_2025": "Not Exposed"
     },
     {
       "isco_code": "3221",
       "title": "Nursing Associate Professionals",
-      "postings": 12,
+      "postings": 11,
       "genai_exposure_2025": 0.22,
       "gradient_2025": "Minimal Exposure"
     },
     {
-      "isco_code": "7233",
-      "title": "Agricultural and Industrial Machinery Mechanics and Repairers",
-      "postings": 12,
-      "genai_exposure_2025": 0.17,
-      "gradient_2025": "Not Exposed"
-    },
-    {
-      "isco_code": "3512",
-      "title": "Information and Communications Technology User Support Technicians",
-      "postings": 10,
-      "genai_exposure_2025": 0.47,
-      "gradient_2025": "Exposed: Gradient 2"
-    },
-    {
       "isco_code": "4321",
       "title": "Stock Clerks",
-      "postings": 9,
+      "postings": 10,
       "genai_exposure_2025": 0.37,
       "gradient_2025": "Minimal Exposure"
     },
@@ -166,11 +159,11 @@
       "gradient_2025": "Exposed: Gradient 2"
     },
     {
-      "isco_code": "5321",
-      "title": "Health Care Assistants",
+      "isco_code": "3512",
+      "title": "Information and Communications Technology User Support Technicians",
       "postings": 8,
-      "genai_exposure_2025": 0.14,
-      "gradient_2025": "Not Exposed"
+      "genai_exposure_2025": 0.47,
+      "gradient_2025": "Exposed: Gradient 2"
     },
     {
       "isco_code": "5120",
@@ -180,11 +173,11 @@
       "gradient_2025": "Not Exposed"
     },
     {
-      "isco_code": "1211",
-      "title": "Finance Managers",
+      "isco_code": "3434",
+      "title": "Chefs",
       "postings": 7,
-      "genai_exposure_2025": 0.37,
-      "gradient_2025": "Minimal Exposure"
+      "genai_exposure_2025": 0.25,
+      "gradient_2025": "Not Exposed"
     },
     {
       "isco_code": "2341",
@@ -201,11 +194,11 @@
       "gradient_2025": "Not Exposed"
     },
     {
-      "isco_code": "7126",
-      "title": "Plumbers and Pipe Fitters",
+      "isco_code": "1211",
+      "title": "Finance Managers",
       "postings": 6,
-      "genai_exposure_2025": 0.18,
-      "gradient_2025": "Not Exposed"
+      "genai_exposure_2025": 0.37,
+      "gradient_2025": "Minimal Exposure"
     },
     {
       "isco_code": "8332",
@@ -215,16 +208,23 @@
       "gradient_2025": "Minimal Exposure"
     },
     {
-      "isco_code": "3434",
-      "title": "Chefs",
+      "isco_code": "5321",
+      "title": "Health Care Assistants",
       "postings": 6,
-      "genai_exposure_2025": 0.25,
+      "genai_exposure_2025": 0.14,
       "gradient_2025": "Not Exposed"
+    },
+    {
+      "isco_code": "1420",
+      "title": "Retail and Wholesale Trade Managers",
+      "postings": 5,
+      "genai_exposure_2025": 0.44,
+      "gradient_2025": "Exposed: Gradient 2"
     }
   ],
   "ai": {
     "postings_mentioning_ai": 22,
-    "share_mentioning_ai": 0.04,
+    "share_mentioning_ai": 0.039,
     "ai_roles": 2,
     "top_ai_skills": [
       {
@@ -264,21 +264,21 @@
         "postings": 1
       },
       {
-        "skill": "using ai in daily work",
+        "skill": "interest in using ai",
         "postings": 1
       }
     ],
     "top_ai_tools": [
       {
         "tool": "Claude Code",
-        "postings": 5
-      },
-      {
-        "tool": "Cursor",
-        "postings": 1
+        "postings": 6
       },
       {
         "tool": "Codex",
+        "postings": 2
+      },
+      {
+        "tool": "Cursor",
         "postings": 1
       },
       {
