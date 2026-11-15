@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-11-14T12:19:15+00:00",
-  "open_postings": 550,
-  "open_postings_before_merging": 607,
-  "classified_open_postings": 524,
+  "generated_at": "2026-11-15T12:51:40+00:00",
+  "open_postings": 546,
+  "open_postings_before_merging": 603,
+  "classified_open_postings": 545,
   "by_major_group": [
     {
       "code": "2",
       "title": "Professionals",
-      "postings": 166
+      "postings": 175
     },
     {
       "code": "5",
       "title": "Service and Sales Workers",
-      "postings": 87
+      "postings": 89
     },
     {
       "code": "3",
       "title": "Technicians and Associate Professionals",
-      "postings": 78
+      "postings": 80
     },
     {
       "code": "7",
       "title": "Craft and Related Trades Workers",
-      "postings": 64
+      "postings": 66
     },
     {
       "code": "1",
       "title": "Managers",
-      "postings": 50
+      "postings": 54
     },
     {
       "code": "4",
       "title": "Clerical Support Workers",
-      "postings": 37
+      "postings": 38
     },
     {
       "code": "9",
       "title": "Elementary Occupations",
-      "postings": 25
+      "postings": 26
     },
     {
       "code": "8",
@@ -53,27 +53,27 @@
   "by_exposure_gradient": [
     {
       "gradient": "Not Exposed",
-      "postings": 245
+      "postings": 253
     },
     {
       "gradient": "Minimal Exposure",
-      "postings": 119
+      "postings": 123
     },
     {
       "gradient": "Exposed: Gradient 2",
-      "postings": 59
+      "postings": 62
     },
     {
       "gradient": "Exposed: Gradient 3",
-      "postings": 51
+      "postings": 55
     },
     {
       "gradient": "Exposed: Gradient 1",
-      "postings": 35
+      "postings": 38
     },
     {
       "gradient": "Exposed: Gradient 4",
-      "postings": 12
+      "postings": 11
     },
     {
       "gradient": "Not in ILO index",
@@ -82,6 +82,13 @@
   ],
   "top_occupations": [
     {
+      "isco_code": "5223",
+      "title": "Shop Sales Assistants",
+      "postings": 27,
+      "genai_exposure_2025": 0.38,
+      "gradient_2025": "Exposed: Gradient 1"
+    },
+    {
       "isco_code": "2221",
       "title": "Nursing Professionals",
       "postings": 25,
@@ -89,23 +96,16 @@
       "gradient_2025": "Not Exposed"
     },
     {
-      "isco_code": "5223",
-      "title": "Shop Sales Assistants",
-      "postings": 24,
-      "genai_exposure_2025": 0.38,
-      "gradient_2025": "Exposed: Gradient 1"
-    },
-    {
       "isco_code": "2342",
       "title": "Early Childhood Educators",
-      "postings": 18,
+      "postings": 19,
       "genai_exposure_2025": 0.21,
       "gradient_2025": "Not Exposed"
     },
     {
       "isco_code": "7233",
       "title": "Agricultural and Industrial Machinery Mechanics and Repairers",
-      "postings": 14,
+      "postings": 15,
       "genai_exposure_2025": 0.17,
       "gradient_2025": "Not Exposed"
     },
@@ -173,13 +173,6 @@
       "gradient_2025": "Not Exposed"
     },
     {
-      "isco_code": "1211",
-      "title": "Finance Managers",
-      "postings": 7,
-      "genai_exposure_2025": 0.37,
-      "gradient_2025": "Minimal Exposure"
-    },
-    {
       "isco_code": "9112",
       "title": "Cleaners and Helpers in Offices, Hotels and Other Establishments",
       "postings": 7,
@@ -194,6 +187,13 @@
       "gradient_2025": "Not Exposed"
     },
     {
+      "isco_code": "2341",
+      "title": "Primary School Teachers",
+      "postings": 7,
+      "genai_exposure_2025": 0.26,
+      "gradient_2025": "Not Exposed"
+    },
+    {
       "isco_code": "5321",
       "title": "Health Care Assistants",
       "postings": 6,
@@ -201,11 +201,18 @@
       "gradient_2025": "Not Exposed"
     },
     {
-      "isco_code": "2341",
-      "title": "Primary School Teachers",
+      "isco_code": "9412",
+      "title": "Kitchen Helpers",
       "postings": 6,
-      "genai_exposure_2025": 0.26,
+      "genai_exposure_2025": 0.13,
       "gradient_2025": "Not Exposed"
+    },
+    {
+      "isco_code": "1211",
+      "title": "Finance Managers",
+      "postings": 6,
+      "genai_exposure_2025": 0.37,
+      "gradient_2025": "Minimal Exposure"
     },
     {
       "isco_code": "5120",
@@ -213,23 +220,20 @@
       "postings": 5,
       "genai_exposure_2025": 0.18,
       "gradient_2025": "Not Exposed"
-    },
-    {
-      "isco_code": "1420",
-      "title": "Retail and Wholesale Trade Managers",
-      "postings": 5,
-      "genai_exposure_2025": 0.44,
-      "gradient_2025": "Exposed: Gradient 2"
     }
   ],
   "ai": {
-    "postings_mentioning_ai": 20,
-    "share_mentioning_ai": 0.036,
-    "ai_roles": 2,
+    "postings_mentioning_ai": 19,
+    "share_mentioning_ai": 0.035,
+    "ai_roles": 3,
     "top_ai_skills": [
       {
         "skill": "ai coding assistants",
         "postings": 4
+      },
+      {
+        "skill": "ai agents",
+        "postings": 2
       },
       {
         "skill": "ai in erp solutions",
@@ -237,10 +241,6 @@
       },
       {
         "skill": "ai-assisted coding",
-        "postings": 1
-      },
-      {
-        "skill": "use of ai and automation in financial systems",
         "postings": 1
       },
       {
@@ -299,6 +299,14 @@
       },
       {
         "tool": "Cowork",
+        "postings": 1
+      },
+      {
+        "tool": "Azure OpenAI",
+        "postings": 1
+      },
+      {
+        "tool": "Azure AI Foundry",
         "postings": 1
       }
     ]
