@@ -1,8 +1,8 @@
 {
  "version": "2.0.0",
- "lastUpdated": "2026-11-16T13:47:38+00:00",
+ "lastUpdated": "2026-11-17T14:35:19+00:00",
  "metadata": {
-  "lastUpdated": "2026-11-16",
+  "lastUpdated": "2026-11-17",
   "version": "2.0.0",
   "totalJobs": 637,
   "source": "Iceland jobs research database (github.com/balainiceland/iceland-jobs-data)"
@@ -61,14 +61,14 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 4050,
    "company": "Alvotech hf",
    "companyLogo": null,
    "title": "Supply Planner",
-   "description": "Overview of role:\n\nThe Supply Planner at Alvotech is responsible for developing and executing supply plans (3–24 months) to ensure reliable product availability while optimizing inventory, capacity, and overall supply chain performance.\n\nThis role translates demand forecasts into actionable production plans within a complex biologics environment, balancing service levels, efficiency, and cost. Acting as a central point of coordination, the Supply Planner collaborates cross-functionally to maintain a responsive and resilient end-to-end supply network.\n\nKey Responsibilities:\n\nSupply Planning & Execution\n\nDevelop and maintain mid- to long-term supply plans (3–24 months) aligned with demand forecasts\nTranslate demand plans into feasible production and supply strategies\nOptimize inventory levels across the supply network (API, drug product, and finished goods)\nIdentify and resolve supply-demand imbalances and capacity constraints\n\nProduction & Capacity Coordination\n\nCoordinate with manufacturing sites to align production schedules with supply plans\nMaximize capacity utilization to meet demand requirements\nSupport scenario planning and perform “what-if” analyses in constrained environments\n\nCross-Functional Collaboration\n\nPartner with Demand Planning to align on forecast assumptions and changes\nCollaborate with Procurement to ensure availability of critical materials\nWork closely with Quality and Regulatory teams to integrate compliance requirements into plans\nEngage with external partners such as CMOs/CDMOs as required\n\nS&OP / IBP Process Support\n\nContribute to Sales & Operations Planning (S&OP) / Integrated Business Planning (IBP) processes\nPrepare supply planning inputs, risk assessments, and scenarios for decision-making\nProactively identify supply risks and opportunities, and develop mitigation strategies\n\nData Analysis & Continuous Improvement\n\nMonitor KPIs such as service level, inventory turns, backorders, and plan adherence\nAnalyze root causes of supply disruptions and implement corrective actions\nSupport implementation and enhancement of planning systems (e.g., SAP IBP, SAP S/4HANA)\nDrive process standardization and improve data accuracy\n\nQualifications:\n\nB.Sc. or M.Sc. in Supply Chain, Engineering, Business, or related field\nLanguages: Proficient in English\n3+ years of experience in Supply Chain Management (Supply planning, Production planning, or Supply Chain operations)\nStrong analytical skills and data literacy\nStrong leadership, project management and communication skills\nStrong drive for results and strong team player\nSolid understanding of supply KPIs and financial aspects\nAbility to bridge between scientific-, technical- and business-oriented stakeholders for effective international collaboration\nSystems & Software:\nAdvanced Excel skills; experience with data analytics tools is a plus\nStrong knowledge of ERP and planning systems e.g. SAP S4 and SAP IBP preferred\nExperience in pharmaceuticals, biotech, or regulated manufacturing environments preferred",
+   "description": "Overview of role:\n\nThe Supply Planner at Alvotech is responsible for developing and executing supply plans (3–24 months) to ensure reliable product availability while optimizing inventory, capacity, and overall supply chain performance.\n\nThis role translates demand forecasts into actionable production plans within a complex biologics environment, balancing service levels, efficiency, and cost. Acting as a central point of coordination, the Supply Planner collaborates cross-functionally to maintain a responsive and resilient end-to-end supply network.\n\nKey Responsibilities:\n\nSupply Planning & Execution\n\n- Develop and maintain mid- to long-term supply plans (3–24 months) aligned with demand forecasts\n\n- Translate demand plans into feasible production and supply strategies\n\n- Optimize inventory levels across the supply network (API, drug product, and finished goods)\n\n- Identify and resolve supply-demand imbalances and capacity constraints\n\nProduction & Capacity Coordination\n\n- Coordinate with manufacturing sites to align production schedules with supply plans\n\n- Maximize capacity utilization to meet demand requirements\n\n- Support scenario planning and perform “what-if” analyses in constrained environments\n\nCross-Functional Collaboration\n\n- Partner with Demand Planning to align on forecast assumptions and changes\n\n- Collaborate with Procurement to ensure availability of critical materials\n\n- Work closely with Quality and Regulatory teams to integrate compliance requirements into plans\n\n- Engage with external partners such as CMOs/CDMOs as required\n\nS&OP / IBP Process Support\n\n- Contribute to Sales & Operations Planning (S&OP) / Integrated Business Planning (IBP) processes\n\n- Prepare supply planning inputs, risk assessments, and scenarios for decision-making\n\n- Proactively identify supply risks and opportunities, and develop mitigation strategies\n\nData Analysis & Continuous Improvement\n\n- Monitor KPIs such as service level, inventory turns, backorders, and plan adherence\n\n- Analyze root causes of supply disruptions and implement corrective actions\n\n- Support implementation and enhancement of planning systems (e.g., SAP IBP, SAP S/4HANA)\n\n- Drive process standardization and improve data accuracy\n\nQualifications:\n\n- B.Sc. or M.Sc. in Supply Chain, Engineering, Business, or related field\n\n- Languages: Proficient in English\n\n- 3+ years of experience in Supply Chain Management (Supply planning, Production planning, or Supply Chain operations)\n\n- Strong analytical skills and data literacy\n\n- Strong leadership, project management and communication skills\n\n- Strong drive for results and strong team player\n\n- Solid understanding of supply KPIs and financial aspects\n\n- Ability to bridge between scientific-, technical- and business-oriented stakeholders for effective international collaboration\n\n- Systems & Software:\nAdvanced Excel skills; experience with data analytics tools is a plus\n\n- Strong knowledge of ERP and planning systems e.g. SAP S4 and SAP IBP preferred\n\n- Experience in pharmaceuticals, biotech, or regulated manufacturing environments preferred",
    "category": "other",
    "type": "full-time",
    "experienceLevel": "mid",
@@ -80,7 +80,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 4006,
@@ -99,7 +99,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3959,
@@ -118,7 +118,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3961,
@@ -137,7 +137,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3996,
@@ -156,7 +156,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3949,
@@ -175,7 +175,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3950,
@@ -194,7 +194,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3883,
@@ -213,7 +213,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3872,
@@ -232,7 +232,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3873,
@@ -251,7 +251,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3774,
@@ -270,7 +270,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3762,
@@ -289,7 +289,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3771,
@@ -308,7 +308,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3770,
@@ -327,7 +327,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3787,
@@ -346,7 +346,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3805,
@@ -365,7 +365,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3789,
@@ -384,7 +384,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3807,
@@ -403,7 +403,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3803,
@@ -422,7 +422,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3756,
@@ -441,7 +441,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3736,
@@ -460,7 +460,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3686,
@@ -479,7 +479,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3720,
@@ -498,7 +498,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3713,
@@ -517,7 +517,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 3681,
@@ -535,7 +535,7 @@
    "applicationUrl": "https://alfred.is/starf/senior-specialist-quality-control-1",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-16"
   },
   {
@@ -1087,7 +1087,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 1330,
@@ -2683,7 +2683,7 @@
    "featured": false,
    "startup": true,
    "status": "filled",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 498,
@@ -9371,7 +9371,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 77,
@@ -9409,7 +9409,7 @@
    "featured": true,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 75,
@@ -9428,7 +9428,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 65,
@@ -9580,7 +9580,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 70,
@@ -9599,7 +9599,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 66,
@@ -9637,7 +9637,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 1361,
@@ -9960,7 +9960,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 55,
@@ -10055,7 +10055,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 38,
@@ -10150,7 +10150,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 2,
@@ -10169,7 +10169,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 14,
@@ -10207,7 +10207,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 4,
@@ -10226,7 +10226,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 9,
@@ -10245,7 +10245,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 12,
@@ -10264,7 +10264,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 13,
@@ -10321,7 +10321,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 8,
@@ -10340,7 +10340,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 6,
@@ -10359,7 +10359,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 1,
@@ -10378,7 +10378,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 10,
@@ -10511,7 +10511,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-16"
+   "lastVerified": "2026-11-17"
   },
   {
    "id": 22,
