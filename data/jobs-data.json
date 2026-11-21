@@ -1,10 +1,10 @@
 {
  "version": "2.0.0",
- "lastUpdated": "2026-11-18T14:11:37+00:00",
+ "lastUpdated": "2026-11-21T10:48:30+00:00",
  "metadata": {
-  "lastUpdated": "2026-11-18",
+  "lastUpdated": "2026-11-21",
   "version": "2.0.0",
-  "totalJobs": 639,
+  "totalJobs": 646,
   "source": "Iceland jobs research database (github.com/balainiceland/iceland-jobs-data)"
  },
  "categories": {
@@ -45,6 +45,120 @@
  },
  "jobs": [
   {
+   "id": 4259,
+   "company": "atNorth",
+   "companyLogo": null,
+   "title": "Atlassian Platform Specialist",
+   "description": "atNorth is looking for an Atlassian Platform Specialist to take ownership of its Atlassian environment and support teams across the organisation in making effective use of Jira, Jira Service Management, Confluence and Assets.\n\nThis is a hands-on role combining platform administration, solution design, automation and user support. You will help ensure that the Atlassian platform is secure, reliable and well governed, while continuously improving how it supports teams and business processes across atNorth.",
+   "category": "other",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Steinhella 10, 221 Hafnarfjörður",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-20",
+   "applicationUrl": "https://alfred.is/starf/atlassian-platform-specialist",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-21"
+  },
+  {
+   "id": 4219,
+   "company": "atNorth",
+   "companyLogo": null,
+   "title": "Mechanical Subject Matter Expert",
+   "description": "atNorth heldur áfram að stækka í Reykjanesbæ og leitar að öflugum Mechanical Subject Matter Expert (M-SME) til að styrkja tækniteymi fyrirtækisins.\n\nVið leitum að einstaklingi með sterkan tæknilegan bakgrunn og víðtæka þekkingu á véla- og kælikerfum. M-SME gegnir lykilhlutverki í að tryggja öruggan, áreiðanlegan og skilvirkan rekstur vélrænna kerfa gagnaversins. Starfið felur í sér tæknilega sérfræðiábyrgð á öllum stigum, allt frá framkvæmdum og gangsetningu til daglegs reksturs, viðhalds og stöðugra umbóta.",
+   "category": "other",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Sjónarhóll 6, 235 Reykjanesbær",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-19",
+   "applicationUrl": "https://alfred.is/starf/mechanical-subject-matter-expert",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-21"
+  },
+  {
+   "id": 4212,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "Microbiology, SA and CCD Planning Lead",
+   "description": "The Sterility Assurance, Microbiology & CCD Planning Lead is responsible for coordinating, tracking and monitoring critical departmental activities to support timely batch disposition and release. The role provides centralized visibility of deliverables, proactively identifies and escalates potential delays, and ensures effective follow-up across teams to support the departmental technical owners of the processes.\n\nKey responsibilities and minimum requirements according to job level:\n\n- Act as the central planning and coordination point across Sterility Assurance, QC Microbiology and Cleanroom Cleaning & Disinfection (CCD), ensuring visibility of all activities that may impact batch disposition and release.\n\n- Proactively identify, track and escalate potential delays to batch release with technical ownership being with the respective functional managers and specialists.\n\n- Ensure effective planning, coordination and follow-up of critical deliverables, including:\n\n- Microbiological IPC and release testing.\n\n- Testing record reviews, corrections and approvals.\n\n- Deviation investigations and closures.\n\n- Environmental Monitoring (EM) trend reports.\n\n- CAPAs, change controls and other QMS actions.\n\n- Cleaning and disinfection activities and associated documentation.\n\nAccountable for the following functions and responsibilities:\n\n- Maintain a consolidated overview of outstanding departmental activities, deadlines and potential batch release risks.\n\n- Monitor progress against agreed timelines and proactively follow up with responsible personnel to support timely completion.\n\n- Coordinate priorities across Sterility Assurance, Microbiology and CCD in alignment with manufacturing and batch release schedules.\n\n- Identify and escalate overdue activities, resource constraints and potential bottlenecks to the appropriate functional managers.\n\n- Facilitate cross-functional communication with QC, QA, Production and other relevant stakeholders.\n\n- Prepare regular status reports and KPIs covering testing timelines, deviation closures, outstanding corrections, trend reports and batch release readiness.\n\n- Support continuous improvement of planning, tracking and reporting processes.\n\n- Ensure that technical decisions, execution and quality approvals remain the responsibility of the designated functional owners.\n\n-\n\nCompetencies required to fulfill the employee responsibilities and work assignments:\n\n- Experience in planning or operational coordination, preferably within a GMP-regulated environment.\n\n- Understanding of microbiological testing, quality systems and batch release processes.\n\n- Strong organizational, communication and stakeholder coordination skills.\n\n- Ability to proactively identify risks, manage competing priorities and drive timely follow-up.\n\n- Proficiency in Excel and relevant planning and reporting tools",
+   "category": "science",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Sæmundargata 15-19 15R, 102 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-19",
+   "applicationUrl": "https://alfred.is/starf/microbiology-sa-and-ccd-planning-lead",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-21"
+  },
+  {
+   "id": 4210,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "Cleanroom Cleaning and Disinfection Senior Manager",
+   "description": "Cleanroom Cleaning and Disinfection Senior Manager is responsible for leading the site-wide Cleanroom Cleaning and Disinfection program, ensuring the highest standards of cGMP compliance, contamination control, and inspection readiness across manufacturing and support areas. The role provides strategic and operational leadership to the Cleaning & Disinfection organization, driving performance, continuous improvement, regulatory compliance, and operational excellence while fostering a high-performing team culture.\n\nThe Senior Manager partners closely with Quality Assurance, Manufacturing, Engineering, Validation, Microbiology, Facilities, and other stakeholders to ensure effective cleaning and disinfection practices that support product quality, patient safety, and business objectives.\n\nKey responsibilities and minimum requirements according to job level:\n\n- Lead the Cleanroom Cleaning and Disinfection program and team.\n\n- Ensure GMP compliance, inspection readiness, and contamination control.\n\n- Manage managers, supervisors, staffing, training, and performance.\n\n- Oversee deviations, CAPAs, change controls, and continuous improvement initiatives.\n\n- Collaborate with QA, Manufacturing, Engineering, and other stakeholders.\n\n- Manage departmental budget, resources, and operational KPIs.\n\nAdditional competencies required to fulfill key management responsibilities:\n\n- Follows the job description and the SOPs that pertain to the position.\n\n- Adheres to the policies and procedures that the company has established and shared via Alvotech intranet Alvocado-Manager Toolbox and ensures that employees that are under their management also adhere to policies and procedures\n\n- Responsible for the conscientious and efficient operation of the department and for the relevant training to be assigned and provided to relevant members of staff. Fosters the Alvotech culture, promoting within and across departments of scope.\n\n- Follows developments in comparable fields and seek solutions that boost the performance of their workforce and decrease the company’s overall costs.\n\nSpecifics of the role:\n\n- Bachelor’s degree in Science, Engineering, or related field.\n\n- 2+ years of leadership experience managing teams and managers.\n\n- Strong knowledge of GMP, contamination control, cleaning and disinfection practices, and quality systems.\n\n- Proven leadership, communication, problem-solving, and stakeholder management skills.\n\n- Experience supporting audits, inspections, and strategic operational planning.\n\nMinimum education and experience required for the role:\n\n- 5+ years of experience in a GMP-regulated environment.",
+   "category": "hospitality",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Sæmundargata 15-19 15R, 102 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-19",
+   "applicationUrl": "https://alfred.is/starf/cleanroom-cleaning-and-disinfection-senior-manager",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-21"
+  },
+  {
+   "id": 4222,
+   "company": "atNorth",
+   "companyLogo": null,
+   "title": "Talent Acquisition Partner",
+   "description": "Join us as our Talent Acquisition Partner in Iceland, connecting great people with opportunities, building local talent networks and supporting atNorth’s continued growth across the Nordics. Get ready to make your mark on the Icelandic talent market!\n\natNorth is one of the fastest-growing data center companies in the Nordics As demand for AI, cloud services and high-performance computing continues to grow, so does the need for exceptional talent.\n\nWe are looking for a Talent Acquisition Partner who wants to help build the teams supporting critical digital infrastructure for the future. atNorth is a leading Nordic data center company providing cost-effective, scalable high-density colocation and built-to-suit services to industry-leading organizations across Iceland, Sweden, Finland and Denmark, with Norway in progress. With sustainability at our core, our data centers run on renewable energy and are designed according to circular economy principles. Through innovative design, power efficiency and intelligent operations, we deliver reliable, secure and high-performance infrastructure.\n\nBy joining our international team, you will support the future of sustainable digital infrastructure. Talent Partner for atNorth Iceland Iceland is an important part of atNorth’s story and operations, with three data centers across the country. As our local Talent Partner, you’ll manage recruitment end-to-end, with a particular focus on sourcing, building strong talent networks and strengthening our presence in the Icelandic talent market. You’ll also play an important role in supporting atNorth’s continued growth. Based in Iceland, preferably Reykjavik, you’ll be part of our Nordic Talent & Employer Branding team, working closely with colleagues and stakeholders across countries. You’ll report to the Manager of Talent Acquisition & Employer Branding based in Stockholm.",
+   "category": "operations",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Steinhella 10, 221 Hafnarfjörður",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-19",
+   "applicationUrl": "https://alfred.is/starf/talent-acquisition-partner",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-21"
+  },
+  {
+   "id": 4227,
+   "company": "Embla Medical | Össur",
+   "companyLogo": null,
+   "title": "Manufacturing Engineer - Bionics | Össur",
+   "description": "Langar þig að vera hluti af drífandi og sterkri liðsheild innan stoðtækjaframleiðslu Össurar?\n\nÖssur leitar að metnaðarfullum einstaklingi til starfa í Bionics framleiðsludeild fyrirtækisins á Íslandi. Teymið vinnur að framleiðsluferlum tölvustýrðra stoðtækja og er leiðandi í innleiðingu á umbótum og nýjum vörum. Verkefnin eru fjölbreytt og krefjandi og unnin í nánu samstarfi við önnur teymi, svo sem vöruþróun, gæðadeild, innkaupadeild og vörustjóra. Við leitum að skipulögðum, drífandi og lausnamiðuðum einstaklingi sem hefur ástríðu fyrir verkefnum sem bæta lífsgæði og hreyfanleika fólks.",
+   "category": "engineering",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Grjótháls 5, 110 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-19",
+   "applicationUrl": "https://alfred.is/starf/manufacturing-engineer-bionics-ossur",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-21"
+  },
+  {
    "id": 4140,
    "company": "Alvotech hf",
    "companyLogo": null,
@@ -61,7 +175,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 4126,
@@ -80,7 +194,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 4051,
@@ -99,7 +213,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 4050,
@@ -118,7 +232,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 4006,
@@ -137,7 +251,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 3959,
@@ -156,7 +270,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 3961,
@@ -175,7 +289,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 3996,
@@ -194,7 +308,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 3949,
@@ -213,7 +327,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 3950,
@@ -232,7 +346,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 3883,
@@ -251,7 +365,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 3872,
@@ -269,7 +383,7 @@
    "applicationUrl": "https://alfred.is/starf/it-support-specialist-7",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-18"
   },
   {
@@ -289,7 +403,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 3774,
@@ -308,7 +422,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 3762,
@@ -326,7 +440,7 @@
    "applicationUrl": "https://alfred.is/starf/tknimadur-maintenance-technician-2",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-18"
   },
   {
@@ -346,7 +460,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 3770,
@@ -365,7 +479,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 3787,
@@ -383,7 +497,7 @@
    "applicationUrl": "https://alfred.is/starf/technician-in-manufacturing-team-2",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-18"
   },
   {
@@ -402,7 +516,7 @@
    "applicationUrl": "https://alfred.is/starf/manufacturing-esystems-specialist-2",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-18"
   },
   {
@@ -422,7 +536,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 3807,
@@ -440,7 +554,7 @@
    "applicationUrl": "https://alfred.is/starf/principal-specialist-qa-engineering-2",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-18"
   },
   {
@@ -460,7 +574,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 3756,
@@ -479,7 +593,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 3736,
@@ -498,7 +612,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 3686,
@@ -554,7 +668,7 @@
    "applicationUrl": "https://alfred.is/starf/serfrdingur-i-fjarmalum",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-18"
   },
   {
@@ -1125,7 +1239,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 1330,
@@ -1145,6 +1259,25 @@
    "startup": false,
    "status": "filled",
    "lastVerified": "2026-11-02"
+  },
+  {
+   "id": 1210,
+   "company": "GreenFish",
+   "companyLogo": null,
+   "title": "Fjármálastjóri (CFO) – GreenFish hf.",
+   "description": "Fjármálastjóri – GreenFish\n\nGreenFish leitar að fjármálastjóra til að leiða fjármál félagsins og taka virkan þátt í uppbyggingu alþjóðlegs tæknifyrirtækis í hröðum vexti.\n\nUm GreenFish\n\nGreenFish er leiðandi á heimsvísu í þróun gervigreindarlausna fyrir sjávarútveg. Útgerðir á öllum helstu hafsvæðum heims treysta á lausnir félagsins við ákvarðanatöku á sjó.\n\nFélagið þróar sérsniðin líkön sem spá fyrir um staðsetningu, magn, gæði og samsetningu afla.\n\nHlutverkið\n\nFjármálastjóri ber ábyrgð á fjármálum GreenFish og heyrir beint undir forstjóra.\n\nVið leitum að manneskju sem tekur frumkvæði og kemur hugmyndum í framkvæmd.\n\nHelstu verkefni\n\n-\nGerð fjárhagsáætlana og rekstrarspáa, ásamt greiningu og eftirfylgni með kostnaði og afkomu.\n\n-\nSjóðstreymisáætlanir og lausafjárstýring.\n\n-\nUmsjón með mánaðarlegum uppgjörum í samstarfi við bókhaldsþjónustu og endurskoðendur.\n\n-\nReikningagerð og innheimta.\n\n-\nUppbygging mælaborðs fyrir lykilmælikvarða og regluleg upplýsingagjöf til forstjóra.\n\n-\nUppbygging fjármálakerfa, verkferla og innra eftirlits, með áherslu á nýtingu gervigreindar og sjálfvirkni.\n\n-\nMat á kostnaði og arðsemi nýrra verkefna og tekjustrauma.\n\nMenntun og reynsla\n\n-\nHáskólamenntun sem nýtist í starfi.\n\n-\nReynsla af fjármálastjórn hjá B2B SaaS-fyrirtæki í hröðum vexti og með alþjóðlega starfsemi.\n\n-\nMjög góð færni í fjárhagslíkanagerð og rekstrargreiningu.\n\n-\nÞekking á lykilmælikvörðum áskriftarrekstrar.\n\n-\nReynsla af upplýsingagjöf til erlendra fjárfestingarsjóða er mikill kostur.\n\n-\nReynsla af fjárhagslegum skilum vegna styrkja og endurgreiðslu þróunarkostnaðar.\n\n-\nMjög góð íslensku- og enskukunnátta í töluðu og rituðu máli.\n\nVið bjóðum\n\n-\nLykilhlutverk með ábyrgð og svigrúmi til að móta fjármálastarfsemi félagsins á þinn hátt.\n\n-\nNáið samstarf við forstjóra, stjórn og aðra stjórnendur.\n\n-\nVinnuumhverfi sem einkennist af mikilli orku og metnaði.\n\nUmsóknarfrestur er til og með 14.nóv 2026.",
+   "category": "finance",
+   "type": "full-time",
+   "experienceLevel": "executive",
+   "location": "Nýlendugata 14, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-10-14",
+   "applicationUrl": "https://alfred.is/starf/fjarmalastjori-cfo-greenfish-hf",
+   "featured": false,
+   "startup": true,
+   "status": "filled",
+   "lastVerified": "2026-11-14"
   },
   {
    "id": 1173,
@@ -2721,7 +2854,7 @@
    "featured": false,
    "startup": true,
    "status": "filled",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 498,
@@ -9409,7 +9542,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 77,
@@ -9447,7 +9580,7 @@
    "featured": true,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 75,
@@ -9466,7 +9599,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 65,
@@ -9618,7 +9751,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 70,
@@ -9637,7 +9770,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 66,
@@ -9675,7 +9808,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 1361,
@@ -9998,7 +10131,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 55,
@@ -10093,7 +10226,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 38,
@@ -10188,7 +10321,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 2,
@@ -10207,7 +10340,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 14,
@@ -10245,7 +10378,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 4,
@@ -10264,7 +10397,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 9,
@@ -10283,7 +10416,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 12,
@@ -10302,7 +10435,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 13,
@@ -10359,7 +10492,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 8,
@@ -10378,7 +10511,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 6,
@@ -10397,7 +10530,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 1,
@@ -10416,7 +10549,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-18"
+   "lastVerified": "2026-11-21"
   },
   {
    "id": 10,
