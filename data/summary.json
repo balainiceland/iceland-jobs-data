@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T10:50:40+00:00",
+  "generated_at": "2026-11-24T11:00:56+00:00",
   "sources": [
     {
       "id": "tvinna",
@@ -44,7 +44,7 @@
       "open": 6
     }
   ],
-  "classified_share": 0.915,
+  "classified_share": 0.979,
   "duplicates_merged": 327,
   "methods": {
     "collected_by": "Startup Iceland jobs research database",
