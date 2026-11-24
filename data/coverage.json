@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-24T11:00:56+00:00",
+  "generated_at": "2026-11-24T15:59:27+00:00",
   "available": true,
   "official_quarter": "2026Q2",
   "official_total_vacancies": 3540,
-  "our_open_jobs": 522,
-  "coverage": 0.147,
-  "jobs_without_sector": 7,
+  "our_open_jobs": 552,
+  "coverage": 0.156,
+  "jobs_without_sector": 8,
   "sectors": [
     {
       "code": "1",
@@ -18,29 +18,29 @@
       "code": "2",
       "sector": "Industry, energy and utilities",
       "official_vacancies": 160,
-      "our_open_jobs": 50,
-      "coverage": 0.312
+      "our_open_jobs": 53,
+      "coverage": 0.331
     },
     {
       "code": "4",
       "sector": "Construction",
       "official_vacancies": 680,
-      "our_open_jobs": 32,
-      "coverage": 0.047
+      "our_open_jobs": 33,
+      "coverage": 0.049
     },
     {
       "code": "5",
       "sector": "Trade, transport, hotels and restaurants",
       "official_vacancies": 1010,
-      "our_open_jobs": 110,
-      "coverage": 0.109
+      "our_open_jobs": 114,
+      "coverage": 0.113
     },
     {
       "code": "6",
       "sector": "Information and communication",
       "official_vacancies": 80,
-      "our_open_jobs": 48,
-      "coverage": 0.6
+      "our_open_jobs": 49,
+      "coverage": 0.613
     },
     {
       "code": "7",
@@ -60,15 +60,15 @@
       "code": "9",
       "sector": "Professional and administrative services",
       "official_vacancies": 740,
-      "our_open_jobs": 39,
-      "coverage": 0.053
+      "our_open_jobs": 42,
+      "coverage": 0.057
     },
     {
       "code": "10",
       "sector": "Public administration, education and health",
       "official_vacancies": 340,
-      "our_open_jobs": 198,
-      "coverage": 0.582
+      "our_open_jobs": 215,
+      "coverage": 0.632
     },
     {
       "code": "11",
@@ -83,7 +83,7 @@
       "quarter": "2026Q4",
       "days_observed": 39,
       "complete": false,
-      "avg_open_jobs": 557.8,
+      "avg_open_jobs": 558.5,
       "official_vacancies": null,
       "coverage": null
     }
