@@ -1,10 +1,10 @@
 {
  "version": "2.0.0",
- "lastUpdated": "2026-11-21T16:40:36+00:00",
+ "lastUpdated": "2026-11-24T10:50:57+00:00",
  "metadata": {
-  "lastUpdated": "2026-11-21",
+  "lastUpdated": "2026-11-24",
   "version": "2.0.0",
-  "totalJobs": 646,
+  "totalJobs": 648,
   "source": "Iceland jobs research database (github.com/balainiceland/iceland-jobs-data)"
  },
  "categories": {
@@ -45,6 +45,44 @@
  },
  "jobs": [
   {
+   "id": 4319,
+   "company": "Hefring Marine",
+   "companyLogo": null,
+   "title": "Product Engineer",
+   "description": "Boats are getting smart, and we're a big part of why. Hefring Marine builds IMAS, an AI-powered system that sits on board vessels, helps crews run safer and more efficiently, and gives fleet managers the full picture from shore. IMAS runs on search and rescue boats, tour boats, fishing vessels, commercial ships and both manned and unmanned defence vessels, in Iceland and abroad.\n\nPeople use IMAS in three ways:\n\n- IMAS Helm, the screen in front of the skipper\n\n- IMAS Console, the web platform for fleet managers\n\n- Our mobile app\n\nWe also build our own internal tools. We're constantly shipping new features across all of them, and we hold ourselves to a high standard while doing it. There's a lot more we want to build, and we need more hands on deck to do it.",
+   "category": "engineering",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Grandagarður 16, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-23",
+   "applicationUrl": "https://alfred.is/starf/product-engineer-2",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-24"
+  },
+  {
+   "id": 4321,
+   "company": "Hefring Marine",
+   "companyLogo": null,
+   "title": "Technical Operations Specialist",
+   "description": "Boats are getting smart, and we're a big part of why. Hefring Marine builds IMAS, an AI-powered system that sits on board vessels, helps crews run safer and more efficiently, and gives fleet managers the full picture from shore. IMAS runs on search and rescue boats, tour boats, fishing vessels, commercial ships and both manned and unmanned defence vessels, in Iceland and abroad.\n\nIMAS is deployed internationally across a wide range of vessels, including search and rescue boats, tour boats, fishing vessels, commercial ships, and both manned and unmanned defence vessels. To date, IMAS has collected operational data from more than 120,000 vessel trips, covering over 2.1 million nautical miles, with an additional 3,000–5,000 trips recorded every 30 days.\n\nWe're growing fast. Today we ship dozens of systems a month, and soon it will be hundreds. So, we're building a proper operations team, and we're looking for someone hands-on and technical to be at the heart of it.",
+   "category": "operations",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Grandagarður 16, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-23",
+   "applicationUrl": "https://alfred.is/starf/technical-operations-specialist",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-24"
+  },
+  {
    "id": 4259,
    "company": "atNorth",
    "companyLogo": null,
@@ -61,7 +99,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 4219,
@@ -80,7 +118,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 4212,
@@ -99,7 +137,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 4210,
@@ -118,7 +156,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 4222,
@@ -137,7 +175,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 4227,
@@ -156,7 +194,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 4140,
@@ -175,7 +213,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 4126,
@@ -193,7 +231,7 @@
    "applicationUrl": "https://alfred.is/starf/expert-specialist-project-management",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-21"
   },
   {
@@ -213,7 +251,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 4050,
@@ -232,7 +270,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 4006,
@@ -251,7 +289,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 3959,
@@ -269,7 +307,7 @@
    "applicationUrl": "https://alfred.is/starf/framkvmdastjori-framleidslusvids",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-21"
   },
   {
@@ -288,7 +326,7 @@
    "applicationUrl": "https://alfred.is/starf/framkvmdastjori-tknisvids",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-21"
   },
   {
@@ -308,7 +346,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 3949,
@@ -326,7 +364,7 @@
    "applicationUrl": "https://alfred.is/starf/production-specialist-mechanic",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-21"
   },
   {
@@ -345,7 +383,7 @@
    "applicationUrl": "https://alfred.is/starf/production-specialist-electric",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-21"
   },
   {
@@ -364,7 +402,7 @@
    "applicationUrl": "https://alfred.is/starf/qcpd-specialist-2",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-21"
   },
   {
@@ -403,7 +441,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 3774,
@@ -421,7 +459,7 @@
    "applicationUrl": "https://alfred.is/starf/serfrdingur-i-reglugerdarmalum-ra-specialist",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-21"
   },
   {
@@ -459,7 +497,7 @@
    "applicationUrl": "https://alfred.is/starf/rafvirki-rafmagnsserfrdingur",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-21"
   },
   {
@@ -478,7 +516,7 @@
    "applicationUrl": "https://alfred.is/starf/tknimadur-med-reynslu-1",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-21"
   },
   {
@@ -535,7 +573,7 @@
    "applicationUrl": "https://alfred.is/starf/hefur-thu-ahuga-a-vel-og-klikerfum",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-21"
   },
   {
@@ -573,7 +611,7 @@
    "applicationUrl": "https://alfred.is/starf/chief-executive-officer",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-21"
   },
   {
@@ -593,7 +631,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 3736,
@@ -612,7 +650,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 3686,
@@ -1238,7 +1276,7 @@
    "applicationUrl": "https://alfred.is/starf/qc-analytical-product-testing-senior-scientist-2",
    "featured": false,
    "startup": true,
-   "status": "active",
+   "status": "filled",
    "lastVerified": "2026-11-21"
   },
   {
@@ -2854,7 +2892,7 @@
    "featured": false,
    "startup": true,
    "status": "filled",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 498,
@@ -9542,7 +9580,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 77,
@@ -9580,7 +9618,7 @@
    "featured": true,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 75,
@@ -9599,7 +9637,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 65,
@@ -9751,7 +9789,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 70,
@@ -9770,7 +9808,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 66,
@@ -9808,7 +9846,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 1361,
@@ -10131,7 +10169,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 55,
@@ -10226,7 +10264,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 38,
@@ -10321,7 +10359,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 2,
@@ -10340,7 +10378,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 14,
@@ -10378,7 +10416,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 4,
@@ -10397,7 +10435,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 9,
@@ -10416,7 +10454,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 12,
@@ -10435,7 +10473,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 13,
@@ -10492,7 +10530,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 8,
@@ -10511,7 +10549,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 6,
@@ -10530,7 +10568,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 1,
@@ -10549,7 +10587,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-21"
+   "lastVerified": "2026-11-24"
   },
   {
    "id": 10,

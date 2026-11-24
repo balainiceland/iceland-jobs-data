@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-21T16:40:32+00:00",
+  "generated_at": "2026-11-24T10:50:40+00:00",
   "available": true,
   "official_quarter": "2026Q2",
   "official_total_vacancies": 3540,
-  "our_open_jobs": 539,
-  "coverage": 0.152,
-  "jobs_without_sector": 7,
+  "our_open_jobs": 523,
+  "coverage": 0.148,
+  "jobs_without_sector": 27,
   "sectors": [
     {
       "code": "1",
@@ -18,36 +18,36 @@
       "code": "2",
       "sector": "Industry, energy and utilities",
       "official_vacancies": 160,
-      "our_open_jobs": 60,
-      "coverage": 0.375
+      "our_open_jobs": 48,
+      "coverage": 0.3
     },
     {
       "code": "4",
       "sector": "Construction",
       "official_vacancies": 680,
-      "our_open_jobs": 29,
-      "coverage": 0.043
+      "our_open_jobs": 28,
+      "coverage": 0.041
     },
     {
       "code": "5",
       "sector": "Trade, transport, hotels and restaurants",
       "official_vacancies": 1010,
-      "our_open_jobs": 117,
-      "coverage": 0.116
+      "our_open_jobs": 107,
+      "coverage": 0.106
     },
     {
       "code": "6",
       "sector": "Information and communication",
       "official_vacancies": 80,
-      "our_open_jobs": 48,
-      "coverage": 0.6
+      "our_open_jobs": 46,
+      "coverage": 0.575
     },
     {
       "code": "7",
       "sector": "Finance and insurance",
       "official_vacancies": 20,
-      "our_open_jobs": 11,
-      "coverage": 0.55
+      "our_open_jobs": 10,
+      "coverage": 0.5
     },
     {
       "code": "8",
@@ -60,30 +60,30 @@
       "code": "9",
       "sector": "Professional and administrative services",
       "official_vacancies": 740,
-      "our_open_jobs": 44,
-      "coverage": 0.059
+      "our_open_jobs": 39,
+      "coverage": 0.053
     },
     {
       "code": "10",
       "sector": "Public administration, education and health",
       "official_vacancies": 340,
-      "our_open_jobs": 192,
-      "coverage": 0.565
+      "our_open_jobs": 190,
+      "coverage": 0.559
     },
     {
       "code": "11",
       "sector": "Arts, recreation and other services",
       "official_vacancies": 400,
-      "our_open_jobs": 27,
-      "coverage": 0.068
+      "our_open_jobs": 24,
+      "coverage": 0.06
     }
   ],
   "same_period": [
     {
       "quarter": "2026Q4",
-      "days_observed": 36,
+      "days_observed": 39,
       "complete": false,
-      "avg_open_jobs": 559.7,
+      "avg_open_jobs": 557.9,
       "official_vacancies": null,
       "coverage": null
     }
