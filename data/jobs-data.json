@@ -1,10 +1,10 @@
 {
  "version": "2.0.0",
- "lastUpdated": "2026-11-24T15:59:33+00:00",
+ "lastUpdated": "2026-11-26T15:26:38+00:00",
  "metadata": {
-  "lastUpdated": "2026-11-24",
+  "lastUpdated": "2026-11-26",
   "version": "2.0.0",
-  "totalJobs": 650,
+  "totalJobs": 655,
   "source": "Iceland jobs research database (github.com/balainiceland/iceland-jobs-data)"
  },
  "categories": {
@@ -45,23 +45,80 @@
  },
  "jobs": [
   {
-   "id": 4373,
-   "company": "Alvotech hf",
+   "id": 4476,
+   "company": "Embla Medical | Össur",
    "companyLogo": null,
-   "title": "Principal Accountant",
-   "description": "Job Summary\n\nThe accountant will be responsible for supporting the day-to-day accounting operations of Alvotech’ s global entities, ensuring accuracy, compliance, and timely financial reporting. The role will work closely with colleagues across the Finance organization and collaborate with stakeholders from various business functions. This position offers an excellent opportunity to gain broad exposure to international accounting processes.\n\nKey Responsibilities\n\n- Process and post invoices and General Ledger journal entries.\n\n- Maintain and reconcile GR/IR (Goods Receipt/Invoice Receipt) account, ensuring timely resolution of outstanding items.\n\n- Perform Accounts Payable and balance sheet reconciliations.\n\n- Prepare VAT returns and support other statutory reporting requirements.\n\n- Support month-end, quarter-end, and year-end closing activities.\n\n- Maintain accurate accounting records and ensure compliance with company policies and accounting standards.\n\n- Assist with audits and provide supporting documentation as required.\n\n- Contribute to process improvement initiatives and system enhancements.\n\n- Perform other ad hoc accounting and finance-related tasks as needed.\n\nQualifications\n\n· Strong accounting experience with a solid understanding of accounting processes and controls\n\n· Relevant education in Accounting, Finance, or a related field\n\n· Experience with SAP ERP is considered an advantage\n\n· Ability to work independently with a high level of accuracy and attention to detail\n\n· Strong communication and interpersonal skills\n\n· Excellent written and verbal English skills\n\n· Strong Microsoft Excel skills\n\nAbout Us\n\nAt Alvotech, we are building a global biotechnology company with a clear purpose: to expand access to high-quality, affordable biologic medicines for patients worldwide. Our people are central to that mission. Across our global teams, we bring together expertise in science, manufacturing, quality and commercial operations to shape the future of biosimilars.\n\nWe offer a dynamic, fast-moving environment where curiosity, initiative and ownership are encouraged. Rooted in Icelandic values and operating on a global stage, we value collaboration, diversity and integrity across everything we do. Our teams work on meaningful challenges, contribute directly to patient impact, and grow alongside the business.\n\nWhether you are at the start of your career or looking to take your next step, Alvotech offers the opportunity to do work that matters, in a company driven by purpose and scale.\n\nIf you do not see a role that matches your experience today, we still welcome general applications from individuals who share our ambition and want to help improve access to biologic medicines worldwide.",
-   "category": "finance",
-   "type": "full-time",
+   "title": "Machine Designer",
+   "description": "Ert þú verkfræðingur eða tæknifræðingur á sviði véla eða rafmagns og hefur brennandi áhuga á framleiðslutækni og sjálfvirknivæðingu?\n\nÖssur leitar að metnaðarfullum einstaklingi til starfa í framleiðsluþróunardeild fyrirtækisins, tímabundið í eitt ár. Hlutverk deildarinnar er nýsköpun og þróun á framleiðslutækni, þátttaka í innleiðingu nýrra vara í framleiðslu og umbætur/rekstur á framleiðsluferlum. Í boði eru fjölbreytt og spennandi verkefni ásamt tækifærum til að vaxa í starfi.",
+   "category": "design",
+   "type": "contract",
    "experienceLevel": "mid",
-   "location": "Sæmundargata 15-19 15R, 102 Reykjavík",
+   "location": "Grjótháls 5, 110 Reykjavík",
    "remote": "onsite",
    "salary": null,
-   "postedDate": "2026-11-24",
-   "applicationUrl": "https://alfred.is/starf/principal-accountant-1",
+   "postedDate": "2026-11-26",
+   "applicationUrl": "https://alfred.is/starf/machine-designer-4",
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
+  },
+  {
+   "id": 4411,
+   "company": "JBT Marel",
+   "companyLogo": null,
+   "title": "Layout Engineer",
+   "description": "JBT Marel is looking for a Layout Engineer for designing production systems for Secondary Fresh Processing for poultry and meat producers. The systems are offered to producers’ worldwide, in cooperation with the JBT Marel international sales- and distribution network.\n\nAs a Layout Engineer you are designing production systems, including the interfaces within the system and with the environment (users, building, auxiliary equipment and other needs). The size of the projects varies from a single machine to a complete factory. The Layout Engineer has ownership of the order layout and needs to secure the technical and technological integrity of solutions.",
+   "category": "engineering",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Austurhraun 9, 210 Garðabær",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-25",
+   "applicationUrl": "https://alfred.is/starf/layout-engineer-9",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-26"
+  },
+  {
+   "id": 4412,
+   "company": "Kvika banki hf.",
+   "companyLogo": null,
+   "title": "Mannauðsráðgjafi",
+   "description": "Vilt þú sameina áhuga þinn á mannauðsmálum og tækni í fjölbreyttu starfi?\n\nVið leitum að tæknisinnuðum og drífandi mannauðsráðgjafa sem sér tækifæri í að nýta gögn, sjálfvirkni og gervigreind til að þróa og einfalda mannauðsferla og bæta upplifun starfsfólks.\n\nMannauðsteymið er lítið en skilvirkt og mun viðkomandi því sinna fjölbreyttum verkefnum; allt frá fræðslumálum, ráðningum og starfsþróun, til gagnagreininga og þróun tæknilausna innan mannauðsmála.",
+   "category": "consulting",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Katrínartún 2, 105 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-25",
+   "applicationUrl": "https://alfred.is/starf/mannaudsradgjafi-38",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-26"
+  },
+  {
+   "id": 4409,
+   "company": "Embla Medical | Össur",
+   "companyLogo": null,
+   "title": "Innovation Transformation Specialist | Embla Medical",
+   "description": "Are you motivated by turning strategy into action and improving how innovation happens in practice?\n\nEmbla Medical is looking for an Innovation Transformation Specialist to join our Innovation Strategy & Transformation team in Reykjavík. In this role, you will help shape how we develop and launch products, strengthen patient- and user-centric thinking across the organization, and turn strategic priorities into practical ways of working in a close collaboration with the team, Patient-Centric Transformation and other stakeholders. You will work across functions, brands, and teams, connecting strategy, patient insight, and day-to-day execution in an international medical technology environment.",
+   "category": "other",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Grjótháls 5, 110 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-25",
+   "applicationUrl": "https://alfred.is/starf/innovation-transformation-specialist-ossur",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 4364,
@@ -71,7 +128,7 @@
    "description": "We are seeking a QA Senior Specialist to join our Quality Events & Product Quality department. This role operates with a high degree of independence in assigned responsibilities, routinely leading projects. The position involves performing both routine activities within established procedures and processes, as well as managing non-routine tasks and contributing to larger, more complex projects. Challenges and decisions are addressed collaboratively with supervisors and colleagues, while the individual is empowered to implement adjustments and improvements to procedures, processes, and project activities. The role requires extensive expertise in relevant methods, techniques, equipment, and associated procedural and process knowledge, and frequently serves as a technical advisor.\n\nScope and Responsibilities:\n\n- Provide general QA expertise and support for Manufacturing and Quality Control.\n\n- Provide QA expertise during the investigations of Deviations, Risk Assessments, Lab Investigations, CPV-OOTs and their related CAPAs.\n\n- Support and approve Change Control records.\n\n- Participate in CAPAs resolution of inspection findings.\n\n- QA review of Temperature excursions.\n\n- QA review and approval of protocols and reports related to area of responsibility.\n\n- QA review and approval of Standard Operating Procedures (SOPs) related to area of responsibility.\n\n- Contribute to the preparation of inspections as per defined and agreed role.\n\n- Train new members of the QA Operations team and other employees as needed.\n\n- Participate in continuous improvement of the Quality Management System.\n\nMinimum education and experience requirements:\n\n- Education and experience: Minimum Bachelor´s degree degree in a relevant scientific discipline and minimum of 5 years of relevant experience in pharmaceutical or biopharmaceutical sector.\n\n- Extensive expertise in relevant methods, techniques, equipment, and associated procedural and process knowledge.\n\n- Expert knowledge of Quality Management Systems.\n\n- Good conceptual, problem solving, coordination and organizational skills – must be detail-oriented and able to work independently and in teams.\n\n- Excellent written and verbal communication skills.\n\n- Computer literacy: Proficient in use of a PC and common Microsoft packages such as Word, Excel and PowerPoint.\n\n- Excellent command of the English language, both written and verbal.\n\nWhat we offer:\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and wellbeing support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.\n\nAbout Us\n\nAt Alvotech, we are building a global biotechnology company with a clear purpose: to expand access to high-quality, affordable biologic medicines for patients worldwide. Our people are central to that mission. Across our global teams, we bring together expertise in science, manufacturing, quality and commercial operations to shape the future of biosimilars.\n\nWe offer a dynamic, fast-moving environment where curiosity, initiative and ownership are encouraged. Rooted in Icelandic values and operating on a global stage, we value collaboration, diversity and integrity across everything we do. Our teams work on meaningful challenges, contribute directly to patient impact, and grow alongside the business.\n\nWhether you are at the start of your career or looking to take your next step, Alvotech offers the opportunity to do work that matters, in a company driven by purpose and scale.\n\nIf you do not see a role that matches your experience today, we still welcome general applications from individuals who share our ambition and want to help improve access to biologic medicines worldwide.",
    "category": "product",
    "type": "full-time",
-   "experienceLevel": "mid",
+   "experienceLevel": "senior",
    "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
    "remote": "onsite",
    "salary": null,
@@ -80,7 +137,45 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
+  },
+  {
+   "id": 4373,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "Principal Accountant",
+   "description": "Job Summary\n\nThe accountant will be responsible for supporting the day-to-day accounting operations of Alvotech’ s global entities, ensuring accuracy, compliance, and timely financial reporting. The role will work closely with colleagues across the Finance organization and collaborate with stakeholders from various business functions. This position offers an excellent opportunity to gain broad exposure to international accounting processes.\n\nKey Responsibilities\n\n- Process and post invoices and General Ledger journal entries.\n\n- Maintain and reconcile GR/IR (Goods Receipt/Invoice Receipt) account, ensuring timely resolution of outstanding items.\n\n- Perform Accounts Payable and balance sheet reconciliations.\n\n- Prepare VAT returns and support other statutory reporting requirements.\n\n- Support month-end, quarter-end, and year-end closing activities.\n\n- Maintain accurate accounting records and ensure compliance with company policies and accounting standards.\n\n- Assist with audits and provide supporting documentation as required.\n\n- Contribute to process improvement initiatives and system enhancements.\n\n- Perform other ad hoc accounting and finance-related tasks as needed.\n\nQualifications\n\n· Strong accounting experience with a solid understanding of accounting processes and controls\n\n· Relevant education in Accounting, Finance, or a related field\n\n· Experience with SAP ERP is considered an advantage\n\n· Ability to work independently with a high level of accuracy and attention to detail\n\n· Strong communication and interpersonal skills\n\n· Excellent written and verbal English skills\n\n· Strong Microsoft Excel skills\n\nAbout Us\n\nAt Alvotech, we are building a global biotechnology company with a clear purpose: to expand access to high-quality, affordable biologic medicines for patients worldwide. Our people are central to that mission. Across our global teams, we bring together expertise in science, manufacturing, quality and commercial operations to shape the future of biosimilars.\n\nWe offer a dynamic, fast-moving environment where curiosity, initiative and ownership are encouraged. Rooted in Icelandic values and operating on a global stage, we value collaboration, diversity and integrity across everything we do. Our teams work on meaningful challenges, contribute directly to patient impact, and grow alongside the business.\n\nWhether you are at the start of your career or looking to take your next step, Alvotech offers the opportunity to do work that matters, in a company driven by purpose and scale.\n\nIf you do not see a role that matches your experience today, we still welcome general applications from individuals who share our ambition and want to help improve access to biologic medicines worldwide.",
+   "category": "finance",
+   "type": "full-time",
+   "experienceLevel": "senior",
+   "location": "Sæmundargata 15-19 15R, 102 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-24",
+   "applicationUrl": "https://alfred.is/starf/principal-accountant-1",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-26"
+  },
+  {
+   "id": 4405,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "QA On The Floor Specialist",
+   "description": "Join Alvotech’s Quality Assurance team and play a key role in supporting manufacturing operations while ensuring compliance with GMP requirements and quality standards. This hands-on position provides real-time QA support to manufacturing teams and contributes to the delivery of high-quality biopharmaceutical products.\n\nPlease note that this is a rotational shift position, requiring flexibility to support manufacturing operations across designated shifts in a 24/7 production environment.\n\nScope and Responsibilities:\n\n- Act as the primary QA contact for DPM and DSM operations during rotational shifts.\n\n- Provide QA support for batch-related and facility issues, including deviations and CAPAs.\n\n- Perform shop floor monitoring and ensure compliance with GMP, GDP, and ALCOA principles.\n\n- Review manufacturing documentation, alarm logs, and failure assessments.\n\n- Approve area release, line clearance, and other QA-controlled activities.\n\n- Support media fills, cell bank issuance, AQL sampling, and visual inspection activities.\n\n- Maintain QA documentation and support inspection readiness and audits.\n\n- Contribute to SOP updates and train new QA team members as needed.\n\nJob Requirements:\n\n- Bachelor’s degree in Life Sciences, Pharmacy, Biotechnology, or a related field.\n\n- Minimum 2 years of experience in a GMP-regulated pharmaceutical or biotechnology manufacturing environment.\n\n- Strong knowledge of GMP, quality systems, documentation practices, GDP, and ALCOA principles.\n\n- Experience supporting manufacturing operations and quality oversight activities.\n\n- Strong attention to detail and problem-solving skills.\n\n- Excellent communication and collaboration abilities.\n\n- Ability to work rotational shifts in a fast-paced manufacturing environment.\n\n- Proficient in written and spoken English.\n\nWhat we offer:\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration, and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and well-being support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.\n\nAbout Us\n\nAt Alvotech, we are building a global biotechnology company with a clear purpose: to expand access to high-quality, affordable biologic medicines for patients worldwide. Our people are central to that mission. Across our global teams, we bring together expertise in science, manufacturing, quality and commercial operations to shape the future of biosimilars.\n\nWe offer a dynamic, fast-moving environment where curiosity, initiative and ownership are encouraged. Rooted in Icelandic values and operating on a global stage, we value collaboration, diversity and integrity across everything we do. Our teams work on meaningful challenges, contribute directly to patient impact, and grow alongside the business.\n\nWhether you are at the start of your career or looking to take your next step, Alvotech offers the opportunity to do work that matters, in a company driven by purpose and scale.\n\nIf you do not see a role that matches your experience today, we still welcome general applications from individuals who share our ambition and want to help improve access to biologic medicines worldwide.",
+   "category": "operations",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-24",
+   "applicationUrl": "https://alfred.is/starf/qa-on-the-floor-specialist-5",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 4321,
@@ -99,7 +194,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 4319,
@@ -118,7 +213,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 4259,
@@ -137,7 +232,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 4210,
@@ -156,7 +251,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 4212,
@@ -175,7 +270,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 4219,
@@ -194,7 +289,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 4227,
@@ -213,7 +308,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 4222,
@@ -232,7 +327,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 4140,
@@ -251,7 +346,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 4126,
@@ -289,7 +384,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 4050,
@@ -308,7 +403,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 4006,
@@ -327,7 +422,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 3959,
@@ -384,7 +479,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 3949,
@@ -669,7 +764,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 3736,
@@ -688,7 +783,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 3686,
@@ -2930,7 +3025,7 @@
    "featured": false,
    "startup": true,
    "status": "filled",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 498,
@@ -9618,7 +9713,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 77,
@@ -9656,7 +9751,7 @@
    "featured": true,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 75,
@@ -9675,7 +9770,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 65,
@@ -9827,7 +9922,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 70,
@@ -9846,7 +9941,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 66,
@@ -9884,7 +9979,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 1361,
@@ -10207,7 +10302,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 55,
@@ -10302,7 +10397,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 38,
@@ -10397,7 +10492,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 2,
@@ -10416,7 +10511,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 14,
@@ -10454,7 +10549,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 4,
@@ -10473,7 +10568,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 9,
@@ -10492,7 +10587,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 12,
@@ -10511,7 +10606,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 13,
@@ -10568,7 +10663,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 8,
@@ -10587,7 +10682,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 6,
@@ -10606,7 +10701,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 1,
@@ -10625,7 +10720,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-24"
+   "lastVerified": "2026-11-26"
   },
   {
    "id": 10,
