@@ -1,10 +1,10 @@
 {
  "version": "2.0.0",
- "lastUpdated": "2026-11-26T15:26:38+00:00",
+ "lastUpdated": "2026-11-27T15:14:35+00:00",
  "metadata": {
-  "lastUpdated": "2026-11-26",
+  "lastUpdated": "2026-11-27",
   "version": "2.0.0",
-  "totalJobs": 655,
+  "totalJobs": 656,
   "source": "Iceland jobs research database (github.com/balainiceland/iceland-jobs-data)"
  },
  "categories": {
@@ -45,6 +45,25 @@
  },
  "jobs": [
   {
+   "id": 4528,
+   "company": "Alvotech hf",
+   "companyLogo": null,
+   "title": "Senior Specialist, Quality Control",
+   "description": "The Quality Control department at Alvotech is looking for a dedicated and quality-minded senior specialist, with extensive experience in Analytical method technology transfers, CAPA management, Health Authority response, analytical investigations and scientific oversight.\n\nScope and responsibility:\n\n- Lead Analytical technology transfer activities between Alvotech and CMOs, ensuring successful method implementation and Lifecycle management of analytical methods.\n\n- Act as the analytical subject matter expert for product testing methods, including chromatography, electrophoresis, compendial, and biochemical techniques.\n\n- Coordinate transfer activities, troubleshoot technical challenges, and drive timely resolution of method-related issues.\n\n- Author and Review transfer protocols, reports, validation\n\n- undefined\n\n- Author, review and approve CAPAs, change control, Document change controls, deviation investigation action and associated quality documentation.\n\n- Lead and support investigations related to analytical quality events, including invalid assays, OOS, OOT, and OOE results.\n\n- Lead the preparation of responses, scientific justifications for regulatory and Health Authority inquiries.\n\n- Collaborate with ARD, Regulatory Affairs, Manufacturing, MSAT, and Quality Assurance teams to support product lifecycle management.\n\n- Drive continuous improvement initiatives to enhance laboratory compliance, efficiency, and effectiveness.\n\n- Ensure activities comply with cGMP requirements, internal procedures, and regulatory expectations.\n\n- Perform training of other scientists in Analytical methods and related activities.\n\n- Creates and updates documents for analytical methods\n\nJob requirements:\n\n- Bachelor’s or master’s degree in technical discipline, (e.g., pharmacy, biotechnology, biochemistry, or a related field)\n\n- 5-10 years of experience in Pharmaceutical or Biopharmaceutical industry.\n\n- Proven experience in analytical method technology transfer and product lifecycle management.\n\n- Strong experience in managing CAPAs, Change Controls, Deviations, and complex analytical investigations.\n\n- Experience supporting regulatory submissions and responding to Health Authority queries.\n\n- Expert knowledge within field of expertise such as methods, techniques as well as relevant procedural/process knowledge\n\n- Open to flexible working hours.\n\n- Excellent written and verbal communication skills.\n\nWhat we offer:\n\n- An inspiring challenge to work with great co-workers on ambitious projects that change people's lives.\n\n- The chance to be a part of a global and fast-growing company.\n\n- An international work culture that encourages diversity, collaboration and inclusion.\n\n- Positive, flexible, and innovative work environment.\n\n- Support for personal growth and internal career development.\n\n- Company social events and milestone celebrations.\n\n- Excellent in-house canteen and coffee house.\n\n- Exercise and wellbeing support for full-time employees.\n\n- On-site shower facility.\n\n- Transportation grant towards eco-friendly modes of travel for full-time employees.\n\n- Internet at home for full-time employees.\n\nAbout Us\n\nAt Alvotech, we are building a global biotechnology company with a clear purpose: to expand access to high-quality, affordable biologic medicines for patients worldwide. Our people are central to that mission. Across our global teams, we bring together expertise in science, manufacturing, quality and commercial operations to shape the future of biosimilars.\n\nWe offer a dynamic, fast-moving environment where curiosity, initiative and ownership are encouraged. Rooted in Icelandic values and operating on a global stage, we value collaboration, diversity and integrity across everything we do. Our teams work on meaningful challenges, contribute directly to patient impact, and grow alongside the business.\n\nWhether you are at the start of your career or looking to take your next step, Alvotech offers the opportunity to do work that matters, in a company driven by purpose and scale.\n\nIf you do not see a role that matches your experience today, we still welcome general applications from individuals who share our ambition and want to help improve access to biologic medicines worldwide.",
+   "category": "operations",
+   "type": "full-time",
+   "experienceLevel": "mid",
+   "location": "Sæmundargata 15-19 15R, 101 Reykjavík",
+   "remote": "onsite",
+   "salary": null,
+   "postedDate": "2026-11-27",
+   "applicationUrl": "https://alfred.is/starf/senior-specialist-quality-control-3",
+   "featured": false,
+   "startup": true,
+   "status": "active",
+   "lastVerified": "2026-11-27"
+  },
+  {
    "id": 4476,
    "company": "Embla Medical | Össur",
    "companyLogo": null,
@@ -61,7 +80,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 4411,
@@ -80,7 +99,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 4412,
@@ -99,7 +118,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 4409,
@@ -118,7 +137,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 4364,
@@ -137,7 +156,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 4373,
@@ -156,7 +175,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 4405,
@@ -175,7 +194,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 4321,
@@ -194,7 +213,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 4319,
@@ -213,7 +232,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 4259,
@@ -232,7 +251,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 4210,
@@ -251,7 +270,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 4212,
@@ -270,7 +289,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 4219,
@@ -289,7 +308,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 4227,
@@ -308,7 +327,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 4222,
@@ -327,7 +346,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 4140,
@@ -346,7 +365,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 4126,
@@ -384,7 +403,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 4050,
@@ -403,7 +422,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 4006,
@@ -422,7 +441,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 3959,
@@ -479,7 +498,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 3949,
@@ -764,7 +783,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 3736,
@@ -783,7 +802,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 3686,
@@ -3025,7 +3044,7 @@
    "featured": false,
    "startup": true,
    "status": "filled",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 498,
@@ -9713,7 +9732,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 77,
@@ -9751,7 +9770,7 @@
    "featured": true,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 75,
@@ -9770,7 +9789,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 65,
@@ -9922,7 +9941,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 70,
@@ -9941,7 +9960,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 66,
@@ -9979,7 +9998,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 1361,
@@ -10302,7 +10321,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 55,
@@ -10397,7 +10416,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 38,
@@ -10492,7 +10511,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 2,
@@ -10511,7 +10530,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 14,
@@ -10549,7 +10568,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 4,
@@ -10568,7 +10587,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 9,
@@ -10587,7 +10606,7 @@
    "featured": false,
    "startup": false,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 12,
@@ -10606,7 +10625,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 13,
@@ -10663,7 +10682,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 8,
@@ -10682,7 +10701,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 6,
@@ -10701,7 +10720,7 @@
    "featured": false,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 1,
@@ -10720,7 +10739,7 @@
    "featured": true,
    "startup": true,
    "status": "active",
-   "lastVerified": "2026-11-26"
+   "lastVerified": "2026-11-27"
   },
   {
    "id": 10,
